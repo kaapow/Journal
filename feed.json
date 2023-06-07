@@ -7,10 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2023/06/05/it-feels-great.html",
+				
+				"content_html": "<p>It feels great stepping away from the internet for a while. I&rsquo;ve been devouring a book and sketching like crazy. It&rsquo;s taken a year for my mind to settle&hellip;that&rsquo;s what happens when you change countries for the umpteenth time I guess, but great to have my attention back.</p>\n",
+				"content_text": "It feels great stepping away from the internet for a while. I've been devouring a book and sketching like crazy. It's taken a year for my mind to settle...that's what happens when you change countries for the umpteenth time I guess, but great to have my attention back. \n",
+				"date_published": "2023-06-05T22:50:39-04:00",
+				"url": "https://www.kaa.bz/2023/06/05/it-feels-great.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/06/04/123313.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2023/df0f5ac7a7.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-04T12:33:13-04:00",
+				"url": "https://www.kaa.bz/2023/06/04/123313.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/06/03/feeling-inspired-to.html",
+				
+				"content_html": "<p>Feeling inspired to revisit these characters. I’ve not drawn them in <em>years</em>.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Feeling inspired to revisit these characters. I’ve not drawn them in _years_.\n\n<img src=\"uploads/2023/fc4a49bc96.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"date_published": "2023-06-03T20:02:00-04:00",
+				"url": "https://www.kaa.bz/2023/06/03/feeling-inspired-to.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/06/03/this-latest-video.html",
+				
+				"content_html": "<p>This <a href=\"https://www.youtube.com/watch?v=PCp1BmME6QA\">latest video</a> on Sony phones by MKBHD is really on point. I&rsquo;ve always been a big fan of Sony (and their Ericsson line of phone) and would happily get a dedicated camera phone (with no SIM card) if it really was $700.</p>\n",
+				"content_text": "This [latest video](https://www.youtube.com/watch?v=PCp1BmME6QA) on Sony phones by MKBHD is really on point. I've always been a big fan of Sony (and their Ericsson line of phone) and would happily get a dedicated camera phone (with no SIM card) if it really was $700.\n",
+				"date_published": "2023-06-03T14:55:43-04:00",
+				"url": "https://www.kaa.bz/2023/06/03/this-latest-video.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/06/03/one-of-my.html",
+				
+				"content_html": "<p>🎸 One of my favourite album cover artwork in a loooong time.</p>\n<p><img src=\"https://www.kaa.bz/uploads/2023/d4f84df5a5.jpeg\" alt=\"\"></p>\n",
+				"content_text": "🎸 One of my favourite album cover artwork in a loooong time.\n\n![](https://www.kaa.bz/uploads/2023/d4f84df5a5.jpeg)\n",
+				"date_published": "2023-06-03T13:45:01-04:00",
+				"url": "https://www.kaa.bz/2023/06/03/one-of-my.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/06/03/094515.html",
+				
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/2509/2023/ee28f50504.jpeg\" alt=\"\"></p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/2509/2023/ee28f50504.jpeg)\n",
+				"date_published": "2023-06-03T09:45:15-04:00",
+				"url": "https://www.kaa.bz/2023/06/03/094515.html",
+				"tags": ["WIP"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/06/01/231753.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/2509/2023/23e95c477e.png\" alt=\"Screenshot 2023 06 01 at 11 17 32 PM\" title=\"Screenshot 2023-06-01 at 11.17.32 PM.png\" border=\"0\" width=\"599\" height=\"418\" />\n",
+				"date_published": "2023-06-01T23:17:53-04:00",
+				"url": "https://www.kaa.bz/2023/06/01/231753.html",
+				"tags": ["Photos","WIP"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/06/01/i-bought-a.html",
+				
+				"content_html": "<p>I bought a KVM switch that looked great but effectively didn’t work properly. I replaced it with another switch that doesn’t have the same elegance in industrial design but does exactly what its supposed to. Reminded of the Steve Jobs quote:</p>\n<blockquote>\n<p>Design is not just what it looks like and feels like. Design is how it works.</p>\n</blockquote>\n",
+				"content_text": "I bought a KVM switch that looked great but effectively didn’t work properly. I replaced it with another switch that doesn’t have the same elegance in industrial design but does exactly what its supposed to. Reminded of the Steve Jobs quote:\n\n> Design is not just what it looks like and feels like. Design is how it works.\n",
+				"date_published": "2023-06-01T21:10:44-04:00",
+				"url": "https://www.kaa.bz/2023/06/01/i-bought-a.html"
+			},
+			{
 				"id": "http://kaa.micro.blog/2023/05/31/200137.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2023/b6b28c9e0d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2023/b6b28c9e0d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-31T20:01:37-04:00",
 				"url": "https://www.kaa.bz/2023/05/31/200137.html",
 				"tags": ["Photos"]
@@ -20981,8 +21049,8 @@
 			{
 				"id": "http://kaa.micro.blog/2013/06/05/byword.html",
 				"title": "Byword 2",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>The latest version of Byword was released yesterday for all devices. The most exciting addition being the ability to publish to Tumblr directly from the app itself. I&rsquo;m not completely convinced by the new yellow accents this new version brings however (mainly found in the radio buttons).</p><br /><a href='http://bywordapp.com/'>Byword 2</a>\n",
+				"content_html": "<p>The latest version of <!-- raw HTML omitted -->Byword 2<!-- raw HTML omitted --> was released yesterday for all devices. The most exciting addition being the ability to publish to Tumblr directly from the app itself. I’m not completely convinced by the new yellow accents this new version brings however (mainly found in the radio buttons).</p>\n",
+				"content_text": "The latest version of <a href='http://bywordapp.com/'>Byword 2</a> was released yesterday for all devices. The most exciting addition being the ability to publish to Tumblr directly from the app itself. I’m not completely convinced by the new yellow accents this new version brings however (mainly found in the radio buttons).\n",
 				"date_published": "2013-06-05T16:06:00-04:00",
 				"url": "https://www.kaa.bz/2013/06/06/byword.html",
 				"tags": ["Articles"]
