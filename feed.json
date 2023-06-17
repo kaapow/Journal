@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2023/06/17/patio-coffee-time.html",
+				
+				"content_html": "<p>Patio coffee time.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Patio coffee time.\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-17T07:19:05-04:00",
+				"url": "https://www.kaa.bz/2023/06/17/patio-coffee-time.html",
+				"tags": ["Photos","Coffee"]
+			},
+			{
 				"id": "http://kaa.micro.blog/2023/06/11/spent-the-afternoon.html",
 				
 				"content_html": "<p>Spent the afternoon with Ryan pottering around the garage (fixing bikes, recycling for the week, general clean-up), and was transported to my own childhood following my dad as he did his handyman impression (to varying degrees of success). Need to write about one of my favourite tools which has become my pocket knife. Use this thing all the time and really wonder how I managed previously without one.</p>\n",
@@ -73,6 +82,14 @@
 				"url": "https://www.kaa.bz/2023/06/06/vision-pro-super.html"
 			},
 			{
+				"id": "http://kaa.micro.blog/2023/06/06/its-been-a.html",
+				
+				"content_html": "<p>It’s been a <em>seriously</em> long time since I was super excited to pick up a pencil and sketch. They are Corgan doodles but they have been seriously fun. Exploring and slowly uncovering something that has existed inside me for so long. Next stop will be to write some scripts - which I feel I need to make a equal evolution.</p>\n",
+				"content_text": "It’s been a _seriously_ long time since I was super excited to pick up a pencil and sketch. They are Corgan doodles but they have been seriously fun. Exploring and slowly uncovering something that has existed inside me for so long. Next stop will be to write some scripts - which I feel I need to make a equal evolution.\n",
+				"date_published": "2023-06-06T23:17:02-04:00",
+				"url": "https://www.kaa.bz/2023/06/06/its-been-a.html"
+			},
+			{
 				"id": "http://kaa.micro.blog/2023/06/05/it-feels-great.html",
 				
 				"content_html": "<p>It feels great stepping away from the internet for a while. I&rsquo;ve been devouring a book and sketching like crazy. It&rsquo;s taken a year for my mind to settle&hellip;that&rsquo;s what happens when you change countries for the umpteenth time I guess, but great to have my attention back.</p>\n",
@@ -84,7 +101,7 @@
 				"id": "http://kaa.micro.blog/2023/06/04/123313.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2023/df0f5ac7a7.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2023/df0f5ac7a7.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-04T12:33:13-04:00",
 				"url": "https://www.kaa.bz/2023/06/04/123313.html",
 				"tags": ["Photos"]
@@ -93,7 +110,7 @@
 				"id": "http://kaa.micro.blog/2023/06/03/feeling-inspired-to.html",
 				
 				"content_html": "<p>Feeling inspired to revisit these characters. I’ve not drawn them in <em>years</em>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Feeling inspired to revisit these characters. I’ve not drawn them in _years_.\n\n<img src=\"uploads/2023/fc4a49bc96.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"content_text": "Feeling inspired to revisit these characters. I’ve not drawn them in _years_.\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2023/fc4a49bc96.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
 				"date_published": "2023-06-03T20:02:00-04:00",
 				"url": "https://www.kaa.bz/2023/06/03/feeling-inspired-to.html",
 				"tags": ["Photos"]
@@ -109,8 +126,8 @@
 			{
 				"id": "http://kaa.micro.blog/2023/06/03/one-of-my.html",
 				
-				"content_html": "<p>🎸 One of my favourite album cover artwork in a loooong time.</p>\n<p><img src=\"https://www.kaa.bz/uploads/2023/d4f84df5a5.jpeg\" alt=\"\"></p>\n",
-				"content_text": "🎸 One of my favourite album cover artwork in a loooong time.\n\n![](https://www.kaa.bz/uploads/2023/d4f84df5a5.jpeg)\n",
+				"content_html": "<p>🎸 One of my favourite album cover artwork in a loooong time.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/2509/2023/d4f84df5a5.jpeg\" alt=\"\"></p>\n",
+				"content_text": "🎸 One of my favourite album cover artwork in a loooong time.\n\n![](https://cdn.uploads.micro.blog/2509/2023/d4f84df5a5.jpeg)\n",
 				"date_published": "2023-06-03T13:45:01-04:00",
 				"url": "https://www.kaa.bz/2023/06/03/one-of-my.html"
 			},
@@ -377,8 +394,8 @@
 			{
 				"id": "http://kaa.micro.blog/2023/05/13/today-was-pretty.html",
 				
-				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/2509/2023/593e02838f.jpg\" alt=\"\"> Today was pretty tiring…but good fun with the kids.</p>\n",
-				"content_text": "![](https://cdn.uploads.micro.blog/2509/2023/593e02838f.jpg) Today was pretty tiring…but good fun with the kids.\n",
+				"content_html": "<p>Today was pretty tiring…but good fun with the kids.</p>\n",
+				"content_text": "Today was pretty tiring…but good fun with the kids.\n",
 				"date_published": "2023-05-13T21:15:43-04:00",
 				"url": "https://www.kaa.bz/2023/05/13/today-was-pretty.html"
 			},
