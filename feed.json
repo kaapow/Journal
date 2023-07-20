@@ -7,6 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2023/07/17/been-practicing-my.html",
+				
+				"content_html": "<p>Been practicing my chess using the wonderful <a href=\"https://apps.apple.com/ca/app/chessmate-beautiful-chess/id1446084937\">Chessmate</a>. It’s like the iA Writer of chess games.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Been practicing my chess using the wonderful [Chessmate](https://apps.apple.com/ca/app/chessmate-beautiful-chess/id1446084937). It’s like the iA Writer of chess games.\n\n<img src=\"uploads/2023/6f302a9399.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-07-17T23:23:08-04:00",
+				"url": "https://www.kaa.bz/2023/07/17/been-practicing-my.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/07/16/feels-really-great.html",
+				
+				"content_html": "<p>Feels really great getting back into writing about the built environment. I am exercising a completely different muscle here, considering it’s less education and more <em>opinion</em>. By default it will probably be more angry in tone but it’s more from a position of frustration, from someone who knows we can do better if we applied ourselves and changed our attitudes to what we are entitled to, what we desire and what we need.</p>\n",
+				"content_text": "Feels really great getting back into writing about the built environment. I am exercising a completely different muscle here, considering it’s less education and more _opinion_. By default it will probably be more angry in tone but it’s more from a position of frustration, from someone who knows we can do better if we applied ourselves and changed our attitudes to what we are entitled to, what we desire and what we need. \n",
+				"date_published": "2023-07-16T18:51:26-04:00",
+				"url": "https://www.kaa.bz/2023/07/16/feels-really-great.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/07/16/the-boy-and.html",
+				
+				"content_html": "<p><img src=\"https://www.kaa.bz/uploads/2023/img-4308.jpeg\" alt=\"\"></p>\n<p><em>The Boy and the Heron</em>, was released on Friday in Japan and is Miyazaki coming out of retirement. Miyazaki is <em>definitely</em> following in the footsteps of another Japanese great, Osamu Tezuka, whose last words were:</p>\n<blockquote>\n<p>I&rsquo;m begging you, let me work!</p>\n</blockquote>\n",
+				"content_text": "![](https://www.kaa.bz/uploads/2023/img-4308.jpeg)\n\n_The Boy and the Heron_, was released on Friday in Japan and is Miyazaki coming out of retirement. Miyazaki is _definitely_ following in the footsteps of another Japanese great, Osamu Tezuka, whose last words were:\n\n>  I'm begging you, let me work!\n",
+				"date_published": "2023-07-16T13:57:48-04:00",
+				"url": "https://www.kaa.bz/2023/07/16/the-boy-and.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/07/15/absolutely-fascinating-video.html",
+				
+				"content_html": "<p>Absolutely <a href=\"https://www.youtube.com/watch?v=nl0E-UhKB5E\">fascinating video</a> about the cost of lithium mining in both Chile and Bolivia. The last scene with the graveyard of trains really hit home, how places with extreme wealth in natural resources, are always the subject of colonialism and exploitation, leaving little back to help improve the local population. Why is it that some places protect these resources for their people and other places, have never been capable of doing this. Also hadn&rsquo;t heard of direct lithium extraction, so will be diving into that a little bit.</p>\n",
+				"content_text": "Absolutely [fascinating video](https://www.youtube.com/watch?v=nl0E-UhKB5E) about the cost of lithium mining in both Chile and Bolivia. The last scene with the graveyard of trains really hit home, how places with extreme wealth in natural resources, are always the subject of colonialism and exploitation, leaving little back to help improve the local population. Why is it that some places protect these resources for their people and other places, have never been capable of doing this. Also hadn't heard of direct lithium extraction, so will be diving into that a little bit. \n",
+				"date_published": "2023-07-15T19:54:38-04:00",
+				"url": "https://www.kaa.bz/2023/07/15/absolutely-fascinating-video.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/07/15/when-we-arrived.html",
+				
+				"content_html": "<p>When we arrived from Florida, the temperature was starting to turn. Ryan was adamant that he wanted his bike. We tried to reason with him. We tried negotiating. We tried ignoring the subject. In the end the 5 year old won and we got him a small bike, thinking he might not even get to ride it in the winter and he would have outgrown it by the summer - I even kept the box in case we needed to return it.</p>\n<p>Turns out it is by far Ryans most prized possession that he did use it a ton in the winter (which was mild I understand) and hasn’t outgrown it completely. Sometimes you have to listen to the five year old.</p>\n",
+				"content_text": "When we arrived from Florida, the temperature was starting to turn. Ryan was adamant that he wanted his bike. We tried to reason with him. We tried negotiating. We tried ignoring the subject. In the end the 5 year old won and we got him a small bike, thinking he might not even get to ride it in the winter and he would have outgrown it by the summer - I even kept the box in case we needed to return it.\n\nTurns out it is by far Ryans most prized possession that he did use it a ton in the winter (which was mild I understand) and hasn’t outgrown it completely. Sometimes you have to listen to the five year old.\n",
+				"date_published": "2023-07-15T07:13:21-04:00",
+				"url": "https://www.kaa.bz/2023/07/15/when-we-arrived.html"
+			},
+			{
 				"id": "http://kaa.micro.blog/2023/07/13/huh-hst-tax.html",
 				
 				"content_html": "<p>Huh. HST (Tax) is now applicable on personal purchases made from private buyers on eBay. What a load of crock. Tax has already been paid on this good. I’m all for paying my share, but this <em>seems</em> wrong.</p>\n",
