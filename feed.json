@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2023/09/18/its-hoodie-season.html",
+				
+				"content_html": "<p>🍂 It’s hoodie season. To celebrate got myself a brown/hazel coloured one for 2023. Maybe this becomes a yearly tradition.</p>\n",
+				"content_text": "🍂 It’s hoodie season. To celebrate got myself a brown/hazel coloured one for 2023. Maybe this becomes a yearly tradition.\n",
+				"date_published": "2023-09-18T09:06:23-04:00",
+				"url": "https://www.kaa.bz/2023/09/18/its-hoodie-season.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/09/17/politics-on-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p><a href=\"https://www.penguin.co.uk/books/442034/politics-on-the-edge-by-stewart-rory/9781787332713\">Politics On the Edge</a> by Rory Stewart. I stumbled on Rory several years ago and in him found a politician I could look up to. Maybe because he has some clear mannerisms with a really close friend of mine? Either way, he’s got a new book out and the cover is epic. Also seems to be coming under a different name in North America, <em>How Not To be a Politician</em>. The cover is also just not as good…</p>\n<p><img src=\"https://www.kaa.bz/uploads/2023/img-4604.jpeg\" alt=\"\"></p>\n",
+				"content_text": "<img src=\"uploads/2023/815lnu8zu7l.-sl1500-.jpg\" width=\"600\" height=\"923\" alt=\"\">\n\n[Politics On the Edge](https://www.penguin.co.uk/books/442034/politics-on-the-edge-by-stewart-rory/9781787332713) by Rory Stewart. I stumbled on Rory several years ago and in him found a politician I could look up to. Maybe because he has some clear mannerisms with a really close friend of mine? Either way, he’s got a new book out and the cover is epic. Also seems to be coming under a different name in North America, _How Not To be a Politician_. The cover is also just not as good…\n\n![](https://www.kaa.bz/uploads/2023/img-4604.jpeg)\n",
+				"date_published": "2023-09-17T21:37:08-04:00",
+				"url": "https://www.kaa.bz/2023/09/17/politics-on-the.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/09/15/usually-come-friday.html",
+				
+				"content_html": "<p>🍻 Usually come Friday I am totally smashed and feel like I need a beer. Today, even though it’s been a long hard week, there has been successes and failures but today I absolutely don’t have the craving at all.</p>\n",
+				"content_text": "🍻 Usually come Friday I am totally smashed and feel like I need a beer. Today, even though it’s been a long hard week, there has been successes and failures but today I absolutely don’t have the craving at all. \n",
+				"date_published": "2023-09-15T17:19:05-04:00",
+				"url": "https://www.kaa.bz/2023/09/15/usually-come-friday.html"
+			},
+			{
 				"id": "http://kaa.micro.blog/2023/09/13/just-me-an.html",
 				
 				"content_html": "<p>Just me an Zane in the house this week. It’s amazing the chaos that is inflicted on a house with four people in it. Makes me wonder how my grandmother was dealing with 9-10 people in the house. Madness really.</p>\n",
@@ -34,7 +58,7 @@
 				"id": "http://kaa.micro.blog/2023/09/10/105444.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2023/01c9b974fe.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2023/01c9b974fe.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-10T10:54:44-04:00",
 				"url": "https://www.kaa.bz/2023/09/10/105444.html",
 				"tags": ["Photos"]
@@ -43,7 +67,7 @@
 				"id": "http://kaa.micro.blog/2023/09/10/ah-le-beau.html",
 				
 				"content_html": "<p>Ah, Le Beau!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ah, Le Beau!\n\n<img src=\"uploads/2023/0e1bf95cea.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Ah, Le Beau!\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2023/0e1bf95cea.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-10T02:57:01-04:00",
 				"url": "https://www.kaa.bz/2023/09/10/ah-le-beau.html",
 				"tags": ["Photos"]
