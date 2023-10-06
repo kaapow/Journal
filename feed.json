@@ -7,6 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2023/10/03/a-reasonably-tough.html",
+				
+				"content_html": "<p>A reasonably tough start to the week on the kids side. Both going through their own issues. Both pretty difficult to resolve as a parent. Not because I don’t have resolutions, but because these might not really be possible to a 5YO and 9YO.</p>\n",
+				"content_text": "A reasonably tough start to the week on the kids side. Both going through their own issues. Both pretty difficult to resolve as a parent. Not because I don’t have resolutions, but because these might not really be possible to a 5YO and 9YO.\n",
+				"date_published": "2023-10-03T09:11:40-04:00",
+				"url": "https://www.kaa.bz/2023/10/03/a-reasonably-tough.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/10/01/great-video-explaining.html",
+				
+				"content_html": "<p>Great video explaining some of the wild ambitions by Japanese architects in the 60s to reclaim (in the land context) the Tokyo bay.<a href=\"https://m.youtube.com/watch?v=ZADlkbr7Avg\">The $41 Billion Plan for Tokyo</a>.</p>\n",
+				"content_text": "Great video explaining some of the wild ambitions by Japanese architects in the 60s to reclaim (in the land context) the Tokyo bay.[The $41 Billion Plan for Tokyo](https://m.youtube.com/watch?v=ZADlkbr7Avg).\n",
+				"date_published": "2023-10-01T20:38:28-04:00",
+				"url": "https://www.kaa.bz/2023/10/01/great-video-explaining.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/09/30/on-the-b.html",
+				
+				"content_html": "<p>On the boat.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "On the boat.\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/2509/2023/d43d3a205f.mov\" width=\"100%\" height=\"100%\" poster=\"https://www.kaa.bz/uploads/2023/334ed56ace.png\" preload=\"none\"></video>\n",
+				"date_published": "2023-09-30T22:26:40-04:00",
+				"url": "https://www.kaa.bz/2023/09/30/on-the-b.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/09/30/193838.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2023/eaea0c9030.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-30T19:38:38-04:00",
+				"url": "https://www.kaa.bz/2023/09/30/193838.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/09/30/a-different-view.html",
+				
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/2509/2023/e73fff62-fbdc-4af6-b4bb-236bb30d3b14.jpg\" alt=\"\">\nA different view of Toronto.</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/2509/2023/e73fff62-fbdc-4af6-b4bb-236bb30d3b14.jpg)\nA different view of Toronto.\n",
+				"date_published": "2023-09-30T10:58:23-04:00",
+				"url": "https://www.kaa.bz/2023/09/30/a-different-view.html"
+			},
+			{
 				"id": "http://kaa.micro.blog/2023/09/26/not-sure-where.html",
 				
 				"content_html": "<p>Not sure where he saw this, but on the way to school Zane asked me if he could buy a VR headset. To which I was like, ‘Hell no. Boy, do you even know what a VR headset is?’ His response was surprisingly accurate, although he’s clearly not heard that the Apple VR doesn’t need controllers in your hand…still think it’s a stupid product category.</p>\n",
