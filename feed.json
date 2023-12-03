@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2023/12/01/after-a-little.html",
+				
+				"content_html": "<p>After a little over a year in Canada, I can definitely say that I honestly believe that Toronto has some of the <em>worst</em> graphic design of any city I’ve lived in. I think I’ll start taking some photo evidence to demonstrate. It’s soo, soo bad.</p>\n",
+				"content_text": "After a little over a year in Canada, I can definitely say that I honestly believe that Toronto has some of the _worst_ graphic design of any city I’ve lived in. I think I’ll start taking some photo evidence to demonstrate. It’s soo, soo bad.\n",
+				"date_published": "2023-12-01T19:36:35-05:00",
+				"url": "https://www.kaa.bz/2023/12/01/after-a-little.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/12/01/it-took-me.html",
+				
+				"content_html": "<p>☕️ It took me a while, but I finally found my coffee beans purveyor of choice in Toronto, <a href=\"https://www.pilotcoffeeroasters.com/\">Pilot Coffee Roasters</a>. Great quality. Solid selection. My only suggestion is increasing their Japanese tea selection (looking for some Hojicha).</p>\n",
+				"content_text": "☕️ It took me a while, but I finally found my coffee beans purveyor of choice in Toronto, [Pilot Coffee Roasters](https://www.pilotcoffeeroasters.com/). Great quality. Solid selection. My only suggestion is increasing their Japanese tea selection (looking for some Hojicha).\n",
+				"date_published": "2023-12-01T07:05:42-05:00",
+				"url": "https://www.kaa.bz/2023/12/01/it-took-me.html",
+				"tags": ["Coffee"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/11/28/it-takes-an.html",
+				
+				"content_html": "<p>It takes an incredible amount of effort to put a book together. My plan is to release one a year into the wilderness. Increasingly this is not about sales (because I’m doing it all wrong if it was), but it’s about seeing a project through. How it fares in the big cold world is beyond my control.</p>\n",
+				"content_text": "It takes an incredible amount of effort to put a book together. My plan is to release one a year into the wilderness. Increasingly this is not about sales (because I’m doing it all wrong if it was), but it’s about seeing a project through. How it fares in the big cold world is beyond my control.\n",
+				"date_published": "2023-11-28T08:11:05-05:00",
+				"url": "https://www.kaa.bz/2023/11/28/it-takes-an.html"
+			},
+			{
 				"id": "http://kaa.micro.blog/2023/11/25/things-have-to.html",
 				
 				"content_html": "<p>Things have to move around a little once the final trade dress constraints come in. Book has been ready for several months, but needed to get this cover sorted first. Now time to pull it all together.</p>\n<!-- raw HTML omitted -->\n",
@@ -28,7 +53,7 @@
 				"id": "http://kaa.micro.blog/2023/11/24/trade-dress-coming.html",
 				
 				"content_html": "<p>Trade dress coming along…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Trade dress coming along…\n\n<img src=\"uploads/2023/img-0443.jpeg\" width=\"600\" height=\"379\" alt=\"\">\n",
+				"content_text": "Trade dress coming along…\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2023/img-0443.jpeg\" width=\"600\" height=\"379\" alt=\"\">\n",
 				"date_published": "2023-11-24T21:53:59-05:00",
 				"url": "https://www.kaa.bz/2023/11/24/trade-dress-coming.html",
 				"tags": ["Photos","Moon Racket"]
@@ -46,7 +71,7 @@
 				"id": "http://kaa.micro.blog/2023/11/19/cover-is-coming.html",
 				
 				"content_html": "<p>Cover is coming together.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cover is coming together.\n\n<img src=\"uploads/2023/c4e0f710cd.png\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "Cover is coming together.\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2023/c4e0f710cd.png\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2023-11-19T18:05:52-05:00",
 				"url": "https://www.kaa.bz/2023/11/19/cover-is-coming.html",
 				"tags": ["Photos"]
