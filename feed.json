@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2023/12/07/181451.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2023/80671f2b78.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-07T18:14:51-05:00",
+				"url": "https://www.kaa.bz/2023/12/07/181451.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/12/07/125833.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2023/d2d89f2bf7.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-07T12:58:33-05:00",
+				"url": "https://www.kaa.bz/2023/12/07/125833.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2023/12/03/the-project-for.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>The project for 2023 was the <em>Moon Racket!</em> collection, Ambient Hum. This one has been long in production. It’s nice to have a single place with all these stories collected.</p>\n",
+				"content_text": "<img src=\"uploads/2023/8277174e-db12-4fd6-8119-6fe52085b056.jpg\" alt=\"Photo of my book Moon Racket! Cover \" />\n\nThe project for 2023 was the _Moon Racket!_ collection, Ambient Hum. This one has been long in production. It’s nice to have a single place with all these stories collected.\n",
+				"date_published": "2023-12-03T16:00:11-05:00",
+				"url": "https://www.kaa.bz/2023/12/03/the-project-for.html",
+				"tags": ["Photos","Moon Racket"]
+			},
+			{
 				"id": "http://kaa.micro.blog/2023/12/01/after-a-little.html",
 				
 				"content_html": "<p>After a little over a year in Canada, I can definitely say that I honestly believe that Toronto has some of the <em>worst</em> graphic design of any city I’ve lived in. I think I’ll start taking some photo evidence to demonstrate. It’s soo, soo bad.</p>\n",
@@ -35,7 +62,7 @@
 				"id": "http://kaa.micro.blog/2023/11/25/things-have-to.html",
 				
 				"content_html": "<p>Things have to move around a little once the final trade dress constraints come in. Book has been ready for several months, but needed to get this cover sorted first. Now time to pull it all together.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Things have to move around a little once the final trade dress constraints come in. Book has been ready for several months, but needed to get this cover sorted first. Now time to pull it all together.\n\n<img src=\"uploads/2023/img-0445.jpeg\" width=\"600\" height=\"219\" alt=\"\">\n",
+				"content_text": "Things have to move around a little once the final trade dress constraints come in. Book has been ready for several months, but needed to get this cover sorted first. Now time to pull it all together.\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2023/img-0445.jpeg\" width=\"600\" height=\"219\" alt=\"\">\n",
 				"date_published": "2023-11-25T09:20:48-05:00",
 				"url": "https://www.kaa.bz/2023/11/25/things-have-to.html",
 				"tags": ["Photos","Moon Racket"]
@@ -44,7 +71,7 @@
 				"id": "http://kaa.micro.blog/2023/11/25/the-cover-is.html",
 				
 				"content_html": "<p>The cover is finally done! Lots to talk about, but just super happy that all the pieces of the book are now complete.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The cover is finally done! Lots to talk about, but just super happy that all the pieces of the book are now complete.\n\n<img src=\"uploads/2023/img-0444.jpeg\" width=\"600\" height=\"229\" alt=\"\">\n",
+				"content_text": "The cover is finally done! Lots to talk about, but just super happy that all the pieces of the book are now complete.\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2023/img-0444.jpeg\" width=\"600\" height=\"229\" alt=\"\">\n",
 				"date_published": "2023-11-25T04:28:47-05:00",
 				"url": "https://www.kaa.bz/2023/11/25/the-cover-is.html",
 				"tags": ["Photos"]
