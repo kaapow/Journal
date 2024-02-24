@@ -7,6 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2024/02/23/the-last-months.html",
+				
+				"content_html": "<p>The last 6 months have been dedicated to a <em>major</em> project at work. It’s been both satisfying and incredibly taxing period that I will look back on with some fondness and relief that it’s over. It has taken a hit on everything else in my life, so I’m really looking forward to putting my head up again and seeing what else is going on around me. Timing is great as the weather is slowly turning a corner and looking forward to the start of unlocking.</p>\n",
+				"content_text": "The last 6 months have been dedicated to a _major_ project at work. It’s been both satisfying and incredibly taxing period that I will look back on with some fondness and relief that it’s over. It has taken a hit on everything else in my life, so I’m really looking forward to putting my head up again and seeing what else is going on around me. Timing is great as the weather is slowly turning a corner and looking forward to the start of unlocking.  \n",
+				"date_published": "2024-02-23T21:00:55-05:00",
+				"url": "https://www.kaa.bz/2024/02/23/the-last-months.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/02/23/of-course-someone.html",
+				
+				"content_html": "<p>Of course someone like Joe Sacco would be able to deliver something meaningful about <a href=\"https://www.tcj.com/topic/the-war-on-gaza/\">The War on Gaza</a>. I try to keep away from this subject as it really does take over my mind and I cannot disconnect from it.</p>\n",
+				"content_text": "Of course someone like Joe Sacco would be able to deliver something meaningful about [The War on Gaza](https://www.tcj.com/topic/the-war-on-gaza/). I try to keep away from this subject as it really does take over my mind and I cannot disconnect from it.\n",
+				"date_published": "2024-02-23T16:47:10-05:00",
+				"url": "https://www.kaa.bz/2024/02/23/of-course-someone.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/02/22/logo-rhythm-by.html",
+				
+				"content_html": "<p><a href=\"https://www.kickstarter.com/projects/logorhythm/logo-rhythm\">Logo Rhythm by Jamie Ellul</a>. Haven’t backed a Kickstarter in years. This might get me out of retirement.</p>\n",
+				"content_text": "[Logo Rhythm by Jamie Ellul](https://www.kickstarter.com/projects/logorhythm/logo-rhythm). Haven’t backed a Kickstarter in years. This might get me out of retirement.\n",
+				"date_published": "2024-02-22T20:50:18-05:00",
+				"url": "https://www.kaa.bz/2024/02/22/logo-rhythm-by.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/02/21/astropad-have-released.html",
+				
+				"content_html": "<p>Astropad have released version 2 of their <a href=\"https://shop.astropad.com/collections/shop-astropad/products/rock-paper-pencil\">Rock Paper Pencil iPad Screen Protector and Apple Pencil Tips</a>.</p>\n<p>Was looking to buy this a couple of weeks ago, glad I waited.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Astropad have released version 2 of their [Rock Paper Pencil iPad Screen Protector and Apple Pencil Tips](https://shop.astropad.com/collections/shop-astropad/products/rock-paper-pencil).\n\nWas looking to buy this a couple of weeks ago, glad I waited.\n\n<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/913725502?h=4221248393\" width=\"100%\" frameborder=\"0\"    allowfullscreen></iframe>\n",
+				"date_published": "2024-02-21T18:08:47-05:00",
+				"url": "https://www.kaa.bz/2024/02/21/astropad-have-released.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/02/19/205700.html",
+				"title": "The BIRD Brewer",
+				"content_html": "<p><a href=\"https://weberworkshops.com/products/bird\">The BIRD</a><sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> brewer costs a cool $360 (US) and introduces the world to a unique brewing mechanism. It is a cross between a French press and an AeroPress, made from premium materials and looks to bridge a brewing gap between pour overs and espressos.</p>\n<!-- raw HTML omitted -->\n<p>This review from <a href=\"https://www.youtube.com/watch?v=O24ErS50Q6k\">Lance Hedrick</a> pits it against a whole bunch of alternative brewers trying to replicate the outcome (some using a similar-ish method, but none as elegant, or quite the same). The quick take is that while the profile can be replicated with other techniques/brewers, none as elegant as the BIRD.</p>\n<p>It is currently out of stock- which does not come as a surprise. Smaller businesses, whether they are micro-brand watches, stationary, iPhone accessories or in this case coffee brewers typically have this issue if they have anything remotely successful.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>BIRD stands for Brew In Reverse Direction and is a non-bypass brewer.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "[The BIRD](https://weberworkshops.com/products/bird)[^1] brewer costs a cool $360 (US) and introduces the world to a unique brewing mechanism. It is a cross between a French press and an AeroPress, made from premium materials and looks to bridge a brewing gap between pour overs and espressos.\n\n<img src=\"uploads/2024/img-0681.jpeg\" width=\"600\" height=\"594\" alt=\"\">\n\nThis review from [Lance Hedrick](https://www.youtube.com/watch?v=O24ErS50Q6k) pits it against a whole bunch of alternative brewers trying to replicate the outcome (some using a similar-ish method, but none as elegant, or quite the same). The quick take is that while the profile can be replicated with other techniques/brewers, none as elegant as the BIRD.\n\nIt is currently out of stock- which does not come as a surprise. Smaller businesses, whether they are micro-brand watches, stationary, iPhone accessories or in this case coffee brewers typically have this issue if they have anything remotely successful. \n\n[^1]: BIRD stands for Brew In Reverse Direction and is a non-bypass brewer.\n",
+				"date_published": "2024-02-19T20:57:00-05:00",
+				"url": "https://www.kaa.bz/2024/02/19/205700.html",
+				"tags": ["Articles","Coffee"]
+			},
+			{
 				"id": "http://kaa.micro.blog/2024/02/19/even-the-birds.html",
 				
 				"content_html": "<p>Even the birds are confused by the weather. It’s the middle of February and I can hear a bunch of birds chirping away in the background. It’s spring already? Nope. Not yet.</p>\n",
@@ -60,10 +101,10 @@
 				"id": "http://kaa.micro.blog/2024/02/11/222806.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2024/img-0455.png\" width=\"600\" height=\"449\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2509/2024/76e74c8223.png\" width=\"600\" height=\"449\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2509/2024/c36a695287.png\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"uploads/2024/img-0455.png\" width=\"600\" height=\"449\" alt=\"\"><img src=\"uploads/2024/76e74c8223.png\" width=\"600\" height=\"449\" alt=\"\"><img src=\"uploads/2024/c36a695287.png\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2024-02-11T22:28:06-05:00",
 				"url": "https://www.kaa.bz/2024/02/11/222806.html",
-				"tags": ["Photos"]
+				"tags": ["Photos","Moon Racket"]
 			},
 			{
 				"id": "http://kaa.micro.blog/2024/02/11/moon-racket-february.html",
@@ -6734,14 +6775,6 @@
 				"content_text": "It has been a long winter. Long and dark. The darkness is now receding away and the weather, while cold feels _fresh_. My mood is lifting. We are now getting back into a rhythm and existing hibernation. Thankfully winter is drawing to a close as we enter _unlocking_.\n",
 				"date_published": "2022-02-27T12:10:00-05:00",
 				"url": "https://www.kaa.bz/2022/02/27/it-has-been.html"
-			},
-			{
-				"id": "http://kaa.micro.blog/2022/02/24/micro-camp-presentations.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n<p>Really looking forward to participating in this years Micro Camp.</p>\n",
-				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Jean MacDonald \" data-avatar=\"https://micro.blog/jean/avatar.jpg\" cite=\"https://micro.welltempered.net/2022/02/24/micro-camp-presentations.html\"><a href=\"https://micro.welltempered.net/2022/02/24/micro-camp-presentations.html\">Micro Camp Presentations Schedule </a><footer>Jean MacDonald  <cite><a href=\"https://micro.welltempered.net/2022/02/24/micro-camp-presentations.html\">https://micro.welltempered.net/2022/02/24/micro-camp-presentations.html</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\n\r\nReally looking forward to participating in this years Micro Camp. \r\n",
-				"date_published": "2022-02-24T16:03:50-05:00",
-				"url": "https://www.kaa.bz/2022/02/24/micro-camp-presentations.html"
 			},
 			{
 				"id": "http://kaa.micro.blog/2022/02/24/watching-war-unfold.html",
