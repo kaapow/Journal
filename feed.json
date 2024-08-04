@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2024/08/03/big-fan-of.html",
+				
+				"content_html": "<p>Big fan of Ottolenghi cook books. I’ve used a few of the recipes recently (one today in fact) and it’s exactly the kind of colour and flavour that I absolutely love. The thing is that these books actually benefit from being physical items rather than entries into an app like Mela (which I love). I tend not to buy many books anymore, because of the whole Toronto Public Library thing, but I might make an exception for these books.</p>\n",
+				"content_text": "Big fan of Ottolenghi cook books. I’ve used a few of the recipes recently (one today in fact) and it’s exactly the kind of colour and flavour that I absolutely love. The thing is that these books actually benefit from being physical items rather than entries into an app like Mela (which I love). I tend not to buy many books anymore, because of the whole Toronto Public Library thing, but I might make an exception for these books.\n",
+				"date_published": "2024-08-03T17:56:35-04:00",
+				"url": "https://www.kaa.bz/2024/08/03/big-fan-of.html",
+				"tags": ["Toronto"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/08/03/finished-reading-slow.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593829714\">Slow Productivity</a> by Cal Newport 📚. Nothing majorly new in this book (for anyone that has been paying to Newport’s podcast, but its nice to find out about all these stories. I also went for the audiobook and I tend to enjoy Cal on his own.</p>\n",
+				"content_text": "Finished reading: [Slow Productivity](https://micro.blog/books/9780593829714) by Cal Newport 📚. Nothing majorly new in this book (for anyone that has been paying to Newport’s podcast, but its nice to find out about all these stories. I also went for the audiobook and I tend to enjoy Cal on his own. \n",
+				"date_published": "2024-08-03T17:48:55-04:00",
+				"url": "https://www.kaa.bz/2024/08/03/finished-reading-slow.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/07/29/international-brokerage-for.html",
+				"title": "International Brokerage for Serial Emigrants (or Expats)",
+				"content_html": "<p>Even after reading <em>The Simple Path to Wealth</em>, it is clear that across all the different countries and their regulations (and bullshit), governments want to keep you poor. If this was simple then everyone would be able to do it pretty quickly. Rather even after someone tries to decipher it all, there is still an immense amount of friction that intentionally makes things harder. It&rsquo;s even harder for those of us who enjoy a more mobile serial emigrant lifestyle.</p>\n<p>Having lived and worked in seven countries, finding a place that will allow me to invest and keep things mobile is actually an exceedingly small number. The only one that I have found is <a href=\"https://www.interactivebrokers.com/\">Interactive Brokers</a> - that is available in all the countries I have ever lived and worked in. I don&rsquo;t know when they expanded into all these countries (or if they always operated in these countries), but this a massive win and feather in their cap.</p>\n<p>Can&rsquo;t really comment on how good a service it is, but having the <em>ability</em> to move my investments wherever life takes me is a truly unique feature and worth other possible pain points.</p>\n<p>The only other brokerage that came up in my limited search was Saxo (out of Denmark) and Charles Schwab, except BOTH are not available in Canada, so I would need to move everything over to Interactive Brokers if we ever decided to move.</p>\n",
+				"content_text": "Even after reading _The Simple Path to Wealth_, it is clear that across all the different countries and their regulations (and bullshit), governments want to keep you poor. If this was simple then everyone would be able to do it pretty quickly. Rather even after someone tries to decipher it all, there is still an immense amount of friction that intentionally makes things harder. It's even harder for those of us who enjoy a more mobile serial emigrant lifestyle. \n\nHaving lived and worked in seven countries, finding a place that will allow me to invest and keep things mobile is actually an exceedingly small number. The only one that I have found is [Interactive Brokers](https://www.interactivebrokers.com/) - that is available in all the countries I have ever lived and worked in. I don't know when they expanded into all these countries (or if they always operated in these countries), but this a massive win and feather in their cap. \n\nCan't really comment on how good a service it is, but having the _ability_ to move my investments wherever life takes me is a truly unique feature and worth other possible pain points. \n\nThe only other brokerage that came up in my limited search was Saxo (out of Denmark) and Charles Schwab, except BOTH are not available in Canada, so I would need to move everything over to Interactive Brokers if we ever decided to move.\n",
+				"date_published": "2024-07-29T21:50:57-04:00",
+				"url": "https://www.kaa.bz/2024/07/29/international-brokerage-for.html",
+				"tags": ["Articles"]
+			},
+			{
 				"id": "http://kaa.micro.blog/2024/07/29/aghori-mhori-mei.html",
 				
 				"content_html": "<p><a href=\"https://m.youtube.com/watch?v=CF9DJRLLpbg\">Aghori Mhori Mei</a> is the new Smashing Pumpkins album being released this Friday!</p>\n",
@@ -35,7 +62,7 @@
 				"id": "http://kaa.micro.blog/2024/07/28/min-from-our.html",
 				
 				"content_html": "<p>3 min from our house.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "3 min from our house.\n\n<img src=\"uploads/2024/c9f55dce1e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "3 min from our house.\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2024/c9f55dce1e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-07-28T11:28:12-04:00",
 				"url": "https://www.kaa.bz/2024/07/28/min-from-our.html",
 				"tags": ["Photos"]
@@ -25736,15 +25763,6 @@
 				"content_text": "The <a href='http://kottke.org/13/07/toyota-donates-efficiency-to-non-profit'>Toyota efficiency</a> story on Kottke, really made me smile. I remember going to a Toyota talk in Greece, some 3 years ago when this business management process was talked about. This is a beautiful example of reviewing how something is done, make some minor tweaks and then creating something infinitely more efficient.\n",
 				"date_published": "2013-07-30T02:29:00-04:00",
 				"url": "https://www.kaa.bz/2013/07/30/toyota-efficiency.html"
-			},
-			{
-				"id": "http://kaa.micro.blog/2013/07/30/interface-animations-and.html",
-				"title": "Interface Animations and Transitions",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>In preparation of our new iOS app (hopefully to be released along with iOS7), this is a really handy resource for potential transition animations</p><br /><a href='http://www.inpixelitrust.fr/blog/en/interface-animations-and-transitions-where-to-get-inspiration/'>Interface Animations and Transitions</a>\n",
-				"date_published": "2013-07-30T02:23:56-04:00",
-				"url": "https://www.kaa.bz/2013/07/30/interface-animations-and.html",
-				"tags": ["Articles"]
 			},
 			{
 				"id": "http://kaa.micro.blog/2013/07/23/the-fifthmode.html",
