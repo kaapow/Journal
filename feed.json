@@ -7,6 +7,48 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2024/10/19/easily-one-of.html",
+				
+				"content_html": "<p>Easily one of my favourite ways to start the day. Fresh cup of coffee, a great book (currently reading John Bogle’s <em>Enough</em>) and a quiet house. Everyone else is asleep.</p>\n",
+				"content_text": "Easily one of my favourite ways to start the day. Fresh cup of coffee, a great book (currently reading John Bogle’s _Enough_) and a quiet house. Everyone else is asleep.\n",
+				"date_published": "2024-10-19T06:36:04-04:00",
+				"url": "https://www.kaa.bz/2024/10/19/easily-one-of.html",
+				"tags": ["Coffee"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/10/18/the-video-explaining.html",
+				
+				"content_html": "<p>The <a href=\"https://www.instagram.com/reel/DBRRD-bxu28/?utm_source=ig_web_copy_link\">video</a> explaining what has been going on in Gaza is truly harrowing. I mean what the fuck is going on in the world where this type of behaviour is not cut outright. Just not right.</p>\n",
+				"content_text": "The [video](https://www.instagram.com/reel/DBRRD-bxu28/?utm_source=ig_web_copy_link) explaining what has been going on in Gaza is truly harrowing. I mean what the fuck is going on in the world where this type of behaviour is not cut outright. Just not right.\n",
+				"date_published": "2024-10-18T20:42:34-04:00",
+				"url": "https://www.kaa.bz/2024/10/18/the-video-explaining.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/10/15/its-not-easy.html",
+				
+				"content_html": "<p><a href=\"https://seths.blog/2024/10/its-not-easy-to-see-time/\">It’s not easy to see time</a>. Great post and exceptional graphic on Seth’s blog today.</p>\n",
+				"content_text": "[It’s not easy to see time](https://seths.blog/2024/10/its-not-easy-to-see-time/). Great post and exceptional graphic on Seth’s blog today.\n",
+				"date_published": "2024-10-15T18:58:14-04:00",
+				"url": "https://www.kaa.bz/2024/10/15/its-not-easy.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/10/14/mo-hamz-is.html",
+				
+				"content_html": "<p><a href=\"https://www.instagram.com/reel/C8Xh0KdRebr/\">Mo Hamz</a> is one angry Palestinian, but I love the fact that he’s not going quietly into the night. As long as there are people with this type of energy, Israel will ultimately not prevail. They will however continue to kill Palestinians, until a more active generation stops them.</p>\n",
+				"content_text": "[Mo Hamz](https://www.instagram.com/reel/C8Xh0KdRebr/) is one angry Palestinian, but I love the fact that he’s not going quietly into the night. As long as there are people with this type of energy, Israel will ultimately not prevail. They will however continue to kill Palestinians, until a more active generation stops them. \n",
+				"date_published": "2024-10-14T21:10:58-04:00",
+				"url": "https://www.kaa.bz/2024/10/14/mo-hamz-is.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/10/13/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780857197696\">The Psychology of Money</a> by Morgan Housel 📚</p>\n",
+				"content_text": "Finished reading: [The Psychology of Money](https://micro.blog/books/9780857197696) by Morgan Housel 📚\n",
+				"date_published": "2024-10-13T21:27:12-04:00",
+				"url": "https://www.kaa.bz/2024/10/13/finished-reading-the.html",
+				"tags": ["Books"]
+			},
+			{
 				"id": "http://kaa.micro.blog/2024/10/12/landlords-informed-us.html",
 				
 				"content_html": "<p>🚚 Landlords informed us that they want the house back. After two years we’re going to be moving again. Thankfully it’s only within a city, rather than to another country. Silver linings.</p>\n",
