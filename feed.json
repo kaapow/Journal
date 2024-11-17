@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2024/11/16/this-video-on.html",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=77omYd0JOeA\">This video on the engineering of Venice</a> is an incredible showcase of what the built world is capable of. Constraint being the mother of invention.</p>\n",
+				"content_text": "[This video on the engineering of Venice](https://www.youtube.com/watch?v=77omYd0JOeA) is an incredible showcase of what the built world is capable of. Constraint being the mother of invention.\n",
+				"date_published": "2024-11-16T11:39:49-05:00",
+				"url": "https://www.kaa.bz/2024/11/16/this-video-on.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/11/15/what-elon-musk.html",
+				
+				"content_html": "<p><a href=\"https://m.youtube.com/watch?v=2FMu4NjoR9U\">What Elon Musk Wants From Donald Trump</a>. Loved the drop in the middle, which should be the title to a documentary about this era, <em>American Oligarch</em>.</p>\n",
+				"content_text": "[What Elon Musk Wants From Donald Trump](https://m.youtube.com/watch?v=2FMu4NjoR9U). Loved the drop in the middle, which should be the title to a documentary about this era, _American Oligarch_.\n",
+				"date_published": "2024-11-15T04:29:42-05:00",
+				"url": "https://www.kaa.bz/2024/11/15/what-elon-musk.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/11/14/pro-logo-designer.html",
+				
+				"content_html": "<p><a href=\"https://m.youtube.com/watch?v=U1eFch20Cc8\">Pro Logo Designer Rebrands The LA Clippers</a>. This is totally my kind of video. Someone who knows their stuff, opening their door and letting you see and walking you through how they work.</p>\n",
+				"content_text": "[Pro Logo Designer Rebrands The LA Clippers](https://m.youtube.com/watch?v=U1eFch20Cc8). This is totally my kind of video. Someone who knows their stuff, opening their door and letting you see and walking you through how they work. \n",
+				"date_published": "2024-11-14T08:57:44-05:00",
+				"url": "https://www.kaa.bz/2024/11/14/pro-logo-designer.html"
+			},
+			{
 				"id": "http://kaa.micro.blog/2024/11/10/081758.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -28,7 +52,7 @@
 				"id": "http://kaa.micro.blog/2024/11/09/073826.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2024/38f3c7a645.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/2509/2024/38f3c7a645.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-11-09T07:38:26-05:00",
 				"url": "https://www.kaa.bz/2024/11/09/073826.html",
 				"tags": ["Photos"]
@@ -37,7 +61,7 @@
 				"id": "http://kaa.micro.blog/2024/11/08/201524.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2024/297132a9a9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/2509/2024/297132a9a9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-11-08T20:15:24-05:00",
 				"url": "https://www.kaa.bz/2024/11/08/201524.html",
 				"tags": ["Photos"]
@@ -46,7 +70,7 @@
 				"id": "http://kaa.micro.blog/2024/11/08/061008.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2024/ef28f7ded7.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/2509/2024/ef28f7ded7.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-11-08T06:10:08-05:00",
 				"url": "https://www.kaa.bz/2024/11/08/061008.html",
 				"tags": ["Photos"]
@@ -16907,8 +16931,8 @@
 			{
 				"id": "http://kaa.micro.blog/2019/11/28/odysseus-opened-his.html",
 				
-				"content_html": "<ol start=\"28\">\n<li></li>\n</ol>\n",
-				"content_text": "28.\nOdysseus opened his eyes. He was in the Agora sat next to Helen. She looked over, half hoping that his plan would fail. He gave her a knowing smile, nodded and without saying a word got up and left the Mark forever.\n",
+				"content_html": "<p>Odysseus opened his eyes. He was in the Agora sat next to Helen. She looked over, half hoping that his plan would fail. He gave her a knowing smile, nodded and without saying a word got up and left the Mark forever.</p>\n",
+				"content_text": "Odysseus opened his eyes. He was in the Agora sat next to Helen. She looked over, half hoping that his plan would fail. He gave her a knowing smile, nodded and without saying a word got up and left the Mark forever.\n",
 				"date_published": "2019-11-28T11:03:58-05:00",
 				"url": "https://www.kaa.bz/2019/11/28/odysseus-opened-his.html"
 			},
@@ -16924,8 +16948,8 @@
 			{
 				"id": "http://kaa.micro.blog/2019/11/27/the-gathen-tried.html",
 				
-				"content_html": "<ol start=\"27\">\n<li></li>\n</ol>\n",
-				"content_text": "27.\nThe gathen tried to resist the new host but it didn't matter. Odysseus had taken full control of Asteer’s mind. His memories. Every part of his consciousness was malleable to any suggestion. Asteer’s mind would remain dormant. Odysseus made the jump out of Helen's mind.\n",
+				"content_html": "<p>The gathen tried to resist the new host but it didn&rsquo;t matter. Odysseus had taken full control of Asteer’s mind. His memories. Every part of his consciousness was malleable to any suggestion. Asteer’s mind would remain dormant. Odysseus made the jump out of Helen&rsquo;s mind.</p>\n",
+				"content_text": "The gathen tried to resist the new host but it didn't matter. Odysseus had taken full control of Asteer’s mind. His memories. Every part of his consciousness was malleable to any suggestion. Asteer’s mind would remain dormant. Odysseus made the jump out of Helen's mind.\n",
 				"date_published": "2019-11-27T11:47:00-05:00",
 				"url": "https://www.kaa.bz/2019/11/27/the-gathen-tried.html"
 			},
@@ -16940,8 +16964,8 @@
 			{
 				"id": "http://kaa.micro.blog/2019/11/26/odysseus-approached-asteer.html",
 				
-				"content_html": "<ol start=\"26\">\n<li></li>\n</ol>\n",
-				"content_text": "26.\nOdysseus approached Asteer purposefully, his arm extended, aimed at Asteer’s gathen. ‘This is going to hurt,’ he said 'a lot.' Odysseus then began to slice the gathen from Asteer’s head. The pain all but consumed Asteer who faded in and out of consciousness. Lying on the ground, the last thing he saw before completely blacking out was Odysseus grafting the gathen onto himself.\n",
+				"content_html": "<p>Odysseus approached Asteer purposefully, his arm extended, aimed at Asteer’s gathen. ‘This is going to hurt,’ he said &lsquo;a lot.&rsquo; Odysseus then began to slice the gathen from Asteer’s head. The pain all but consumed Asteer who faded in and out of consciousness. Lying on the ground, the last thing he saw before completely blacking out was Odysseus grafting the gathen onto himself.</p>\n",
+				"content_text": "Odysseus approached Asteer purposefully, his arm extended, aimed at Asteer’s gathen. ‘This is going to hurt,’ he said 'a lot.' Odysseus then began to slice the gathen from Asteer’s head. The pain all but consumed Asteer who faded in and out of consciousness. Lying on the ground, the last thing he saw before completely blacking out was Odysseus grafting the gathen onto himself.\n",
 				"date_published": "2019-11-26T11:45:00-05:00",
 				"url": "https://www.kaa.bz/2019/11/26/odysseus-approached-asteer.html"
 			},
@@ -16965,16 +16989,16 @@
 			{
 				"id": "http://kaa.micro.blog/2019/11/25/they-use-extraction.html",
 				
-				"content_html": "<ol start=\"25\">\n<li></li>\n</ol>\n",
-				"content_text": "25.\n‘They use extraction to take what they want, breaking our minds and bodies in the process. No more. We’ve worked out how to travel between our minds without causing damage. We will hide Applonia inside your head and lure them there. You will act as our trap. Whomever  they send will act as our escape vessel.’ He paused and took another drink, ‘Oh and one last thing. Your daughter goes last.’\n",
+				"content_html": "<p>‘They use extraction to take what they want, breaking our minds and bodies in the process. No more. We’ve worked out how to travel between our minds without causing damage. We will hide Applonia inside your head and lure them there. You will act as our trap. Whomever  they send will act as our escape vessel.’ He paused and took another drink, ‘Oh and one last thing. Your daughter goes last.’</p>\n",
+				"content_text": "‘They use extraction to take what they want, breaking our minds and bodies in the process. No more. We’ve worked out how to travel between our minds without causing damage. We will hide Applonia inside your head and lure them there. You will act as our trap. Whomever  they send will act as our escape vessel.’ He paused and took another drink, ‘Oh and one last thing. Your daughter goes last.’\n",
 				"date_published": "2019-11-25T11:27:00-05:00",
 				"url": "https://www.kaa.bz/2019/11/25/they-use-extraction.html"
 			},
 			{
 				"id": "http://kaa.micro.blog/2019/11/24/centuries-and-a.html",
 				
-				"content_html": "<ol start=\"24\">\n<li></li>\n</ol>\n",
-				"content_text": "24.\n‘Centuries and a new reality haven’t changed you. You’re still a self centred son of a bitch. How does any of this help my daughter?’ said Helen. Odysseus poured himself more wine, 'To survive, your daughter has to find refuge inside your mind. Her existence is an aberration in this world. As they cannot control it, they have decided to finish it. To help you get Applonia inside your head we need something from you in exchange.'\n",
+				"content_html": "<p>‘Centuries and a new reality haven’t changed you. You’re still a self centred son of a bitch. How does any of this help my daughter?’ said Helen. Odysseus poured himself more wine, &lsquo;To survive, your daughter has to find refuge inside your mind. Her existence is an aberration in this world. As they cannot control it, they have decided to finish it. To help you get Applonia inside your head we need something from you in exchange.&rsquo;</p>\n",
+				"content_text": "‘Centuries and a new reality haven’t changed you. You’re still a self centred son of a bitch. How does any of this help my daughter?’ said Helen. Odysseus poured himself more wine, 'To survive, your daughter has to find refuge inside your mind. Her existence is an aberration in this world. As they cannot control it, they have decided to finish it. To help you get Applonia inside your head we need something from you in exchange.'\n",
 				"date_published": "2019-11-24T11:01:18-05:00",
 				"url": "https://www.kaa.bz/2019/11/24/centuries-and-a.html"
 			},
@@ -17119,8 +17143,8 @@
 			{
 				"id": "http://kaa.micro.blog/2019/11/16/the-mind-of.html",
 				
-				"content_html": "<ol start=\"16\">\n<li></li>\n</ol>\n",
-				"content_text": "16.\nEntering the mind of a spectre was a particularly disconcerting experience. You were subjected to a cacophony of whispers of every tone and intensity. Something was definitely not right. Asteer stood still. It was completely silent. He could no longer feel his gathen. In the distance he could make out silhouettes approaching him.\n",
+				"content_html": "<p>Entering the mind of a spectre was a particularly disconcerting experience. You were subjected to a cacophony of whispers of every tone and intensity. Something was definitely not right. Asteer stood still. It was completely silent. He could no longer feel his gathen. In the distance he could make out silhouettes approaching him.</p>\n",
+				"content_text": "Entering the mind of a spectre was a particularly disconcerting experience. You were subjected to a cacophony of whispers of every tone and intensity. Something was definitely not right. Asteer stood still. It was completely silent. He could no longer feel his gathen. In the distance he could make out silhouettes approaching him.\n",
 				"date_published": "2019-11-16T14:08:00-05:00",
 				"url": "https://www.kaa.bz/2019/11/16/the-mind-of.html"
 			},
@@ -17136,16 +17160,16 @@
 			{
 				"id": "http://kaa.micro.blog/2019/11/15/the-mark-was.html",
 				
-				"content_html": "<ol start=\"15\">\n<li></li>\n</ol>\n",
-				"content_text": "15.\nThe Mark was created to be where ideas were farmed from the greatest minds that ever existed. Rules were created to ensure that none of the spectres had any illusions that they were in control. As expected, some couldn’t accept that. This had lead to organised culls being used as an example to deter others.\n",
+				"content_html": "<p>The Mark was created to be where ideas were farmed from the greatest minds that ever existed. Rules were created to ensure that none of the spectres had any illusions that they were in control. As expected, some couldn’t accept that. This had lead to organised culls being used as an example to deter others.</p>\n",
+				"content_text": "The Mark was created to be where ideas were farmed from the greatest minds that ever existed. Rules were created to ensure that none of the spectres had any illusions that they were in control. As expected, some couldn’t accept that. This had lead to organised culls being used as an example to deter others.\n",
 				"date_published": "2019-11-15T15:09:00-05:00",
 				"url": "https://www.kaa.bz/2019/11/15/the-mark-was.html"
 			},
 			{
 				"id": "http://kaa.micro.blog/2019/11/14/do-what-you.html",
 				
-				"content_html": "<ol start=\"14\">\n<li></li>\n</ol>\n",
-				"content_text": "14.\n‘Do what you must,’ submitted Helen. He touched her shoulder. Time stopped. All of reality collapsed into this moment. It felt like every nerve in his body had been set alight. He had no reference any more. The journey could have taken seconds or all of eternity. He was now inside her mind.\n",
+				"content_html": "<p>‘Do what you must,’ submitted Helen. He touched her shoulder. Time stopped. All of reality collapsed into this moment. It felt like every nerve in his body had been set alight. He had no reference any more. The journey could have taken seconds or all of eternity. He was now inside her mind.</p>\n",
+				"content_text": "‘Do what you must,’ submitted Helen. He touched her shoulder. Time stopped. All of reality collapsed into this moment. It felt like every nerve in his body had been set alight. He had no reference any more. The journey could have taken seconds or all of eternity. He was now inside her mind.\n",
 				"date_published": "2019-11-14T15:35:00-05:00",
 				"url": "https://www.kaa.bz/2019/11/14/do-what-you.html"
 			},
@@ -17282,16 +17306,16 @@
 			{
 				"id": "http://kaa.micro.blog/2019/11/07/without-a-gathen.html",
 				
-				"content_html": "<ol start=\"7\">\n<li></li>\n</ol>\n",
-				"content_text": "7.\nWithout a _gathen_ no visit to a division was even possible. It’s what grounds you and acts as both a guide and interpreter. It attaches onto your ear and then continues to grow inside your head. Once a _gathen_ latched, it becomes a permanent part of you. You felt what it felt. Asteer’s _gathen_ was **frightened**.\n",
+				"content_html": "<p>Without a <em>gathen</em> no visit to a division was even possible. It’s what grounds you and acts as both a guide and interpreter. It attaches onto your ear and then continues to grow inside your head. Once a <em>gathen</em> latched, it becomes a permanent part of you. You felt what it felt. Asteer’s <em>gathen</em> was <strong>frightened</strong>.</p>\n",
+				"content_text": "Without a _gathen_ no visit to a division was even possible. It’s what grounds you and acts as both a guide and interpreter. It attaches onto your ear and then continues to grow inside your head. Once a _gathen_ latched, it becomes a permanent part of you. You felt what it felt. Asteer’s _gathen_ was **frightened**.\n",
 				"date_published": "2019-11-06T23:45:00-05:00",
 				"url": "https://www.kaa.bz/2019/11/07/without-a-gathen.html"
 			},
 			{
 				"id": "http://kaa.micro.blog/2019/11/06/it-was-hard.html",
 				
-				"content_html": "<ol start=\"6\">\n<li></li>\n</ol>\n",
-				"content_text": "6.\nIt was hard to tell how long it would take to reach the Hellenistic division. Exits didn’t always **stick**. Time was not absolute. Rather it meandered. Overlapped. Flexed. Like a Möbius strip. It was hard to tell how long it would take to reach the Hellenistic division...\n",
+				"content_html": "<p>It was hard to tell how long it would take to reach the Hellenistic division. Exits didn’t always <strong>stick</strong>. Time was not absolute. Rather it meandered. Overlapped. Flexed. Like a Möbius strip. It was hard to tell how long it would take to reach the Hellenistic division&hellip;</p>\n",
+				"content_text": "It was hard to tell how long it would take to reach the Hellenistic division. Exits didn’t always **stick**. Time was not absolute. Rather it meandered. Overlapped. Flexed. Like a Möbius strip. It was hard to tell how long it would take to reach the Hellenistic division...\n",
 				"date_published": "2019-11-05T21:55:00-05:00",
 				"url": "https://www.kaa.bz/2019/11/06/it-was-hard.html"
 			},
@@ -17306,8 +17330,8 @@
 			{
 				"id": "http://kaa.micro.blog/2019/11/05/it-didnt-matter.html",
 				
-				"content_html": "<ol start=\"5\">\n<li></li>\n</ol>\n",
-				"content_text": "5.\nIt didn’t matter how many times he walked between divisions. The experience always left him in awe. There were extraordinary meetings on every street. There was Salvador Dalí playing chess against Boudicca. Beyond them, on a bench was Che Guevara sharing a pipe with Antonio Vivaldi.\n",
+				"content_html": "<p>It didn’t matter how many times he walked between divisions. The experience always left him in awe. There were extraordinary meetings on every street. There was Salvador Dalí playing chess against Boudicca. Beyond them, on a bench was Che Guevara sharing a pipe with Antonio Vivaldi.</p>\n",
+				"content_text": "It didn’t matter how many times he walked between divisions. The experience always left him in awe. There were extraordinary meetings on every street. There was Salvador Dalí playing chess against Boudicca. Beyond them, on a bench was Che Guevara sharing a pipe with Antonio Vivaldi.\n",
 				"date_published": "2019-11-04T23:29:00-05:00",
 				"url": "https://www.kaa.bz/2019/11/05/it-didnt-matter.html"
 			},
@@ -17322,8 +17346,8 @@
 			{
 				"id": "http://kaa.micro.blog/2019/11/04/entry-wasnt-guaranteed.html",
 				
-				"content_html": "<ol start=\"4\">\n<li></li>\n</ol>\n",
-				"content_text": "4.\nEntry wasn’t guaranteed as there was always the possibility that your mind might _break_. Across the Grand Arrivals Hall was evidence of those who hadn’t made it. Asteer opened his chamber, strode out confidently and headed straight for the Hellenistic division to meet the key.\n",
+				"content_html": "<p>Entry wasn’t guaranteed as there was always the possibility that your mind might <em>break</em>. Across the Grand Arrivals Hall was evidence of those who hadn’t made it. Asteer opened his chamber, strode out confidently and headed straight for the Hellenistic division to meet the key.</p>\n",
+				"content_text": "Entry wasn’t guaranteed as there was always the possibility that your mind might _break_. Across the Grand Arrivals Hall was evidence of those who hadn’t made it. Asteer opened his chamber, strode out confidently and headed straight for the Hellenistic division to meet the key.\n",
 				"date_published": "2019-11-04T01:06:00-05:00",
 				"url": "https://www.kaa.bz/2019/11/04/entry-wasnt-guaranteed.html"
 			},
@@ -17348,8 +17372,8 @@
 			{
 				"id": "http://kaa.micro.blog/2019/11/03/when-you-enter.html",
 				
-				"content_html": "<ol start=\"3\">\n<li></li>\n</ol>\n",
-				"content_text": "3.\nAsteer stepped across the threshold. Whenever you entered the _Mark_ your perceptions are under assault. Your entire life got played out _infinitely_; cycling through how it all could have gone differently. He didn't fancy this part. It was however a small price for the privalege to congregate with humans across time and space.\n",
+				"content_html": "<p>Asteer stepped across the threshold. Whenever you entered the <em>Mark</em> your perceptions are under assault. Your entire life got played out <em>infinitely</em>; cycling through how it all could have gone differently. He didn&rsquo;t fancy this part. It was however a small price for the privalege to congregate with humans across time and space.</p>\n",
+				"content_text": "Asteer stepped across the threshold. Whenever you entered the _Mark_ your perceptions are under assault. Your entire life got played out _infinitely_; cycling through how it all could have gone differently. He didn't fancy this part. It was however a small price for the privalege to congregate with humans across time and space.\n",
 				"date_published": "2019-11-02T20:54:00-05:00",
 				"url": "https://www.kaa.bz/2019/11/03/when-you-enter.html"
 			},
@@ -17365,8 +17389,8 @@
 			{
 				"id": "http://kaa.micro.blog/2019/11/02/something-was-still.html",
 				
-				"content_html": "<ol start=\"2\">\n<li></li>\n</ol>\n",
-				"content_text": "2.\nSomething was still bothering him. The *gathen* in his left ear started to burn. His body tensed, his awareness amplified. He centered his thoughts and approached the counter purposefully. The official looked up, smiled wryly and said, 'Welcome back to the **Mark**, Mr.Asteer.'\n",
+				"content_html": "<p>Something was still bothering him. The <em>gathen</em> in his left ear started to burn. His body tensed, his awareness amplified. He centered his thoughts and approached the counter purposefully. The official looked up, smiled wryly and said, &lsquo;Welcome back to the <strong>Mark</strong>, Mr.Asteer.&rsquo;</p>\n",
+				"content_text": "Something was still bothering him. The *gathen* in his left ear started to burn. His body tensed, his awareness amplified. He centered his thoughts and approached the counter purposefully. The official looked up, smiled wryly and said, 'Welcome back to the **Mark**, Mr.Asteer.'\n",
 				"date_published": "2019-11-01T21:42:00-05:00",
 				"url": "https://www.kaa.bz/2019/11/02/something-was-still.html"
 			},
