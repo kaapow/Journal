@@ -7,6 +7,76 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2024/12/09/tomorrow-is-monument.html",
+				
+				"content_html": "<p>Tomorrow is Monument Valley III day. Something like 11 years after the first one was released.</p>\n<p><img src=\"https://www.kaa.bz/uploads/2024/5a242c88-ba55-468e-9193-faedd27575eb.jpg\" alt=\"\"></p>\n",
+				"content_text": "Tomorrow is Monument Valley III day. Something like 11 years after the first one was released.\n\n![](https://www.kaa.bz/uploads/2024/5a242c88-ba55-468e-9193-faedd27575eb.jpg)\n\n",
+				"date_published": "2024-12-09T22:23:43-05:00",
+				"url": "https://www.kaa.bz/2024/12/09/tomorrow-is-monument.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/12/07/im-still-not.html",
+				
+				"content_html": "<p>I’m still not up to speed with what has happened in Syria. It feels like a civil war that started some 12 years ago. The rebels lost a few years ago, only they didn’t, rather they came back and managed to take over in a matter of a week? What the hell is going on here? Why now? Not that I feel anything but contempt for Bashar, but the whole thing has unfolded or unravelled during very curious timing…</p>\n",
+				"content_text": "I’m still not up to speed with what has happened in Syria. It feels like a civil war that started some 12 years ago. The rebels lost a few years ago, only they didn’t, rather they came back and managed to take over in a matter of a week? What the hell is going on here? Why now? Not that I feel anything but contempt for Bashar, but the whole thing has unfolded or unravelled during very curious timing…\n",
+				"date_published": "2024-12-07T23:28:37-05:00",
+				"url": "https://www.kaa.bz/2024/12/07/im-still-not.html"
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/12/07/so-many-bodies.html",
+				
+				"content_html": "<p>⚽️ So many bodies in the middle of the park. Forest parking the bus here.</p>\n",
+				"content_text": "⚽️ So many bodies in the middle of the park. Forest parking the bus here.\n",
+				"date_published": "2024-12-07T14:01:08-05:00",
+				"url": "https://www.kaa.bz/2024/12/07/so-many-bodies.html",
+				"tags": ["Football"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/12/07/brunooooooooooooo.html",
+				
+				"content_html": "<p>⚽️ Brunooooooooooooo!!!!!!!!!</p>\n",
+				"content_text": "⚽️ Brunooooooooooooo!!!!!!!!!\n",
+				"date_published": "2024-12-07T13:50:10-05:00",
+				"url": "https://www.kaa.bz/2024/12/07/brunooooooooooooo.html",
+				"tags": ["Football"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/12/07/im-about-to.html",
+				
+				"content_html": "<p>⚽️ I’m about to throw something at the TV.</p>\n",
+				"content_text": "⚽️ I’m about to throw something at the TV. \n",
+				"date_published": "2024-12-07T13:42:39-05:00",
+				"url": "https://www.kaa.bz/2024/12/07/im-about-to.html",
+				"tags": ["Football"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/12/07/this-team-sucks.html",
+				
+				"content_html": "<p>⚽️ This team sucks so hard. Just <em>shit</em>.</p>\n",
+				"content_text": "⚽️ This team sucks so hard. Just _shit_.\n",
+				"date_published": "2024-12-07T13:36:20-05:00",
+				"url": "https://www.kaa.bz/2024/12/07/this-team-sucks.html",
+				"tags": ["Football"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/12/07/slightly-boring-game.html",
+				
+				"content_html": "<p>⚽️ Slightly boring game. United has had a few good chances so can easily see this ending 3-1.</p>\n",
+				"content_text": "⚽️ Slightly boring game. United has had a few good chances so can easily see this ending 3-1.\n",
+				"date_published": "2024-12-07T13:21:14-05:00",
+				"url": "https://www.kaa.bz/2024/12/07/slightly-boring-game.html",
+				"tags": ["Football"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/12/04/i-missed-posting.html",
+				
+				"content_html": "<p>I missed posting one for 2024, but alas it was a bit of a strange year for the design of the website (went a little maximalist for a while there), back to clean lines that have defined this site for 7 years (?!) now.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I missed posting one for 2024, but alas it was a bit of a strange year for the design of the website (went a little maximalist for a while there), back to clean lines that have defined this site for 7 years (?!) now. \n\n<div class=\"full-width\"><img src=\"https://cdn.uploads.micro.blog/2509/2024/fcaa99c580.png\" width=\"600\" height=\"216\" alt=\"\"></div>\n\n\n",
+				"date_published": "2024-12-04T20:47:44-05:00",
+				"url": "https://www.kaa.bz/2024/12/04/i-missed-posting.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://kaa.micro.blog/2024/12/04/first-snowfalls-in.html",
 				
 				"content_html": "<p>❄️ First snowfalls in Toronto. One of my favourite scenes in <em>Mad Men</em> is of course the Carousel scene. Posting photos on my site allows me to briefly jump back and relive a year in seconds. It is one of the most powerful parts of any personal site (and probably the inherent power behind Instagram as well). So much life has happened. 2024 has been a wild ride.</p>\n",
