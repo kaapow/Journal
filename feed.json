@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2024/12/17/083934.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2024/f49946d71a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-12-17T08:39:34-05:00",
+				"url": "https://www.kaa.bz/2024/12/17/083934.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/12/17/075120.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2024/1ec6d12977.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-12-17T07:51:20-05:00",
+				"url": "https://www.kaa.bz/2024/12/17/075120.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/12/15/what-a-shame.html",
+				
+				"content_html": "<p>⚽️ What a shame man. 13 min is all he had in the tank for this game.</p>\n",
+				"content_text": "⚽️ What a shame man. 13 min is all he had in the tank for this game.\n",
+				"date_published": "2024-12-15T11:46:07-05:00",
+				"url": "https://www.kaa.bz/2024/12/15/what-a-shame.html",
+				"tags": ["Football"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/12/15/mason-mount-is.html",
+				
+				"content_html": "<p>⚽️ Mason Mount is clearly a broken player. Made of fucking wheatabix.</p>\n",
+				"content_text": "⚽️ Mason Mount is clearly a broken player. Made of fucking wheatabix.\n",
+				"date_published": "2024-12-15T11:44:40-05:00",
+				"url": "https://www.kaa.bz/2024/12/15/mason-mount-is.html",
+				"tags": ["Football"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2024/12/15/pretty-cagey-game.html",
+				
+				"content_html": "<p>⚽️ Pretty cagey game so far. Nothing serious been created. Just a lot of ball passing at the moment with plenty of errors from both sides.</p>\n",
+				"content_text": "⚽️ Pretty cagey game so far. Nothing serious been created. Just a lot of ball passing at the moment with plenty of errors from both sides.\n",
+				"date_published": "2024-12-15T11:40:45-05:00",
+				"url": "https://www.kaa.bz/2024/12/15/pretty-cagey-game.html",
+				"tags": ["Football"]
+			},
+			{
 				"id": "http://kaa.micro.blog/2024/12/15/monument-valley-is.html",
 				
 				"content_html": "<p>Monument Valley is easily my favourite iOS game series (so much so I have a print above my desk). The third instalment of the series continues the fine tradition by adding a new way of moving around. The colours, design and music remain on point. If I had a ‘complaint’ it would be that there isn’t any merch I can get easily.</p>\n",
@@ -17,8 +62,8 @@
 			{
 				"id": "http://kaa.micro.blog/2024/12/09/tomorrow-is-monument.html",
 				
-				"content_html": "<p>Tomorrow is Monument Valley III day. Something like 11 years after the first one was released.</p>\n<p><img src=\"https://www.kaa.bz/uploads/2024/5a242c88-ba55-468e-9193-faedd27575eb.jpg\" alt=\"\"></p>\n",
-				"content_text": "Tomorrow is Monument Valley III day. Something like 11 years after the first one was released.\n\n![](https://www.kaa.bz/uploads/2024/5a242c88-ba55-468e-9193-faedd27575eb.jpg)\n\n",
+				"content_html": "<p>Tomorrow is Monument Valley III day. Something like 11 years after the first one was released.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/2509/2024/5a242c88-ba55-468e-9193-faedd27575eb.jpg\" alt=\"\"></p>\n",
+				"content_text": "Tomorrow is Monument Valley III day. Something like 11 years after the first one was released.\n\n![](https://cdn.uploads.micro.blog/2509/2024/5a242c88-ba55-468e-9193-faedd27575eb.jpg)\n\n",
 				"date_published": "2024-12-09T22:23:43-05:00",
 				"url": "https://www.kaa.bz/2024/12/09/tomorrow-is-monument.html"
 			},
@@ -11080,7 +11125,7 @@
 				"id": "http://kaa.micro.blog/2021/12/20/stetbuild-v.html",
 				"title": "Stet.Build v2.0",
 				"content_html": "<p>It has been <em>years</em> since I designed a completely new website. My toolbox of tricks has remained mostly the same - still using <a href=\"https://getskeleton.com\">Skeleton</a>, which I absolutely love. What has been fascinating is the scope a modern website now needs to serve. Now you have to effectively design four websites in one - desktop, tablet, mobile and dark mode.</p>\n<h2 id=\"desktop\">Desktop</h2>\n<p>Version 2.0 of <a href=\"https://www.stet.build\">Stet.Build</a>, which has seen very little love since it was launched 3 years ago, is a huge leap forward. I’m glad I took the time to make this the best it can be. I always recognised this was a major project and this has taken me around 6 months to complete (not full time of course).</p>\n<!-- raw HTML omitted -->\n<p>The mock-ups were done in <a href=\"https://affinity.serif.com/en-gb/designer/\">Affinity Designer</a> - probably over a decade since I have used a vector app to design a website. For the most part I was able to replicate these. The annoying part was loosing some of the mock-ups half way through the design process due to some random name saving error. Top tip, save your work outside the Affinity system.</p>\n<!-- raw HTML omitted -->\n<p>One of my favourite features of the new site, is the archive feature. A little bit of javascript and filtering the table like magic.</p>\n<!-- raw HTML omitted -->\n<h2 id=\"mobile\">Mobile</h2>\n<p>When it came to the mobile version, I left it to serendipity and let the pieces fall. I could have spent a little time on this during the mockup stage, however I think that it worked out well in the end.</p>\n<h2 id=\"dark-mode\">Dark Mode</h2>\n<p>This was (and remains) the biggest hurdle. This issue was that the individual artwork looked completely out of place in its native form with the bright white background. The only way around this is to recreate 51 drawings that are more suited to the darker background. This is going to be a work in progress as it is not a top priority - but will get to it all eventually. <a href=\"https://www.stet.build/ia/050\">Issue 50</a> shows where I am heading with this.</p>\n<h2 id=\"coding\">Coding</h2>\n<p>Finished the mock ups months ago but needed the space (mentally) to dive into the coding. Certainly rusty, I leant into my constraints. My primary machine is my iPad Pro. I lost my MacBook a couple of years ago, and due to all the Apple laptop keyboard fiasco I never pressed the button. I began coding this on the iPad, but it really was an exercise in misery. Forget what they say, the iPad does not have the versatility for something like web production. Until Apple bring the Dev tools over with Safari, its all counterproductive.</p>\n<p>The overall <a href=\"https://www.blot.im\">Blot</a> system also made it super easy to work on the site while everything else was live. Probably the best setup for developing a website I have ever worked one. Local files that I save and see the impact direct on the site. Genius implementation.</p>\n",
-				"content_text": "It has been _years_ since I designed a completely new website. My toolbox of tricks has remained mostly the same - still using [Skeleton](https://getskeleton.com), which I absolutely love. What has been fascinating is the scope a modern website now needs to serve. Now you have to effectively design four websites in one - desktop, tablet, mobile and dark mode. \n\n## Desktop\nVersion 2.0 of [Stet.Build](https://www.stet.build), which has seen very little love since it was launched 3 years ago, is a huge leap forward. I’m glad I took the time to make this the best it can be. I always recognised this was a major project and this has taken me around 6 months to complete (not full time of course). \n\n<img src=\"https://cdn.uploads.micro.blog/2509/2021/288a0388c8.png\" width=\"2732\" height=\"2048\" alt=\"\" />\n\nThe mock-ups were done in [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - probably over a decade since I have used a vector app to design a website. For the most part I was able to replicate these. The annoying part was loosing some of the mock-ups half way through the design process due to some random name saving error. Top tip, save your work outside the Affinity system. \n\n<img src=\"https://cdn.uploads.micro.blog/2509/2021/cf9c1b1cf0.png\" width=\"1410\" height=\"1586\" alt=\"\" />\n\nOne of my favourite features of the new site, is the archive feature. A little bit of javascript and filtering the table like magic. \n\n<video controls=\"controls\" width=\"800\" height=\"600\" name=\"Filtering on Stet.Build\">\n<source src=\"https://www.kaa.bz/uploads/2021/99d21e2af0.mov\">\n</video>\n\n## Mobile\nWhen it came to the mobile version, I left it to serendipity and let the pieces fall. I could have spent a little time on this during the mockup stage, however I think that it worked out well in the end.  \n\n## Dark Mode\nThis was (and remains) the biggest hurdle. This issue was that the individual artwork looked completely out of place in its native form with the bright white background. The only way around this is to recreate 51 drawings that are more suited to the darker background. This is going to be a work in progress as it is not a top priority - but will get to it all eventually. [Issue 50](https://www.stet.build/ia/050) shows where I am heading with this.\n\n## Coding\nFinished the mock ups months ago but needed the space (mentally) to dive into the coding. Certainly rusty, I leant into my constraints. My primary machine is my iPad Pro. I lost my MacBook a couple of years ago, and due to all the Apple laptop keyboard fiasco I never pressed the button. I began coding this on the iPad, but it really was an exercise in misery. Forget what they say, the iPad does not have the versatility for something like web production. Until Apple bring the Dev tools over with Safari, its all counterproductive. \n\nThe overall [Blot](https://www.blot.im) system also made it super easy to work on the site while everything else was live. Probably the best setup for developing a website I have ever worked one. Local files that I save and see the impact direct on the site. Genius implementation.\n",
+				"content_text": "It has been _years_ since I designed a completely new website. My toolbox of tricks has remained mostly the same - still using [Skeleton](https://getskeleton.com), which I absolutely love. What has been fascinating is the scope a modern website now needs to serve. Now you have to effectively design four websites in one - desktop, tablet, mobile and dark mode. \n\n## Desktop\nVersion 2.0 of [Stet.Build](https://www.stet.build), which has seen very little love since it was launched 3 years ago, is a huge leap forward. I’m glad I took the time to make this the best it can be. I always recognised this was a major project and this has taken me around 6 months to complete (not full time of course). \n\n<img src=\"uploads/2021/288a0388c8.png\" width=\"2732\" height=\"2048\" alt=\"\" />\n\nThe mock-ups were done in [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - probably over a decade since I have used a vector app to design a website. For the most part I was able to replicate these. The annoying part was loosing some of the mock-ups half way through the design process due to some random name saving error. Top tip, save your work outside the Affinity system. \n\n<img src=\"uploads/2021/cf9c1b1cf0.png\" width=\"1410\" height=\"1586\" alt=\"\" />\n\nOne of my favourite features of the new site, is the archive feature. A little bit of javascript and filtering the table like magic. \n\n<div class=\"full-width\">\n<video controls=\"controls\" name=\"Filtering on Stet.Build\">\n<source src=\"https://www.kaa.bz/uploads/2021/99d21e2af0.mov\">\n</video>\n</div>\n\n## Mobile\nWhen it came to the mobile version, I left it to serendipity and let the pieces fall. I could have spent a little time on this during the mockup stage, however I think that it worked out well in the end.  \n\n## Dark Mode\nThis was (and remains) the biggest hurdle. This issue was that the individual artwork looked completely out of place in its native form with the bright white background. The only way around this is to recreate 51 drawings that are more suited to the darker background. This is going to be a work in progress as it is not a top priority - but will get to it all eventually. [Issue 50](https://www.stet.build/ia/050) shows where I am heading with this.\n\n## Coding\nFinished the mock ups months ago but needed the space (mentally) to dive into the coding. Certainly rusty, I leant into my constraints. My primary machine is my iPad Pro. I lost my MacBook a couple of years ago, and due to all the Apple laptop keyboard fiasco I never pressed the button. I began coding this on the iPad, but it really was an exercise in misery. Forget what they say, the iPad does not have the versatility for something like web production. Until Apple bring the Dev tools over with Safari, its all counterproductive. \n\nThe overall [Blot](https://www.blot.im) system also made it super easy to work on the site while everything else was live. Probably the best setup for developing a website I have ever worked one. Local files that I save and see the impact direct on the site. Genius implementation.\n",
 				"date_published": "2021-12-20T10:54:00-05:00",
 				"url": "https://www.kaa.bz/2021/12/20/stetbuild-v.html",
 				"tags": ["Photos","Articles","Stet"]
@@ -25954,7 +25999,7 @@
 				"id": "http://kaa.micro.blog/2014/12/14/twinkles-sometimes-you.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p><em>Twinkles</em>. Sometimes you need to spend some time on a particular character, over and over and over again. You develop a rhythm. It’s not until I finished this image that I feel comfortable enough to draw these characters in any situation.</p>\n",
-				"content_text": "<img src=\"uploads/2018/7e08d67cdb.jpg\" alt=\"\" width=\"840\" height=\"840\" class=\"alignnone size-full wp-image-286\" />\n\n_Twinkles_. Sometimes you need to spend some time on a particular character, over and over and over again. You develop a rhythm. It’s not until I finished this image that I feel comfortable enough to draw these characters in any situation.\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/2509/2018/7e08d67cdb.jpg\" alt=\"\" width=\"840\" height=\"840\" class=\"alignnone size-full wp-image-286\" />\n\n_Twinkles_. Sometimes you need to spend some time on a particular character, over and over and over again. You develop a rhythm. It’s not until I finished this image that I feel comfortable enough to draw these characters in any situation.\n",
 				"date_published": "2014-12-14T12:52:39-05:00",
 				"url": "https://www.kaa.bz/2014/12/14/twinkles-sometimes-you.html"
 			},
