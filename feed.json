@@ -7,6 +7,65 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2025/01/28/that-was-a-first-driving/",
+				
+				"content_html": "<p>That was a first. Driving in a blizzard. Not fun at all. Had to be done to get some final things out of the other house, only three days left.</p>\n",
+				"content_text": "That was a first. Driving in a blizzard. Not fun at all. Had to be done to get some final things out of the other house, only three days left.\n",
+				"date_published": "2025-01-28T19:47:31-05:00",
+				"url": "https://www.kaa.bz/2025/01/28/that-was-a-first-driving/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/01/26/one-week-in-the-new/",
+				
+				"content_html": "<p>One week in the new house and damn if I’m not tired of playing house. Turns out the windows in the new place are terrible and leaky as all fuck. So had to add some film across them and getting some weather sealing tape around the frames. This is Canada, how can your windows be so shit. It’s -20°C outside those windows. Once we get a working washing machine and the shower stops whistling at us when we use it maybe things can settle down a little.</p>\n",
+				"content_text": "One week in the new house and damn if I’m not tired of playing house. Turns out the windows in the new place are terrible and leaky as all fuck. So had to add some film across them and getting some weather sealing tape around the frames. This is Canada, how can your windows be so shit. It’s -20°C outside those windows. Once we get a working washing machine and the shower stops whistling at us when we use it maybe things can settle down a little.\n",
+				"date_published": "2025-01-26T22:20:45-05:00",
+				"url": "https://www.kaa.bz/2025/01/26/one-week-in-the-new/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/01/26/this-game-is-so-stodgy/",
+				
+				"content_html": "<p>⚽️ This game is so stodgy. Slow. Laboured. Not fun to watch.</p>\n",
+				"content_text": "⚽️ This game is so stodgy. Slow. Laboured. Not fun to watch. \n",
+				"date_published": "2025-01-26T14:38:03-05:00",
+				"url": "https://www.kaa.bz/2025/01/26/this-game-is-so-stodgy/",
+				"tags": ["Football"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/01/26/roman-candle-great-regular-ipa/",
+				
+				"content_html": "<p>🍺 <em>Roman Candle</em>. Great regular IPA to have. Flavour is subtle and has a good buzz after it.</p>\n",
+				"content_text": "🍺 _Roman Candle_. Great regular IPA to have. Flavour is subtle and has a good buzz after it.\r\n",
+				"date_published": "2025-01-26T10:08:01-05:00",
+				"url": "https://www.kaa.bz/2025/01/26/roman-candle-great-regular-ipa/",
+				"tags": ["Beer"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/01/25/i-think-i-will-starting/",
+				
+				"content_html": "<p>I think I will starting making an ongoing list of good craft beers. Why not. lets start with the <a href=\"/beer\">one I am drinking</a>.</p>\n",
+				"content_text": "I think I will starting making an ongoing list of good craft beers. Why not. lets start with the [one I am drinking](/beer).\n",
+				"date_published": "2025-01-25T20:14:16-05:00",
+				"url": "https://www.kaa.bz/2025/01/25/i-think-i-will-starting/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/01/25/the-slow-hard-journey-to/",
+				
+				"content_html": "<p>The slow hard journey to getting settled in continues. It’s funny but while the Americas is meant to be the ‘New World’, it really isn’t. The future looks old.</p>\n",
+				"content_text": "The slow hard journey to getting settled in continues. It’s funny but while the Americas is meant to be the ‘New World’, it really isn’t. The future looks old.\n",
+				"date_published": "2025-01-25T18:43:07-05:00",
+				"url": "https://www.kaa.bz/2025/01/25/the-slow-hard-journey-to/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/01/25/finished-reading-tokyo-these-days/",
+				
+				"content_html": "<p>📚 Finished reading: <a href=\"https://micro.blog/books/9781974738809\">Tokyo These Days, Vol. 1</a> by Taiyo Matsumoto</p>\n",
+				"content_text": "📚 Finished reading: [Tokyo These Days, Vol. 1](https://micro.blog/books/9781974738809) by Taiyo Matsumoto\n",
+				"date_published": "2025-01-25T11:24:38-05:00",
+				"url": "https://www.kaa.bz/2025/01/25/finished-reading-tokyo-these-days/",
+				"tags": ["Books"]
+			},
+			{
 				"id": "http://kaa.micro.blog/2025/01/20/polar-vortex-c-outside-and/",
 				
 				"content_html": "<p>🥶 Polar vortex. -20°C outside and the wind is howling. 3 days in the house with the kids. Definitely not worth going outside for any reason.</p>\n",
