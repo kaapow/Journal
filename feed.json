@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2025/02/08/the-growler-ontarios-craft-beer/",
+				
+				"content_html": "<p><a href=\"https://on.thegrowler.ca/\">The Growler</a> – Ontario&rsquo;s craft beer guide stopped publication last year. Clearly not enough interest in the publication, which I find strange. It’s a well put together guide, with a very dense layout capturing an enormous amount of information. Still I have an issue and it will likely be enough for a few years at least. Would love it if they released the maps so that they can be updated by others.</p>\n",
+				"content_text": "[The Growler](https://on.thegrowler.ca/) – Ontario's craft beer guide stopped publication last year. Clearly not enough interest in the publication, which I find strange. It’s a well put together guide, with a very dense layout capturing an enormous amount of information. Still I have an issue and it will likely be enough for a few years at least. Would love it if they released the maps so that they can be updated by others.\n",
+				"date_published": "2025-02-08T20:36:45-05:00",
+				"url": "https://www.kaa.bz/2025/02/08/the-growler-ontarios-craft-beer/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/02/08/ive-currently-been-binge-watching/",
+				
+				"content_html": "<p>I’ve currently been binge watching <em>Yellowstone</em>. Great show so far even though nothing could be farther away from my life as the mountains of Montana and all the horses.</p>\n",
+				"content_text": "I’ve currently been binge watching _Yellowstone_. Great show so far even though nothing could be farther away from my life as the mountains of Montana and all the horses.\n",
+				"date_published": "2025-02-08T18:54:05-05:00",
+				"url": "https://www.kaa.bz/2025/02/08/ive-currently-been-binge-watching/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/02/08/always-a-treat-to-get/",
+				
+				"content_html": "<p>Always a treat to get new Steven Wilson work. Wish I’d known about <em>December Skies</em> during December because that would have been the perfect track for that month.</p>\n",
+				"content_text": "Always a treat to get new Steven Wilson work. Wish I’d known about _December Skies_ during December because that would have been the perfect track for that month. \n",
+				"date_published": "2025-02-08T10:24:28-05:00",
+				"url": "https://www.kaa.bz/2025/02/08/always-a-treat-to-get/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/02/03/price-is-what-you-pay/",
+				
+				"content_html": "<blockquote>\n<p>Price is what you pay. Value is what you get.<br>\n—  <em>Warren Buffet by way of Benjamin Graham</em></p>\n</blockquote>\n",
+				"content_text": "> Price is what you pay. Value is what you get.  \n>  —  _Warren Buffet by way of Benjamin Graham_\n",
+				"date_published": "2025-02-03T22:07:23-05:00",
+				"url": "https://www.kaa.bz/2025/02/03/price-is-what-you-pay/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/02/03/seths-take-on-the-canadian/",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=3VLnpfc3CIA\">Seth&rsquo;s take</a> on the Canadian reaction to Trump&rsquo;s embarrassing (and complete lack of understanding of how the world fucking works) is why I&rsquo;m happy to be in Canada - even in the face of economic warfare from an absolute melon, erm sorry 🍊, they have class, something the 🍊lacks in every aspect.</p>\n",
+				"content_text": "[Seth's take](https://www.youtube.com/watch?v=3VLnpfc3CIA) on the Canadian reaction to Trump's embarrassing (and complete lack of understanding of how the world fucking works) is why I'm happy to be in Canada - even in the face of economic warfare from an absolute melon, erm sorry 🍊, they have class, something the 🍊lacks in every aspect.\n",
+				"date_published": "2025-02-03T21:38:24-05:00",
+				"url": "https://www.kaa.bz/2025/02/03/seths-take-on-the-canadian/"
+			},
+			{
 				"id": "http://kaa.micro.blog/2025/02/02/garbage-goal-just-annoying/",
 				
 				"content_html": "<p>⚽️ Garbage goal. Just annoying.</p>\n",
@@ -8057,8 +8097,8 @@
 			{
 				"id": "http://kaa.micro.blog/2023/02/08/my-very-first-poutine/",
 				
-				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/2509/2023/0fecac8536.jpg\" alt=\"\"></p>\n<p>My very first poutine.</p>\n",
-				"content_text": "![](https://cdn.uploads.micro.blog/2509/2023/0fecac8536.jpg)\n\nMy very first poutine.\n",
+				"content_html": "<p><img src=\"https://www.kaa.bz/uploads/2023/0fecac8536.jpg\" alt=\"\">\nMy very first poutine.</p>\n",
+				"content_text": "![](https://www.kaa.bz/uploads/2023/0fecac8536.jpg)\nMy very first poutine.\n",
 				"date_published": "2023-02-08T21:11:02-05:00",
 				"url": "https://www.kaa.bz/2023/02/08/my-very-first-poutine/"
 			},
