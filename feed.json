@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2025/02/13/first-major-snow-shovelling-backbreaking/",
+				
+				"content_html": "<p>❄️ First major snow shovelling. Backbreaking work for a city slicker like myself. 20cm of snow easily around us.</p>\n",
+				"content_text": "❄️ First major snow shovelling. Backbreaking work for a city slicker like myself. 20cm of snow easily around us. \n",
+				"date_published": "2025-02-13T22:01:53-05:00",
+				"url": "https://www.kaa.bz/2025/02/13/first-major-snow-shovelling-backbreaking/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/02/13/cobra-kai-final-episodes-are/",
+				
+				"content_html": "<p><em>Cobra Kai</em> final episodes are finally out. Fantastic way to get through this snow period.</p>\n",
+				"content_text": "_Cobra Kai_ final episodes are finally out. Fantastic way to get through this snow period.\n",
+				"date_published": "2025-02-13T17:41:20-05:00",
+				"url": "https://www.kaa.bz/2025/02/13/cobra-kai-final-episodes-are/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/02/13/kids-first-snow-day-ever/",
+				
+				"content_html": "<p>Kids first snow day ever. It’s February. Two more weeks to the end of <em>Winter</em> and move into <em>Unlocking</em>.</p>\n",
+				"content_text": "Kids first snow day ever. It’s February. Two more weeks to the end of _Winter_ and move into _Unlocking_.\n",
+				"date_published": "2025-02-13T08:42:51-05:00",
+				"url": "https://www.kaa.bz/2025/02/13/kids-first-snow-day-ever/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/02/11/loved-this-post-by-andy/",
+				
+				"content_html": "<p>Loved this post by Andy, <a href=\"https://andysblog.uk/why-blog-if-nobody-reads-it/\">Why Blog if Nobody Reads it?</a>. Over the years I’ve had my own thoughts about this, best described <a href=\"https://www.kaa.bz/2023/05/14/moments/\">here</a> and <a href=\"https://www.kaa.bz/2019/12/12/two-gifts/\">here</a>.</p>\n",
+				"content_text": "\nLoved this post by Andy, [Why Blog if Nobody Reads it?](https://andysblog.uk/why-blog-if-nobody-reads-it/). Over the years I’ve had my own thoughts about this, best described [here](https://www.kaa.bz/2023/05/14/moments/) and [here](https://www.kaa.bz/2019/12/12/two-gifts/).\n",
+				"date_published": "2025-02-11T08:01:21-05:00",
+				"url": "https://www.kaa.bz/2025/02/11/loved-this-post-by-andy/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/02/10/the-is-showing-what-a/",
+				
+				"content_html": "<p>The 🍊 is showing what a real asshole he is eh? If you shake his hand, check for the number of fingers left…</p>\n",
+				"content_text": "The 🍊 is showing what a real asshole he is eh? If you shake his hand, check for the number of fingers left…\n",
+				"date_published": "2025-02-10T18:13:24-05:00",
+				"url": "https://www.kaa.bz/2025/02/10/the-is-showing-what-a/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/02/09/somehow-i-had-completely-missed/",
+				
+				"content_html": "<p>Somehow I had completely missed the existence of <a href=\"https://www.penguinrandomhouse.ca/imprints/ZY/berger-books/books\">Berger Books</a>, the real successor to Vertigo Comics, easily one of the most diversely awesome imprint in comics history.</p>\n",
+				"content_text": "Somehow I had completely missed the existence of [Berger Books](https://www.penguinrandomhouse.ca/imprints/ZY/berger-books/books), the real successor to Vertigo Comics, easily one of the most diversely awesome imprint in comics history. \n",
+				"date_published": "2025-02-09T06:39:54-05:00",
+				"url": "https://www.kaa.bz/2025/02/09/somehow-i-had-completely-missed/"
+			},
+			{
 				"id": "http://kaa.micro.blog/2025/02/08/the-growler-ontarios-craft-beer/",
 				
 				"content_html": "<p><a href=\"https://on.thegrowler.ca/\">The Growler</a> – Ontario&rsquo;s craft beer guide stopped publication last year. Clearly not enough interest in the publication, which I find strange. It’s a well put together guide, with a very dense layout capturing an enormous amount of information. Still I have an issue and it will likely be enough for a few years at least. Would love it if they released the maps so that they can be updated by others.</p>\n",
@@ -8097,8 +8145,8 @@
 			{
 				"id": "http://kaa.micro.blog/2023/02/08/my-very-first-poutine/",
 				
-				"content_html": "<p><img src=\"https://www.kaa.bz/uploads/2023/0fecac8536.jpg\" alt=\"\">\nMy very first poutine.</p>\n",
-				"content_text": "![](https://www.kaa.bz/uploads/2023/0fecac8536.jpg)\nMy very first poutine.\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/2509/2023/0fecac8536.jpg\" alt=\"\">\nMy very first poutine.</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/2509/2023/0fecac8536.jpg)\nMy very first poutine.\n",
 				"date_published": "2023-02-08T21:11:02-05:00",
 				"url": "https://www.kaa.bz/2023/02/08/my-very-first-poutine/"
 			},
