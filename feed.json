@@ -7,6 +7,66 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2025/02/17/almost-perfect-always-a-fan/",
+				
+				"content_html": "<p><a href=\"https://www.almostperfect.jp/book\">Almost Perfect</a>. Always a fan of well put together books. I used to call ‘Creative Breaks’ as ‘Sessions’.</p>\n",
+				"content_text": "[Almost Perfect](https://www.almostperfect.jp/book). Always a fan of well put together books. I used to call ‘Creative Breaks’ as ‘Sessions’. \n",
+				"date_published": "2025-02-17T14:59:53-05:00",
+				"url": "https://www.kaa.bz/2025/02/17/almost-perfect-always-a-fan/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/02/17/something-tells-me-im-not/",
+				
+				"content_html": "<p>Something tells me I&rsquo;m not getting the car out of the driveway. Oh, Canada.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Something tells me I'm not getting the car out of the driveway. Oh, Canada.\n\n<img src=\"uploads/2025/00f6686c93.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-02-17T13:49:30-05:00",
+				"url": "https://www.kaa.bz/2025/02/17/something-tells-me-im-not/",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/02/17/finished-reading-tokyo-these-days/",
+				
+				"content_html": "<p>📚 Finished reading: <a href=\"https://micro.blog/books/9781974743490\">Tokyo These Days, Vol. 2</a> by Taiyo Matsumoto</p>\n",
+				"content_text": "📚 Finished reading: [Tokyo These Days, Vol. 2](https://micro.blog/books/9781974743490) by Taiyo Matsumoto\n",
+				"date_published": "2025-02-17T05:48:35-05:00",
+				"url": "https://www.kaa.bz/2025/02/17/finished-reading-tokyo-these-days/",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/02/16/before-and-after/",
+				
+				"content_html": "<p>Before and after.</p>\n<p><img src=\"https://www.kaa.bz/uploads/2025/ec74d3ee44.jpg\" alt=\"\"></p>\n<p><img src=\"https://www.kaa.bz/uploads/2025/880a0a262d.jpg\" alt=\"\"></p>\n",
+				"content_text": "Before and after. \n\n![](https://www.kaa.bz/uploads/2025/ec74d3ee44.jpg)\n\n![](https://www.kaa.bz/uploads/2025/880a0a262d.jpg)\n",
+				"date_published": "2025-02-16T12:05:40-05:00",
+				"url": "https://www.kaa.bz/2025/02/16/before-and-after/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/02/16/twelve-bloody-minutes-for-spurs/",
+				
+				"content_html": "<p>⚽️ Twelve bloody minutes for Spurs to score. So annoying.</p>\n",
+				"content_text": "⚽️ Twelve bloody minutes for Spurs to score. So annoying.\n",
+				"date_published": "2025-02-16T11:45:37-05:00",
+				"url": "https://www.kaa.bz/2025/02/16/twelve-bloody-minutes-for-spurs/",
+				"tags": ["Football"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/02/16/strangely-im-kinda-excited-to/",
+				
+				"content_html": "<p>⚽️ Strangely I’m kinda excited to see the kids feature in this game. Except Lindeloff, they’re all PL debutants :).</p>\n",
+				"content_text": "⚽️ Strangely I’m kinda excited to see the kids feature in this game. Except Lindeloff, they’re all PL debutants :).\n",
+				"date_published": "2025-02-16T11:35:24-05:00",
+				"url": "https://www.kaa.bz/2025/02/16/strangely-im-kinda-excited-to/",
+				"tags": ["Football"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/02/15/taking-the-kids-to-the/",
+				
+				"content_html": "<p>Taking the kids to the YMCA in a new area has also meant that I get to discover different neighbourhoods and different stores. <em>The Black Canary</em> espresso bar and my new favourite used bookstore <em>The Great Escape Book Store</em>.</p>\n",
+				"content_text": "Taking the kids to the YMCA in a new area has also meant that I get to discover different neighbourhoods and different stores. _The Black Canary_ espresso bar and my new favourite used bookstore _The Great Escape Book Store_.\n",
+				"date_published": "2025-02-15T12:25:32-05:00",
+				"url": "https://www.kaa.bz/2025/02/15/taking-the-kids-to-the/"
+			},
+			{
 				"id": "http://kaa.micro.blog/2025/02/13/first-major-snow-shovelling-backbreaking/",
 				
 				"content_html": "<p>❄️ First major snow shovelling. Backbreaking work for a city slicker like myself. 20cm of snow easily around us.</p>\n",
