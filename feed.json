@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2025/03/22/americas-position-in-the-global/",
+				
+				"content_html": "<blockquote>\n<p>America’s position in the global hierarchy isn’t guaranteed.\nIt can be lost with stunning rapidity when an economically illiterate con artist and a cadre of ideologues are drunk at the wheel.</p>\n</blockquote>\n<p>From <em>The Index</em> article on the <a href=\"https://www.theindex.media/the-new-world-order-is-here-and-america-isnt-part-of-it/\">new world order</a>.</p>\n",
+				"content_text": "> America’s position in the global hierarchy isn’t guaranteed.\n> It can be lost with stunning rapidity when an economically illiterate con artist and a cadre of ideologues are drunk at the wheel.\n\nFrom _The Index_ article on the [new world order](https://www.theindex.media/the-new-world-order-is-here-and-america-isnt-part-of-it/).\n",
+				"date_published": "2025-03-22T00:24:18-04:00",
+				"url": "https://www.kaa.bz/2025/03/22/americas-position-in-the-global/"
+			},
+			{
 				"id": "http://kaa.micro.blog/2025/03/20/aloo-gobi-this-is-one/",
 				
 				"content_html": "<p>🍳 <em>Aloo Gobi</em>. This is one of the things that I can typically put together quickly and easily. Full of flavour and a solid vegetarian dish.</p>\n",
@@ -45,7 +53,7 @@
 				"id": "http://kaa.micro.blog/2025/03/15/here-we-go-new-steven/",
 				
 				"content_html": "<p>Here we go. New Steven Wilson.\n<!-- raw HTML omitted --></p>\n",
-				"content_text": "Here we go. New Steven Wilson.\n<img src=\"uploads/2025/742980192e.jpg\" width=\"377\" height=\"600\" alt=\"\">\n",
+				"content_text": "Here we go. New Steven Wilson.\n<img src=\"https://cdn.uploads.micro.blog/2509/2025/742980192e.jpg\" width=\"377\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-15T11:43:01-04:00",
 				"url": "https://www.kaa.bz/2025/03/15/here-we-go-new-steven/",
 				"tags": ["Photos"]
