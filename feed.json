@@ -7,6 +7,48 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2025/04/02/honestly-canada-i-expected-a/",
+				
+				"content_html": "<p>🌨️ Honestly Canada, I expected a different April shower. Full blown snow storm in bloody April. Enough of this stupid winter already</p>\n",
+				"content_text": "🌨️ Honestly Canada, I expected a different April shower. Full blown snow storm in bloody April. Enough of this stupid winter already\n",
+				"date_published": "2025-04-02T14:32:39-04:00",
+				"url": "https://www.kaa.bz/2025/04/02/honestly-canada-i-expected-a/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/03/30/i-couldnt-help-myself-had/",
+				
+				"content_html": "<p>I couldn’t help myself. Had to get one. Always been a Williams fan, but they’ve not been a great team for over 20 years.</p>\n<p><img src=\"https://www.kaa.bz/uploads/2025/5f418493ea.jpg\" alt=\"\"></p>\n",
+				"content_text": "\nI couldn’t help myself. Had to get one. Always been a Williams fan, but they’ve not been a great team for over 20 years.\n\n![](https://www.kaa.bz/uploads/2025/5f418493ea.jpg)\n",
+				"date_published": "2025-03-30T17:04:27-04:00",
+				"url": "https://www.kaa.bz/2025/03/30/i-couldnt-help-myself-had/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/03/29/finished-reading-scalped-deluxe-book/",
+				
+				"content_html": "<p>📚 Finished reading: <a href=\"https://micro.blog/books/9781401272098\">Scalped Deluxe Book Five</a> by Jason Aaron. Finally finished reading this series. Completed 13 years ago. i began reading it when it first came out and Vertigo Comics was still a thriving imprint. Still trying to digest how I feel about that ending. In some ways its just right.</p>\n",
+				"content_text": "📚 Finished reading: [Scalped Deluxe Book Five](https://micro.blog/books/9781401272098) by Jason Aaron. Finally finished reading this series. Completed 13 years ago. i began reading it when it first came out and Vertigo Comics was still a thriving imprint. Still trying to digest how I feel about that ending. In some ways its just right.\n",
+				"date_published": "2025-03-29T22:35:57-04:00",
+				"url": "https://www.kaa.bz/2025/03/29/finished-reading-scalped-deluxe-book/",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/03/28/finished-reading-witch-hat-atelier/",
+				
+				"content_html": "<p>📚 Finished reading: <a href=\"https://micro.blog/books/9781642127683\">Witch Hat Atelier, Volume 1</a> by Kamome Shirahama. This was light and fun. Certainly not in the <em>general</em> demographic for this type of book, but it has vibes of <em>Kiki’s Delivery Service</em>, by way of <em>Harry Potter</em>.</p>\n",
+				"content_text": "📚 Finished reading: [Witch Hat Atelier, Volume 1](https://micro.blog/books/9781642127683) by Kamome Shirahama. This was light and fun. Certainly not in the _general_ demographic for this type of book, but it has vibes of _Kiki’s Delivery Service_, by way of _Harry Potter_.\n",
+				"date_published": "2025-03-28T19:53:48-04:00",
+				"url": "https://www.kaa.bz/2025/03/28/finished-reading-witch-hat-atelier/",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/03/28/would-totally-buy-this-maga/",
+				
+				"content_html": "<p>Would totally buy this MAGA hat.\n<img src=\"https://www.kaa.bz/uploads/2025/img-3019.jpeg\" alt=\"\"></p>\n",
+				"content_text": "Would totally buy this MAGA hat. \n ![](https://www.kaa.bz/uploads/2025/img-3019.jpeg)\n",
+				"date_published": "2025-03-28T08:33:59-04:00",
+				"url": "https://www.kaa.bz/2025/03/28/would-totally-buy-this-maga/"
+			},
+			{
 				"id": "http://kaa.micro.blog/2025/03/28/red-and-white-in-the/",
 				
 				"content_html": "<p>🇨🇦🇬🇱🇩🇰 Red and white. In the fight against the big fat 🍊.</p>\n",
@@ -30,15 +72,6 @@
 				"content_text": "📚 Finished reading: [Friday Book Three](https://micro.blog/books/9781534327733) by Ed Brubaker. \n",
 				"date_published": "2025-03-25T06:46:31-04:00",
 				"url": "https://www.kaa.bz/2025/03/25/finished-reading-friday-book-three/",
-				"tags": ["Books"]
-			},
-			{
-				"id": "http://kaa.micro.blog/2025/03/25/finished-reading-friday-volume-by/",
-				
-				"content_html": "<p>📚 Finished reading: <a href=\"https://micro.blog/books/9781534324596\">Friday, Volume 2</a> by Ed Brubaker</p>\n",
-				"content_text": "📚 Finished reading: [Friday, Volume 2](https://micro.blog/books/9781534324596) by Ed Brubaker \n",
-				"date_published": "2025-03-25T06:46:25-04:00",
-				"url": "https://www.kaa.bz/2025/03/25/finished-reading-friday-volume-by/",
 				"tags": ["Books"]
 			},
 			{
@@ -11610,8 +11643,8 @@
 			{
 				"id": "http://kaa.micro.blog/2022/03/30/just-putting-this-here-for/",
 				
-				"content_html": "<p>Just putting this here for the moment.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/2509/2022/ccae76941e.svg\" alt=\"\"></p>\n",
-				"content_text": "Just putting this here for the moment.\r\n\r\n![](https://cdn.uploads.micro.blog/2509/2022/ccae76941e.svg)\n",
+				"content_html": "<p>Just putting this here for the moment.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Just putting this here for the moment.\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2022/ccae76941e.svg\">\n",
 				"date_published": "2022-03-30T15:23:41-04:00",
 				"url": "https://www.kaa.bz/2022/03/30/just-putting-this-here-for/"
 			},
