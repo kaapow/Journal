@@ -7,10 +7,27 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2025/05/11/greek-feast-biftekia-mustard-potatoes/",
+				
+				"content_html": "<p>🍳 Greek feast. Biftekia. Mustard potatoes. Tzatziki. Greek salad. Freshly braked pita bread. It all came together perfectly.</p>\n",
+				"content_text": "🍳 Greek feast. Biftekia. Mustard potatoes. Tzatziki. Greek salad. Freshly braked pita bread. It all came together perfectly. \n",
+				"date_published": "2025-05-11T23:16:42-04:00",
+				"url": "https://www.kaa.bz/2025/05/11/greek-feast-biftekia-mustard-potatoes/",
+				"tags": ["Cooking"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2025/05/10/145832/",
+				
+				"content_html": "<p><img src=\"https://www.kaa.bz/uploads/2025/image-20250510-145826-116290e8.jpg\" alt=\"\"></p>\n",
+				"content_text": "\n\n![](https://www.kaa.bz/uploads/2025/image-20250510-145826-116290e8.jpg)\n",
+				"date_published": "2025-05-10T14:58:32-04:00",
+				"url": "https://www.kaa.bz/2025/05/10/145832/"
+			},
+			{
 				"id": "http://kaa.micro.blog/2025/05/06/setting-things-up-for-the/",
 				
 				"content_html": "<p>Setting things up for the spring and summer.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Setting things up for the spring and summer.\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2025/40be351ae1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Setting things up for the spring and summer.\n\n<img src=\"uploads/2025/40be351ae1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-05-06T21:52:58-04:00",
 				"url": "https://www.kaa.bz/2025/05/06/setting-things-up-for-the/",
 				"tags": ["Photos"]
@@ -21098,8 +21115,8 @@
 			{
 				"id": "http://kaa.micro.blog/2019/05/05/seems-this-book-under-the/",
 				
-				"content_html": "<p>Seems [this book](<a href=\"https://www.amazon.com/Under-Influence-Instagram-Influencer-Delusional-ebook/dp/B07QDPDDY6/ref=as_li_ss_tl?crid=1KNINXUFQ8OLM&amp;keywords=under\">https://www.amazon.com/Under-Influence-Instagram-Influencer-Delusional-ebook/dp/B07QDPDDY6/ref=as_li_ss_tl?crid=1KNINXUFQ8OLM&amp;keywords=under</a> the influence&amp;qid=1556768799&amp;s=books&amp;sprefix=under the in,stripbooks,183&amp;sr=1-2&amp;linkCode=sl1&amp;tag=recomendos-20&amp;linkId=cc82f2a3404f1bd596d8caf79f7fee56&amp;language=en_US) <em>Under the Influence</em> is a good read while we wait for <a href=\"https://micro.blog/manton\">@manton</a> to finish off his book about social media. Via <a href=\"https://www.getrevue.co/profile/Recomendo\">Recommendo</a></p>\n",
-				"content_text": "Seems [this book](https://www.amazon.com/Under-Influence-Instagram-Influencer-Delusional-ebook/dp/B07QDPDDY6/ref=as_li_ss_tl?crid=1KNINXUFQ8OLM&keywords=under the influence&qid=1556768799&s=books&sprefix=under the in,stripbooks,183&sr=1-2&linkCode=sl1&tag=recomendos-20&linkId=cc82f2a3404f1bd596d8caf79f7fee56&language=en_US) _Under the Influence_ is a good read while we wait for [@manton](https://micro.blog/manton) to finish off his book about social media. Via [Recommendo](https://www.getrevue.co/profile/Recomendo)\n",
+				"content_html": "<p>Seems <a href=\"https://www.amazon.com/Under-Influence-Instagram-Influencer-Delusional-ebook/dp/B07QDPDDY6/\">this book</a> <em>Under the Influence</em> is a good read while we wait for <a href=\"https://micro.blog/manton\">@manton</a> to finish off his book about social media. Via <a href=\"https://www.getrevue.co/profile/Recomendo\">Recommendo</a></p>\n",
+				"content_text": "Seems [this book](https://www.amazon.com/Under-Influence-Instagram-Influencer-Delusional-ebook/dp/B07QDPDDY6/) _Under the Influence_ is a good read while we wait for [@manton](https://micro.blog/manton) to finish off his book about social media. Via [Recommendo](https://www.getrevue.co/profile/Recomendo)\n",
 				"date_published": "2019-05-05T12:40:28-04:00",
 				"url": "https://www.kaa.bz/2019/05/05/seems-this-book-under-the/"
 			},
