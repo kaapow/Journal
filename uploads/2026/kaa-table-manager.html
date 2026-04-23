@@ -1,0 +1,1001 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KAA — Table Manager</title>
+
+  <style>
+    @font-face { font-family: 'merriweather-sans-black';  src: url('https://www.kaa.bz/uploads/2020/7eb661a314.woff') format('woff'); }
+    @font-face { font-family: 'merriweather-black';        src: url('https://www.kaa.bz/uploads/2020/d46c74e72d.woff') format('woff'); }
+    @font-face { font-family: 'merriweather-bold';         src: url('https://www.kaa.bz/uploads/2019/7fea823e57.woff') format('woff'); }
+    @font-face { font-family: 'merriweather-italic';       src: url('https://www.kaa.bz/uploads/2019/d15727fc59.woff') format('woff'); }
+    @font-face { font-family: 'merriweather-roman';        src: url('https://www.kaa.bz/uploads/2019/efe373a493.woff') format('woff'); }
+    @font-face { font-family: 'merriweather-sans-regular'; src: url('https://www.kaa.bz/uploads/2020/9261083576.woff') format('woff'); }
+
+    :root {
+      --bg:        #f3f3f4;
+      --ink:       #1a1a1c;
+      --accent:    #1a6fd4;
+      --subtle:    #96979d;
+      --border:    #d8d8dc;
+      --highlight: #e8eef6;
+      --inverse:   #1a1a1c;
+      --inv-fg:    #f3f3f4;
+      --th-bg:     #e4e4e8;
+      --th-rule:   #b8b8c0;
+      --tr-stripe: #ececed;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg:        #2e2e31;
+        --ink:       #d0d0d4;
+        --accent:    #5b96d6;
+        --subtle:    #909096;
+        --border:    #3e3e42;
+        --highlight: #252a36;
+        --inverse:   #1e1e21;
+        --inv-fg:    #d0d0d4;
+        --th-bg:     #252528;
+        --th-rule:   #4a4a50;
+        --tr-stripe: #2a2a2d;
+      }
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { font-size: 62.5%; }
+    body {
+      font-family: 'merriweather-roman', Georgia, serif;
+      font-size: 1.4rem;
+      line-height: 1.6;
+      background: var(--bg);
+      color: var(--ink);
+      text-rendering: optimizeLegibility;
+    }
+
+    /* ── NAV ── */
+    #nav {
+      background: var(--inverse);
+      color: var(--inv-fg);
+      display: flex;
+      align-items: center;
+      height: 48px;
+      padding: 0 20px;
+      gap: 14px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    #nav .logo { display:flex; align-items:center; height:20px; flex-shrink:0; }
+    #nav .logo svg { height:20px; width:auto; }
+    #nav .title {
+      font-family: 'merriweather-sans-black', sans-serif;
+      font-size: 1.4rem;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      color: var(--inv-fg);
+      white-space: nowrap;
+    }
+    #nav .sep { color: rgba(255,255,255,.2); font-size:1.2rem; }
+    #manage-btn {
+      background: none; border: none;
+      color: rgba(255,255,255,.5);
+      font-family: 'merriweather-sans-regular', sans-serif;
+      font-size: 1.2rem;
+      cursor: pointer;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+      padding: 0;
+      transition: color .15s;
+      display: none;
+    }
+    #manage-btn:hover { color: var(--inv-fg); }
+    #nav .spacer { flex:1; }
+    #user-chip {
+      font-family: 'merriweather-sans-regular', sans-serif;
+      font-size: 1.1rem;
+      color: rgba(255,255,255,.4);
+      font-style: italic;
+    }
+    #auth-btn {
+      font-family: 'merriweather-sans-regular', sans-serif;
+      font-size: 1.1rem;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      background: transparent;
+      border: 1px solid rgba(255,255,255,.3);
+      color: var(--inv-fg);
+      padding: 4px 14px;
+      height: 30px;
+      cursor: pointer;
+      transition: border-color .15s, background .15s;
+    }
+    #auth-btn:hover { border-color: rgba(255,255,255,.7); background: rgba(255,255,255,.08); }
+
+    /* ── CONTAINER ── */
+    .container { width:80%; max-width:900px; margin:0 auto; padding:0 20px; }
+
+    /* ── UNAUTH ── */
+    #unauth { padding: 5rem 0 3rem; max-width: 500px; }
+    #unauth h1 {
+      font-family: 'merriweather-sans-black', sans-serif;
+      font-variant: small-caps;
+      text-transform: lowercase;
+      font-size: 2rem;
+      margin-bottom: 1.5rem;
+    }
+    #unauth p { font-size:1.4rem; line-height:2.4rem; color:var(--subtle); margin-bottom:2rem; }
+
+    /* ── FIELD ROW ── */
+    .frow {
+      display: flex;
+      align-items: flex-start;
+      margin-bottom: 1.8rem;
+    }
+    .flabel {
+      width: 20%;
+      padding-right: 20px;
+      padding-top: 9px;
+      flex-shrink: 0;
+      font-family: 'merriweather-sans-regular', sans-serif;
+      font-size: 1.1rem;
+      letter-spacing: .05em;
+      text-transform: uppercase;
+      color: var(--subtle);
+    }
+    .finput { width: 80%; }
+    @media (max-width:600px) {
+      .frow { flex-direction:column; }
+      .flabel, .finput { width:100%; padding-right:0; }
+      .flabel { padding-top:0; margin-bottom:4px; }
+    }
+
+    /* ── FORM CONTROLS ── */
+    input[type="text"], input[type="number"], input[type="password"], select, textarea {
+      height: 38px;
+      padding: 6px 10px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 0;
+      width: 100%;
+      font-family: 'merriweather-roman', Georgia, serif;
+      font-size: 1.4rem;
+      color: var(--ink);
+      -webkit-appearance: none;
+      appearance: none;
+      transition: border-color .15s;
+    }
+    input:focus, select:focus, textarea:focus { border-color: var(--accent); outline: 0; }
+    select {
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%2396979d'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 10px center;
+      padding-right: 28px;
+      cursor: pointer;
+    }
+    textarea { height: auto; min-height: 55px; resize: vertical; }
+    .ilabel {
+      display: block;
+      font-family: 'merriweather-sans-regular', sans-serif;
+      font-size: 1.1rem;
+      letter-spacing: .05em;
+      text-transform: uppercase;
+      color: var(--subtle);
+      margin-bottom: 5px;
+    }
+
+    /* ── BUTTONS ── */
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      height: 38px;
+      padding: 0 22px;
+      font-family: 'merriweather-sans-regular', sans-serif;
+      font-size: 1.1rem;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      background: var(--ink);
+      color: var(--inv-fg);
+      border: 1px solid var(--ink);
+      border-radius: 0;
+      cursor: pointer;
+      transition: background .15s, color .15s;
+      white-space: nowrap;
+    }
+    .btn:hover { background: transparent; color: var(--ink); }
+    .btn:disabled { opacity:.4; cursor:not-allowed; }
+    .btn:disabled:hover { background: var(--ink); color: var(--inv-fg); }
+    .btn-o { background: transparent; color: var(--ink); }
+    .btn-o:hover { background: var(--ink); color: var(--inv-fg); }
+    .brow { display:flex; gap:10px; flex-wrap:wrap; align-items:center; }
+
+    /* ── SECTION ── */
+    .srule { border:none; border-top:1px solid var(--border); margin:3rem 0 2rem; }
+    .slabel {
+      display: block;
+      font-family: 'merriweather-sans-regular', sans-serif;
+      font-size: 1.1rem;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      color: var(--subtle);
+      margin-bottom: 1.5rem;
+    }
+
+    /* ── MESSAGES ── */
+    .msg {
+      font-family: 'merriweather-sans-regular', sans-serif;
+      font-size: 1.2rem;
+      padding: 8px 12px;
+      border-left: 3px solid;
+      margin-top: 1rem;
+    }
+    .msg-e { background:#fff0f0; border-color:#c62828; color:#c62828; }
+    .msg-i { background:var(--highlight); border-color:var(--accent); color:var(--accent); }
+    .msg-l { background:var(--tr-stripe); border-color:var(--subtle); color:var(--subtle); font-style:italic; }
+
+    /* ── CORS WARNING ── */
+    #cors-note {
+      background: var(--highlight);
+      border: 1px solid var(--accent);
+      padding: 14px 18px;
+      margin-top: 2rem;
+      font-size: 1.3rem;
+      line-height: 2rem;
+      display: none;
+    }
+    #cors-note code { background: rgba(0,0,0,.06); padding: 1px 5px; font-size:1.1rem; }
+
+    /* ── TABLE DISPLAY ── */
+    .twrap { overflow-x:auto; margin-top:8px; }
+    table { border-collapse:collapse; width:100%; }
+    th {
+      background: var(--th-bg);
+      font-family: 'merriweather-sans-regular', sans-serif;
+      font-weight: normal;
+      color: var(--subtle);
+      text-transform: uppercase;
+      font-size: 1.1rem;
+      letter-spacing: .06em;
+      border-bottom: 2px solid var(--th-rule);
+      padding: 5px 15px;
+      text-align: left;
+    }
+    td { border-bottom:1px solid var(--border); vertical-align:top; padding:5px 15px; font-size:1.3rem; }
+    th:first-child, td:first-child { padding-left:5px; }
+    th:last-child, td:last-child { padding-right:5px; }
+    tbody tr:nth-child(even) { background:var(--tr-stripe); }
+    tbody tr:hover { background:var(--highlight); }
+    .tmeta { font-family:'merriweather-sans-regular',sans-serif; font-size:1.1rem; color:var(--subtle); margin-top:6px; font-style:italic; }
+
+    /* ── TABLE TABS ── */
+    .tabs { display:flex; gap:8px; flex-wrap:wrap; }
+    .ttab {
+      font-family:'merriweather-sans-regular',sans-serif;
+      font-size:1.1rem; letter-spacing:.06em; text-transform:uppercase;
+      padding:4px 14px; border:1px solid var(--border);
+      background:var(--bg); color:var(--subtle); cursor:pointer; transition:all .15s;
+    }
+    .ttab:hover, .ttab.on { background:var(--ink); color:var(--inv-fg); border-color:var(--ink); }
+
+    /* ── NEW TABLE STEPS ── */
+    .stepbar { display:flex; align-items:center; gap:8px; margin-bottom:2rem; }
+    .pip { width:8px; height:8px; border-radius:50%; background:var(--border); transition:background .2s; flex-shrink:0; }
+    .pip.on { background:var(--ink); }
+    .pip.done { background:var(--subtle); }
+    .steplabel { font-family:'merriweather-sans-regular',sans-serif; font-size:1.1rem; letter-spacing:.06em; text-transform:uppercase; color:var(--subtle); }
+
+    /* new table col inputs grid */
+    .colsgrid { display:flex; flex-wrap:wrap; gap:12px; margin-top:4px; }
+    .colitem { flex:1 1 140px; }
+
+    /* ── MODALS ── */
+    .overlay { display:none; position:fixed; inset:0; background:rgba(0,0,0,.5); z-index:200; align-items:center; justify-content:center; }
+    .overlay.on { display:flex; }
+    .mbox { background:var(--bg); border:1px solid var(--border); max-width:520px; width:90vw; max-height:82vh; display:flex; flex-direction:column; }
+    .mhead { display:flex; align-items:center; justify-content:space-between; padding:14px 20px; border-bottom:1px solid var(--border); }
+    .mhead h2 { font-family:'merriweather-sans-black',sans-serif; font-variant:small-caps; text-transform:lowercase; font-size:1.6rem; color:var(--ink); }
+    .mclose { background:none; border:none; font-size:2rem; cursor:pointer; color:var(--subtle); line-height:1; padding:0; }
+    .mclose:hover { color:var(--ink); }
+    .mbody { overflow-y:auto; padding:16px 20px; flex:1; }
+    .mfoot { padding:12px 20px; border-top:1px solid var(--border); display:flex; justify-content:flex-end; gap:10px; }
+
+    /* page list */
+    .pglist { list-style:none; padding:0; margin:0; }
+    .pglist li { display:flex; align-items:center; gap:10px; padding:8px 0; border-bottom:1px solid var(--border); font-size:1.3rem; }
+    .pglist li:last-child { border-bottom:none; }
+    .pglist li input[type=checkbox] { width:15px; height:15px; flex-shrink:0; cursor:pointer; }
+    .pglist li label { flex:1; cursor:pointer; font-family:'merriweather-roman',serif; }
+    .pglist .purl { font-family:'merriweather-sans-regular',sans-serif; font-size:1.05rem; color:var(--subtle); font-style:italic; }
+
+    /* ── SPINNER ── */
+    .spin {
+      display:inline-block; width:12px; height:12px;
+      border:2px solid rgba(255,255,255,.25); border-top-color:rgba(255,255,255,.85);
+      border-radius:50%; animation:sp .7s linear infinite;
+      vertical-align:middle; margin-right:6px;
+    }
+    .spin.d { border-color:var(--border); border-top-color:var(--ink); }
+    @keyframes sp { to { transform:rotate(360deg); } }
+
+    /* ── TOAST + CANVAS ── */
+    #confetti { position:fixed; inset:0; pointer-events:none; z-index:999; display:none; }
+    #toast {
+      position:fixed; bottom:24px; left:50%;
+      transform:translateX(-50%) translateY(14px);
+      background:var(--inverse); color:var(--inv-fg);
+      font-family:'merriweather-sans-regular',sans-serif;
+      font-size:1.3rem; letter-spacing:.04em;
+      padding:12px 28px; z-index:1000;
+      opacity:0; transition:opacity .3s, transform .3s;
+      pointer-events:none; white-space:nowrap;
+    }
+    #toast.on { opacity:1; transform:translateX(-50%) translateY(0); }
+  </style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav id="nav">
+  <div class="logo">
+    <svg viewBox="0 0 170 79" xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+      <g transform="translate(-5,-256)">
+        <g transform="matrix(6.46599,0,0,3.04946,-290.926,167.831)">
+          <rect x="44.993" y="26.924" width="27.838" height="29.513" fill="#f3f3f4"/>
+          <g transform="matrix(0.525226,0,0,0.467003,41.6335,24.6413)">
+            <rect x="7.869" y="8.6" width="50.057" height="56.175" fill="#f3f3f4"/>
+          </g>
+          <g transform="matrix(0.305207,0,0,0.647153,28.1694,-4.16646)">
+            <path d="M79.893,81.819L87.963,81.309L84.813,77.289L79.473,70.389L87.363,60.339L79.533,60.339C78.453,61.899 76.743,64.419 75.993,65.469L73.683,68.769L73.683,64.689C73.683,63.519 73.713,61.119 73.833,60.249C72.813,60.369 67.653,60.399 66.453,60.399C66.603,61.839 66.663,65.709 66.663,67.629L66.663,74.259C66.663,76.209 66.603,80.049 66.453,81.489L73.833,81.489C73.713,80.649 73.683,78.309 73.683,77.169L73.683,73.059L79.893,81.819Z" fill="#1a1a1c"/>
+            <path d="M87.423,81.489L94.593,81.489L95.703,78.429L102.573,78.429L103.803,81.729L111.213,81.489C110.373,79.629 109.263,77.199 108.483,75.339L102.123,60.159L96.033,60.489C95.463,62.169 94.833,63.639 93.813,66.129L87.423,81.489ZM99.093,68.229L101.193,74.289L96.993,74.289L99.093,68.229Z" fill="#1a1a1c"/>
+            <path d="M111.213,81.489L118.383,81.489L119.493,78.429L126.363,78.429L127.593,81.729L135.003,81.489C134.163,79.629 133.053,77.199 132.273,75.339L125.913,60.159L119.823,60.489C119.253,62.169 118.623,63.639 117.603,66.129L111.213,81.489ZM122.883,68.229L124.983,74.289L120.783,74.289L122.883,68.229Z" fill="#1a1a1c"/>
+          </g>
+        </g>
+      </g>
+    </svg>
+  </div>
+  <span class="title">Tables</span>
+  <span class="sep">·</span>
+  <button id="manage-btn" onclick="openManage()">Manage Pages</button>
+  <div class="spacer"></div>
+  <span id="user-chip"></span>
+  <button id="auth-btn" onclick="handleAuth()">Log In</button>
+</nav>
+
+<!-- MAIN -->
+<div class="container">
+
+  <!-- UNAUTHENTICATED -->
+  <div id="unauth">
+    <h1>Table Manager</h1>
+    <p>Add rows to Markdown tables on your Micro.blog pages — no editing raw source needed.</p>
+    <p>You'll need a Micro.blog <strong>App Token</strong> from<br><strong>micro.blog → Account → App Tokens</strong>.</p>
+    <button class="btn" onclick="handleAuth()">Log In</button>
+    <div id="cors-note">
+      <strong>Note:</strong> Micro.blog's API requires CORS headers. If running this file from <code>file://</code> on your Mac, the browser may block the API calls. Easiest fix: run <code>npx serve .</code> in the same folder and open <code>http://localhost:3000</code> instead.
+    </div>
+  </div>
+
+  <!-- AUTHENTICATED -->
+  <div id="authed" style="display:none">
+
+    <div style="margin-top:2.5rem">
+      <div class="frow">
+        <div class="flabel">Page</div>
+        <div class="finput">
+          <select id="page-sel" onchange="onPageSelect()">
+            <option value="">— select a page —</option>
+          </select>
+          <div id="page-msg"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- WORKSPACE -->
+    <div id="workspace" style="display:none">
+
+      <!-- Existing table -->
+      <div id="ex-area" style="display:none">
+        <hr class="srule">
+        <span class="slabel">Existing Table</span>
+
+        <div id="tab-row" style="display:none">
+          <div class="frow">
+            <div class="flabel">Table</div>
+            <div class="finput"><div class="tabs" id="tabs"></div></div>
+          </div>
+        </div>
+
+        <div class="frow">
+          <div class="flabel">Preview</div>
+          <div class="finput">
+            <div class="twrap"><table id="preview-tbl"></table></div>
+            <p class="tmeta" id="tbl-meta"></p>
+          </div>
+        </div>
+
+        <hr class="srule">
+        <span class="slabel">Add New Row</span>
+        <div id="row-fields"></div>
+
+        <div class="frow">
+          <div class="flabel"></div>
+          <div class="finput">
+            <button class="btn" id="add-btn" onclick="submitRow()">Add to Table</button>
+            <div id="add-msg"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- New table wizard -->
+      <div id="new-area" style="display:none">
+        <hr class="srule">
+        <span class="slabel">Create New Table</span>
+        <div class="stepbar">
+          <div class="pip on" id="p1"></div>
+          <div class="pip" id="p2"></div>
+          <div class="pip" id="p3"></div>
+          <span class="steplabel" id="slbl">Step 1 — Number of columns</span>
+        </div>
+
+        <div id="ns1">
+          <div class="frow">
+            <div class="flabel">Columns</div>
+            <div class="finput">
+              <input type="number" id="ncols" min="1" max="16" value="3" style="width:100px">
+              <p class="tmeta" style="margin-top:6px">How many columns will this table have?</p>
+            </div>
+          </div>
+          <div class="frow"><div class="flabel"></div><div class="finput">
+            <button class="btn" onclick="nStep2()">Next →</button>
+          </div></div>
+        </div>
+
+        <div id="ns2" style="display:none">
+          <div class="frow">
+            <div class="flabel">Headers</div>
+            <div class="finput"><div class="colsgrid" id="hdr-inputs"></div></div>
+          </div>
+          <div class="frow"><div class="flabel"></div><div class="finput">
+            <div class="brow">
+              <button class="btn btn-o" onclick="nStep1()">← Back</button>
+              <button class="btn" onclick="nStep3()">Next →</button>
+            </div>
+          </div></div>
+        </div>
+
+        <div id="ns3" style="display:none">
+          <hr class="srule" style="margin-top:0">
+          <span class="slabel">First Row Values</span>
+          <div id="new-row-fields"></div>
+          <div class="frow"><div class="flabel"></div><div class="finput">
+            <div class="brow">
+              <button class="btn btn-o" onclick="nStep2()">← Back</button>
+              <button class="btn" onclick="submitNew(false)">Create Table</button>
+              <button class="btn btn-o" onclick="submitNew(true)" style="font-size:1.0rem">Create (empty)</button>
+            </div>
+            <div id="new-msg"></div>
+          </div></div>
+        </div>
+      </div>
+
+    </div><!-- /workspace -->
+  </div><!-- /authed -->
+</div>
+
+<!-- LOGIN MODAL -->
+<div class="overlay" id="login-modal">
+  <div class="mbox" style="max-width:400px">
+    <div class="mhead">
+      <h2>Log In</h2>
+      <button class="mclose" onclick="closeLogin()">×</button>
+    </div>
+    <div class="mbody">
+      <p style="font-family:'merriweather-roman',serif;font-size:1.3rem;line-height:2.2rem;color:var(--subtle);margin-bottom:1.8rem">
+        Generate a token at <strong>micro.blog → Account → App Tokens</strong>, then paste it below.
+        The token is stored in your browser's localStorage — it never leaves your device.
+      </p>
+      <label class="ilabel" for="tok-input">App Token</label>
+      <input type="password" id="tok-input" placeholder="Paste your app token…" autocomplete="off" style="margin-bottom:6px">
+      <div id="login-msg"></div>
+    </div>
+    <div class="mfoot">
+      <button class="btn btn-o" onclick="closeLogin()">Cancel</button>
+      <button class="btn" id="login-btn" onclick="doLogin()">Log In</button>
+    </div>
+  </div>
+</div>
+
+<!-- MANAGE PAGES MODAL -->
+<div class="overlay" id="manage-modal">
+  <div class="mbox">
+    <div class="mhead">
+      <h2>Manage Pages</h2>
+      <button class="mclose" onclick="closeManage()">×</button>
+    </div>
+    <div class="mbody">
+      <p style="font-family:'merriweather-roman',serif;font-size:1.3rem;line-height:2.2rem;color:var(--subtle);margin-bottom:1.5rem">
+        Tick the pages to include in the page dropdown. Untick to hide.
+      </p>
+      <div id="manage-load" style="font-family:'merriweather-sans-regular',sans-serif;font-size:1.2rem;color:var(--subtle);font-style:italic">
+        <span class="spin d"></span> Loading pages from Micro.blog…
+      </div>
+      <ul class="pglist" id="pg-list"></ul>
+    </div>
+    <div class="mfoot">
+      <button class="btn btn-o" onclick="closeManage()">Cancel</button>
+      <button class="btn" onclick="saveManage()">Save</button>
+    </div>
+  </div>
+</div>
+
+<canvas id="confetti"></canvas>
+<div id="toast"></div>
+
+<script>
+/* ═══ STATE ══════════════════════════════════ */
+// Safe localStorage wrapper — silently falls back to memory if blocked
+const LS = {
+  _mem: {},
+  get(k) { try { return localStorage.getItem(k); } catch(e) { return this._mem[k] || null; } },
+  set(k, v) { try { localStorage.setItem(k, v); } catch(e) {} this._mem[k] = v; },
+  remove(k) { try { localStorage.removeItem(k); } catch(e) {} delete this._mem[k]; },
+  getJSON(k, def) { try { return JSON.parse(this.get(k)) || def; } catch(e) { return def; } },
+};
+
+const S = {
+  token:       LS.get('mb_token') || null,
+  username:    LS.get('mb_username') || null,
+  destination: LS.get('mb_dest') || null,
+  allPages:    [],
+  enabledIds:  LS.getJSON('mb_enabled', null),
+  currentPage: null,
+  content:     null,
+  tables:      [],
+  activeIdx:   0,
+  newHeaders:  [],
+};
+
+/* ═══ BOOT ═══════════════════════════════════ */
+window.addEventListener('DOMContentLoaded', () => {
+  if (location.protocol === 'file:') {
+    document.getElementById('cors-note').style.display = 'block';
+  }
+  if (S.token) bootSession();
+});
+
+async function bootSession() {
+  try {
+    const d = await verifyToken(S.token);
+    if (d.error) throw new Error(d.error);
+    S.username = d.username || d.name || 'kaa';
+    LS.set('mb_username', S.username);
+    await loadDest();
+    onAuthed();
+  } catch(e) {
+    S.token = null; LS.remove('mb_token');
+    console.error('Boot failed:', e.message);
+  }
+}
+
+// /account/verify must be a POST with form-encoded token= body
+async function verifyToken(tok) {
+  const res = await fetch('https://micro.blog/account/verify', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded', 'Accept': 'application/json' },
+    body: 'token=' + encodeURIComponent(tok)
+  });
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  return res.json();
+}
+
+async function loadDest() {
+  // Skip config endpoint — hardcode kaa.bz as destination
+  S.destination = "https://www.kaa.bz/";
+  LS.set("mb_dest", S.destination);
+  console.log("Destination:", S.destination);
+}
+
+function onAuthed() {
+  document.getElementById('unauth').style.display = 'none';
+  document.getElementById('authed').style.display = 'block';
+  document.getElementById('manage-btn').style.display = 'inline';
+  document.getElementById('user-chip').textContent = '@' + S.username;
+  document.getElementById('auth-btn').textContent = 'Log Out';
+  buildDropdown();
+}
+
+/* ═══ AUTH ════════════════════════════════════ */
+function handleAuth() {
+  if (S.token) {
+    ['mb_token','mb_username','mb_dest'].forEach(k => LS.remove(k));
+    Object.assign(S, { token:null, username:null, destination:null, allPages:[], currentPage:null });
+    document.getElementById('authed').style.display = 'none';
+    document.getElementById('unauth').style.display = 'block';
+    document.getElementById('manage-btn').style.display = 'none';
+    document.getElementById('user-chip').textContent = '';
+    document.getElementById('auth-btn').textContent = 'Log In';
+    document.getElementById('workspace').style.display = 'none';
+  } else { openLogin(); }
+}
+
+function openLogin() { document.getElementById('login-modal').classList.add('on'); setTimeout(()=>document.getElementById('tok-input').focus(),80); }
+function closeLogin() { document.getElementById('login-modal').classList.remove('on'); clearMsg('login-msg'); }
+
+async function doLogin() {
+  const tok = document.getElementById('tok-input').value.trim();
+  if (!tok) { setMsg('login-msg','Please enter a token.','e'); return; }
+  const btn = document.getElementById('login-btn');
+  btn.disabled = true; btn.innerHTML = '<span class="spin"></span>Checkingu2026';
+  clearMsg('login-msg');
+  try {
+    const d = await verifyToken(tok);
+    if (d.error) throw new Error(d.error);
+    S.token = tok;
+    S.username = d.username || d.name || 'kaa';
+    LS.set('mb_token', tok);
+    LS.set('mb_username', S.username);
+    console.log('Logged in as', S.username, '— token length:', tok.length, '— S.token set:', !!S.token);
+    closeLogin();
+    document.getElementById('tok-input').value = '';
+    await loadDest();
+    onAuthed();
+  } catch(e) {
+    setMsg('login-msg', 'Login failed: ' + e.message, 'e');
+    console.error(e);
+  }
+  btn.disabled = false; btn.innerHTML = 'Log In';
+}
+
+/* ═══ API HELPERS ═════════════════════════════ */
+async function mbGet(url) {
+  const res = await fetch(url, {
+    headers: { 'Authorization': 'Bearer ' + S.token, 'Accept': 'application/json' }
+  });
+  if (!res.ok) {
+    const body = await res.text().catch(() => '');
+    console.error('mbGet FAILED', res.status, url, 'BODY:', body);
+    throw new Error('HTTP ' + res.status + (body ? ' — ' + body.substring(0, 300) : ''));
+  }
+  const json = await res.json();
+  console.log('mbGet OK', url, json);
+  return json;
+}
+
+async function mbPost(body) {
+  const res = await fetch('https://micro.blog/micropub', {
+    method: 'POST',
+    headers: {
+      'Authorization': 'Bearer ' + S.token,
+      'Content-Type': 'application/json',
+      'Accept': 'application/json',
+    },
+    body: JSON.stringify(body)
+  });
+  if (!res.ok) {
+    const t = await res.text().catch(()=>'');
+    throw new Error('POST micropub → HTTP ' + res.status + (t ? ': ' + t.substring(0,150) : ''));
+  }
+  return res;
+}
+
+/* ═══ PAGES LIST ══════════════════════════════ */
+async function fetchPages() {
+  if (S.allPages.length) return;
+
+  // Try four different query combinations in order until one works
+  const attempts = [
+    'https://micro.blog/micropub?q=source&mp-channel=pages&mp-destination=' + encodeURIComponent(S.destination),
+    'https://micro.blog/micropub?q=source&mp-channel=pages',
+    'https://micro.blog/micropub?q=source&mp-destination=' + encodeURIComponent(S.destination),
+    'https://micro.blog/micropub?q=source',
+  ];
+
+  let data = null;
+  for (const url of attempts) {
+    try {
+      console.log('Trying pages URL:', url);
+      data = await mbGet(url);
+      console.log('Success with:', url, data);
+      break;
+    } catch(e) {
+      console.warn('Failed:', url, e.message);
+    }
+  }
+
+  if (!data) throw new Error('All page query attempts failed — check console for details');
+
+  S.allPages = (data.items || []).map(item => {
+    const p = item.properties || {};
+    const name = arr(p.name)[0] || '';
+    const purl = arr(p.url)[0]  || '';
+    return { name: name || purl || '(unnamed)', url: purl };
+  }).filter(x => x.url);
+
+  console.log('Pages loaded:', S.allPages.length, S.allPages.map(p => p.name));
+}
+
+function arr(v) { return Array.isArray(v) ? v : (v ? [v] : []); }
+
+async function buildDropdown() {
+  const sel = document.getElementById('page-sel');
+  sel.innerHTML = '<option value="">— loading… —</option>';
+  setMsg('page-msg','Fetching pages from Micro.blog…','l');
+  try {
+    await fetchPages();
+    clearMsg('page-msg');
+    populateDrop();
+  } catch(e) {
+    sel.innerHTML = '<option value="">— failed to load pages —</option>';
+    setMsg('page-msg','Could not load pages: ' + e.message,'e');
+  }
+}
+
+function populateDrop() {
+  const sel = document.getElementById('page-sel');
+  const pages = S.enabledIds ? S.allPages.filter(p => S.enabledIds.includes(p.url)) : S.allPages;
+  sel.innerHTML = '<option value="">— select a page —</option>';
+  pages.forEach(p => {
+    const o = document.createElement('option');
+    o.value = p.url; o.textContent = p.name;
+    sel.appendChild(o);
+  });
+}
+
+/* ═══ MANAGE PAGES ════════════════════════════ */
+async function openManage() {
+  document.getElementById('manage-modal').classList.add('on');
+  const list = document.getElementById('pg-list');
+  const load = document.getElementById('manage-load');
+  list.innerHTML = ''; load.style.display = 'block';
+  try {
+    await fetchPages();
+    load.style.display = 'none';
+    const enabled = S.enabledIds || S.allPages.map(p => p.url);
+    S.allPages.forEach(p => {
+      const li = document.createElement('li');
+      const id = 'pg-' + Math.random().toString(36).slice(2);
+      li.innerHTML = `<input type="checkbox" id="${id}" value="${esc(p.url)}" ${enabled.includes(p.url)?'checked':''}>
+        <label for="${id}">${esc(p.name)}</label>
+        <span class="purl">${esc(p.url)}</span>`;
+      list.appendChild(li);
+    });
+  } catch(e) {
+    load.innerHTML = '<span style="color:#c62828">Failed: ' + esc(e.message) + '</span>';
+  }
+}
+function closeManage() { document.getElementById('manage-modal').classList.remove('on'); }
+function saveManage() {
+  S.enabledIds = [...document.querySelectorAll('#pg-list input:checked')].map(c => c.value);
+  LS.set('mb_enabled', JSON.stringify(S.enabledIds));
+  closeManage();
+  populateDrop();
+  document.getElementById('page-sel').value = '';
+  document.getElementById('workspace').style.display = 'none';
+}
+
+/* ═══ PAGE SELECT ═════════════════════════════ */
+async function onPageSelect() {
+  const url = document.getElementById('page-sel').value;
+  document.getElementById('workspace').style.display = 'none';
+  clearMsg('page-msg');
+  if (!url) return;
+  S.currentPage = S.allPages.find(p => p.url === url);
+  setMsg('page-msg','Loading page content…','l');
+  try {
+    S.content = await fetchContent(url);
+    S.tables = parseTables(S.content);
+    clearMsg('page-msg');
+    document.getElementById('workspace').style.display = 'block';
+    S.tables.length ? (S.activeIdx=0, showExisting()) : showNew();
+  } catch(e) {
+    setMsg('page-msg','Error loading page: ' + e.message,'e');
+    console.error(e);
+  }
+}
+
+async function fetchContent(pageUrl) {
+  let url = 'https://micro.blog/micropub?q=source&url=' + encodeURIComponent(pageUrl);
+  if (S.destination) url += '&mp-destination=' + encodeURIComponent(S.destination);
+  const data = await mbGet(url);
+  const p = data.properties || {};
+  let c = arr(p.content)[0] || '';
+  if (c && typeof c === 'object') c = c.markdown || c.html || c.value || '';
+  return c;
+}
+
+/* ═══ TABLE PARSING ═══════════════════════════ */
+function parseTables(md) {
+  const tables = [];
+  const re = /(\|[^\n]+\|\n\|[ \t:|\\-]+\|\n(?:\|[^\n]+\|\n?)*)/g;
+  let m;
+  while ((m = re.exec(md)) !== null) {
+    const raw = m[1];
+    const lines = raw.trim().split('\n');
+    const headers = splitRow(lines[0]);
+    const rows = lines.slice(2).map(splitRow).filter(r=>r.length);
+    tables.push({ raw, headers, rows, start: m.index, end: m.index + m[0].length });
+  }
+  return tables;
+}
+
+function splitRow(line) {
+  return line.split('|').map(c=>c.trim()).filter((_,i,a)=>i>0&&i<a.length-1);
+}
+
+function buildMd(headers, rows) {
+  const w = headers.map((h,i)=>Math.max(h.length, ...rows.map(r=>(r[i]||'').length), 3));
+  const pad = (s,n) => s + ' '.repeat(Math.max(0,n-s.length));
+  return [
+    '| ' + headers.map((h,i)=>pad(h,w[i])).join(' | ') + ' |',
+    '| ' + w.map(n=>'-'.repeat(n)).join(' | ') + ' |',
+    ...rows.map(r => '| ' + headers.map((_,i)=>pad(r[i]||'',w[i])).join(' | ') + ' |')
+  ].join('\n');
+}
+
+/* ═══ EXISTING TABLE UI ═══════════════════════ */
+function showExisting() {
+  document.getElementById('ex-area').style.display = 'block';
+  document.getElementById('new-area').style.display = 'none';
+  const multiTabs = S.tables.length > 1;
+  document.getElementById('tab-row').style.display = multiTabs ? 'block' : 'none';
+  if (multiTabs) {
+    document.getElementById('tabs').innerHTML = S.tables.map((_,i)=>
+      `<button class="ttab${i===S.activeIdx?' on':''}" onclick="switchTab(${i})">Table ${i+1}</button>`
+    ).join('');
+  }
+  renderTable();
+}
+
+function switchTab(i) {
+  S.activeIdx = i;
+  document.querySelectorAll('.ttab').forEach((t,j)=>t.classList.toggle('on',j===i));
+  renderTable();
+}
+
+function renderTable() {
+  const t = S.tables[S.activeIdx];
+  const shown = t.rows.slice(-5);
+  document.getElementById('preview-tbl').innerHTML =
+    '<thead><tr>' + t.headers.map(h=>`<th>${esc(h)}</th>`).join('') + '</tr></thead>' +
+    '<tbody>' + shown.map(r=>'<tr>' + t.headers.map((_,i)=>`<td>${esc(r[i]||'')}</td>`).join('') + '</tr>').join('') + '</tbody>';
+  document.getElementById('tbl-meta').textContent =
+    'Showing last ' + shown.length + ' of ' + t.rows.length + ' row' + (t.rows.length!==1?'s':'');
+  mkFields(t.headers, 'row-fields', 'rf');
+}
+
+function mkFields(headers, wrapperId, pfx) {
+  document.getElementById(wrapperId).innerHTML = headers.map((h,i)=>`
+    <div class="frow">
+      <div class="flabel">${esc(h)}</div>
+      <div class="finput"><input type="text" id="${pfx}-${i}" placeholder="${esc(h)}…" autocomplete="off"></div>
+    </div>`).join('');
+}
+
+async function submitRow() {
+  const t = S.tables[S.activeIdx];
+  const vals = t.headers.map((_,i) => { const e=document.getElementById('rf-'+i); return e?e.value.trim():''; });
+  if (vals.every(v=>!v)) { setMsg('add-msg','Please fill in at least one field.','e'); return; }
+  const btn = document.getElementById('add-btn');
+  btn.disabled = true; btn.innerHTML = '<span class="spin"></span>Saving…';
+  clearMsg('add-msg');
+  try {
+    const newMd = buildMd(t.headers, [...t.rows, vals]);
+    const newContent = S.content.slice(0, t.start) + newMd + S.content.slice(t.end);
+    await updatePage(S.currentPage.url, newContent);
+    S.content = newContent;
+    S.tables = parseTables(newContent);
+    renderTable();
+    t.headers.forEach((_,i) => { const e=document.getElementById('rf-'+i); if(e) e.value=''; });
+    celebrate('Row added! ✦');
+  } catch(e) {
+    setMsg('add-msg','Error: ' + e.message,'e');
+    console.error(e);
+  }
+  btn.disabled = false; btn.innerHTML = 'Add to Table';
+}
+
+/* ═══ NEW TABLE WIZARD ════════════════════════ */
+function showNew() {
+  document.getElementById('ex-area').style.display = 'none';
+  document.getElementById('new-area').style.display = 'block';
+  S.newHeaders = []; setStep(1);
+}
+
+function setStep(n) {
+  [1,2,3].forEach(i => {
+    document.getElementById('ns'+i).style.display = i===n?'block':'none';
+    const p = document.getElementById('p'+i);
+    p.className = 'pip' + (i===n?' on':i<n?' done':'');
+  });
+  document.getElementById('slbl').textContent =
+    ['Step 1 — Number of columns','Step 2 — Column headers','Step 3 — First row values'][n-1];
+}
+
+function nStep1() { setStep(1); }
+
+function nStep2() {
+  const n = parseInt(document.getElementById('ncols').value)||3;
+  if (n<1||n>16) { alert('1–16 columns please.'); return; }
+  document.getElementById('hdr-inputs').innerHTML = Array.from({length:n},(_,i)=>`
+    <div class="colitem">
+      <label class="ilabel" for="h${i}">Column ${i+1}</label>
+      <input type="text" id="h${i}" placeholder="e.g. Name">
+    </div>`).join('');
+  setStep(2);
+}
+
+function nStep3() {
+  const n = parseInt(document.getElementById('ncols').value)||3;
+  S.newHeaders = Array.from({length:n},(_,i)=>{
+    const e=document.getElementById('h'+i); return (e&&e.value.trim())||'Column '+(i+1);
+  });
+  mkFields(S.newHeaders, 'new-row-fields', 'nf');
+  setStep(3);
+}
+
+async function submitNew(empty) {
+  const h = S.newHeaders; if (!h.length) return;
+  const rows = empty ? [] : [h.map((_,i)=>{ const e=document.getElementById('nf-'+i); return e?e.value.trim():''; }).filter((_,i,a)=>a.some(v=>v)) ? h.map((_,i)=>{ const e=document.getElementById('nf-'+i); return e?e.value.trim():''; }) : []].filter(r=>r.length&&r.some(v=>v));
+  const tableMd = '\n\n' + buildMd(h, rows) + '\n';
+  const btn = document.querySelector('#ns3 .btn:not(.btn-o)');
+  if (btn) { btn.disabled=true; btn.innerHTML='<span class="spin"></span>Creating…'; }
+  clearMsg('new-msg');
+  try {
+    const nc = (S.content||'') + tableMd;
+    await updatePage(S.currentPage.url, nc);
+    S.content = nc; S.tables = parseTables(nc); S.activeIdx = S.tables.length-1;
+    showExisting(); celebrate('Table created! ✦');
+  } catch(e) { setMsg('new-msg','Error: '+e.message,'e'); }
+  if (btn) { btn.disabled=false; btn.innerHTML='Create Table'; }
+}
+
+/* ═══ MICROPUB UPDATE ═════════════════════════ */
+async function updatePage(pageUrl, content) {
+  const body = { action:'update', url:pageUrl, replace:{ content:[content] } };
+  if (S.destination) body['mp-destination'] = S.destination;
+  await mbPost(body);
+}
+
+/* ═══ CELEBRATION ═════════════════════════════ */
+function celebrate(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg; t.classList.add('on');
+  setTimeout(()=>t.classList.remove('on'), 3000);
+
+  const cv = document.getElementById('confetti');
+  cv.width = innerWidth; cv.height = innerHeight; cv.style.display = 'block';
+  const ctx = cv.getContext('2d');
+  const cols = ['#1a6fd4','#1a1a1c','#5b96d6','#b8b8c0','#d8d8dc','#e8eef6','#96979d'];
+  const ps = Array.from({length:80},()=>({
+    x:Math.random()*cv.width, y:-10-Math.random()*80,
+    r:3+Math.random()*5,
+    c:cols[Math.floor(Math.random()*cols.length)],
+    vy:2+Math.random()*3, vx:(Math.random()-.5)*2,
+    rot:Math.random()*Math.PI*2, vr:(Math.random()-.5)*.1,
+    sq:Math.random()>.5
+  }));
+  let af, end = Date.now()+2800;
+  function draw() {
+    ctx.clearRect(0,0,cv.width,cv.height);
+    ps.forEach(p=>{ p.y+=p.vy; p.x+=p.vx; p.rot+=p.vr;
+      ctx.save(); ctx.translate(p.x,p.y); ctx.rotate(p.rot); ctx.fillStyle=p.c;
+      if(p.sq) ctx.fillRect(-p.r,-p.r,p.r*2,p.r*2);
+      else { ctx.beginPath(); ctx.arc(0,0,p.r,0,Math.PI*2); ctx.fill(); }
+      ctx.restore();
+    });
+    Date.now()<end ? (af=requestAnimationFrame(draw)) : (cv.style.display='none', ctx.clearRect(0,0,cv.width,cv.height));
+  }
+  cancelAnimationFrame(af); draw();
+}
+
+/* ═══ UTILS ═══════════════════════════════════ */
+function esc(s) { return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+function setMsg(id,txt,type) { const el=document.getElementById(id); if(el) el.innerHTML=`<div class="msg msg-${type}">${txt}</div>`; }
+function clearMsg(id) { const el=document.getElementById(id); if(el) el.innerHTML=''; }
+
+// Backdrop close
+document.querySelectorAll('.overlay').forEach(o=>o.addEventListener('click',e=>{if(e.target===o)o.classList.remove('on');}));
+document.getElementById('tok-input').addEventListener('keydown',e=>{if(e.key==='Enter')doLogin();});
+</script>
+</body>
+</html>
