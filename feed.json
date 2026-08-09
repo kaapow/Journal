@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2026/08/09/one-of-the-things-i/",
+				
+				"content_html": "<p>One of the things I am actually pretty thankful for during my summer break is not needing to <em>think</em> about what to wear.</p>\n<p>Shorts. T-shirts. Ankle socks. White sneakers. Watch. Any combination will do. Rinse and repeat.</p>\n",
+				"content_text": "One of the things I am actually pretty thankful for during my summer break is not needing to _think_ about what to wear. \n\nShorts. T-shirts. Ankle socks. White sneakers. Watch. Any combination will do. Rinse and repeat.\n",
+				"date_published": "2026-08-09T13:29:41-04:00",
+				"url": "https://www.kaa.bz/2026/08/09/one-of-the-things-i/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2026/08/08/fifa-executives-were-given-ultimatum/",
+				
+				"content_html": "<p><a href=\"https://www.nytimes.com/2026/08/06/business/fifa-world-cup-privatization.html?unlocked_article_code=1.3VA.4zqH.Pul7X9bQ2kv0&amp;smid=bs-share\">FIFA Executives Were Given Ultimatum to Approve World Cup Privatization Plan</a>. Filthy. Rats.</p>\n",
+				"content_text": "[FIFA Executives Were Given Ultimatum to Approve World Cup Privatization Plan](https://www.nytimes.com/2026/08/06/business/fifa-world-cup-privatization.html?unlocked_article_code=1.3VA.4zqH.Pul7X9bQ2kv0&smid=bs-share). Filthy. Rats.\n",
+				"date_published": "2026-08-08T20:19:15-04:00",
+				"url": "https://www.kaa.bz/2026/08/08/fifa-executives-were-given-ultimatum/"
+			},
+			{
 				"id": "http://kaa.micro.blog/2026/08/06/finished-watching-ted-lasso-se/",
 				
 				"content_html": "<p>🍿Finished watching: <a href=\"https://www.themoviedb.org/tv/97546/season/4/episode/1\">Ted Lasso S4E1, Home</a>. It’s good to have Ted Lasso back! Super annoyed that I can’t binge, but honestly that might actually be a good thing. Having gulped <em>The Bear</em> in a sitting this weekly dose might be a good thing.</p>\n",
@@ -62,8 +78,8 @@
 			{
 				"id": "http://kaa.micro.blog/2026/08/03/hello-toronto/",
 				
-				"content_html": "<p>Hello Toronto!</p>\n<img src=\"uploads/2026/4f65fb73eb.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "Hello Toronto!\n\n<img src=\"uploads/2026/4f65fb73eb.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Hello Toronto!</p>\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/4f65fb73eb.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Hello Toronto!\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/4f65fb73eb.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-08-03T14:07:57-04:00",
 				"url": "https://www.kaa.bz/2026/08/03/hello-toronto/",
 				"tags": ["Photos","Toronto"]
@@ -71,8 +87,8 @@
 			{
 				"id": "http://kaa.micro.blog/2026/08/03/total-copenhagen-vibes/",
 				
-				"content_html": "<p>Total Copenhagen vibes.</p>\n<img src=\"uploads/2026/8cd38e3f2f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "Total Copenhagen vibes.\n\n<img src=\"uploads/2026/8cd38e3f2f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Total Copenhagen vibes.</p>\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/8cd38e3f2f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Total Copenhagen vibes.\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/8cd38e3f2f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-08-03T14:06:43-04:00",
 				"url": "https://www.kaa.bz/2026/08/03/total-copenhagen-vibes/",
 				"tags": ["Photos"]
@@ -44748,9 +44764,9 @@
 			},
 			{
 				"id": "http://kaa.micro.blog/2004/12/11/its-showtime/",
-				"title": "It's Showtime.",
-				"content_html": "<p>Not to sound like an idiot but I&rsquo;ve got one word. <a href=\"http://www.pixar.com\">Absolutely Incredible</a>.</p>\n",
-				"content_text": "Not to sound like an idiot but I've got one word. <a href=\"http://www.pixar.com\">Absolutely Incredible</a>.\n",
+				
+				"content_html": "<blockquote>\n<p>It&rsquo;s Showtime.</p>\n</blockquote>\n<p>Not to sound like an idiot but I&rsquo;ve got one word. <a href=\"http://www.pixar.com\">Absolutely Incredible</a>.</p>\n",
+				"content_text": "> It's Showtime.\n\nNot to sound like an idiot but I've got one word. <a href=\"http://www.pixar.com\">Absolutely Incredible</a>.\n",
 				"date_published": "2004-12-10T20:00:00-04:00",
 				"url": "https://www.kaa.bz/2004/12/10/its-showtime/"
 			},
@@ -45752,8 +45768,8 @@
 			{
 				"id": "http://kaa.micro.blog/2004/05/20/apple-xp/",
 				"title": "Apple XP",
-				"content_html": "<p>Ha, cool. Downloaded this program which you can find right\n<a href=\"http://www.wincustomize.com\">here</a>. Download the program called WindowBlinds, and Iconpackager, both easy to use simple and free.\n<br>\nAnd presto I&rsquo;ve got myself an apple mac looking desktop. It&rsquo;s not so much that it operates like a mac but it feels like one in terms of the overall design which is nice, the sounds are pretty funky and I&rsquo;ve got a more pleasant computing expereince. I really do recommend you get this little program and then download skins to your heart&rsquo;s content.</p>\n<p>Can&rsquo;t afford a mac and not really sure I&rsquo;d want to in the end, but that doesn&rsquo;t mean my desktop can&rsquo;t look the part.</p>\n<img src=\"https://cdn.uploads.micro.blog/2509/2025/fd493a9223.jpg\" width=\"768\" height=\"576\" alt=\"apple xp desktop\" />\n",
-				"content_text": "Ha, cool. Downloaded this program which you can find right\r\n<a href=\"http://www.wincustomize.com\">here</a>. Download the program called WindowBlinds, and Iconpackager, both easy to use simple and free.\r\n<br>\r\nAnd presto I've got myself an apple mac looking desktop. It's not so much that it operates like a mac but it feels like one in terms of the overall design which is nice, the sounds are pretty funky and I've got a more pleasant computing expereince. I really do recommend you get this little program and then download skins to your heart's content. \r\n\r\nCan't afford a mac and not really sure I'd want to in the end, but that doesn't mean my desktop can't look the part.\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/2509/2025/fd493a9223.jpg\" width=\"768\" height=\"576\" alt=\"apple xp desktop\" />\n",
+				"content_html": "<p>Ha, cool. Downloaded this program which you can find right\n<a href=\"http://www.wincustomize.com\">here</a>. Download the program called WindowBlinds, and Iconpackager, both easy to use simple and free.\n<br>\nAnd presto I&rsquo;ve got myself an apple mac looking desktop. It&rsquo;s not so much that it operates like a mac but it feels like one in terms of the overall design which is nice, the sounds are pretty funky and I&rsquo;ve got a more pleasant computing expereince. I really do recommend you get this little program and then download skins to your heart&rsquo;s content.</p>\n<p>Can&rsquo;t afford a mac and not really sure I&rsquo;d want to in the end, but that doesn&rsquo;t mean my desktop can&rsquo;t look the part.</p>\n<img src=\"https://cdn.uploads.micro.blog/2509/2025/image1.svg\" alt=\"apple xp desktop\" />\n",
+				"content_text": "Ha, cool. Downloaded this program which you can find right\n<a href=\"http://www.wincustomize.com\">here</a>. Download the program called WindowBlinds, and Iconpackager, both easy to use simple and free.\n<br>\nAnd presto I've got myself an apple mac looking desktop. It's not so much that it operates like a mac but it feels like one in terms of the overall design which is nice, the sounds are pretty funky and I've got a more pleasant computing expereince. I really do recommend you get this little program and then download skins to your heart's content. \n\nCan't afford a mac and not really sure I'd want to in the end, but that doesn't mean my desktop can't look the part.\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2025/image1.svg\" alt=\"apple xp desktop\" />\n",
 				"date_published": "2004-05-19T20:00:00-04:00",
 				"url": "https://www.kaa.bz/2004/05/19/apple-xp/"
 			},
@@ -45808,8 +45824,8 @@
 			{
 				"id": "http://kaa.micro.blog/2004/05/02/obssesive-compulsive-behaviour/",
 				"title": "Obssesive Compulsive Behaviour",
-				"content_html": "<p>I thought I&rsquo;d include my favourite poem in all the world here for the world to share. The writer doesn&rsquo;t know I&rsquo;m doing this, but I personnally believe this is the best thing he&rsquo;s ever written. The man in question is Stathis Londos, Greek friend with heavy South African roots. If you need to contact him, do this via me, since he&rsquo;s less than great about the whole e-mail thing. He called this poem Dream 98, although I think he should rechange that name but that&rsquo;s not for me to decide really. This one poem spawned me thinking up an entire story which I hope to complete at some point in my life. So without further adieu this is my best bud&rsquo;s poem, Dream 98:</p>\n<p><blockquote>\r\nThe light around me he dimmed\r\nHe woke the cloud \"terror\" it seemed\r\nMoving over the sun only to harvest\r\nThe light from my eyes to complete darkness\r\n</blockquote></p>\r\n<p><blockquote>\r\nThough fear wasn't there to torment \r\nI lay there tranquil with no repent\r\nThe silence got louder and louder\r\nHis power felt stronger and prouder\r\nThe loudness one with complete utter silence\r\nStripping my sense with no violence\r\n</blockquote></p>\r\n<p><blockquote>\r\nMy mouth now in a state of dryness\r\nThe bitter taste- strong before was now less\r\nI knew well of what was happening to me\r\nUnbothered my thoughts let it be\r\n</blockquote></p>\r\n<p><blockquote>\r\nThe smell- not smelled then became empty\r\nThe one above had sent for me\r\nAll I had left was a life time of memories\r\nVague once - clear now - gone too - only accessories \r\n</blockquote></p>\r\n<p><blockquote>\r\nHe stood over me, my heart not pounding\r\nThen he touched me, his hand cold like the surrounding\r\nBody numbing, I couldn't feel myself lying\r\nBody numbing, I felt myself dying.\r\n</blockquote></p>\r\n<p>By Stathis Londos</p>\n",
-				"content_text": "I thought I'd include my favourite poem in all the world here for the world to share. The writer doesn't know I'm doing this, but I personnally believe this is the best thing he's ever written. The man in question is Stathis Londos, Greek friend with heavy South African roots. If you need to contact him, do this via me, since he's less than great about the whole e-mail thing. He called this poem Dream 98, although I think he should rechange that name but that's not for me to decide really. This one poem spawned me thinking up an entire story which I hope to complete at some point in my life. So without further adieu this is my best bud's poem, Dream 98:\r\n\r\n<p><blockquote>\r\nThe light around me he dimmed\r\nHe woke the cloud \"terror\" it seemed\r\nMoving over the sun only to harvest\r\nThe light from my eyes to complete darkness\r\n</blockquote></p>\r\n\r\n<p><blockquote>\r\nThough fear wasn't there to torment \r\nI lay there tranquil with no repent\r\nThe silence got louder and louder\r\nHis power felt stronger and prouder\r\nThe loudness one with complete utter silence\r\nStripping my sense with no violence\r\n</blockquote></p>\r\n\r\n<p><blockquote>\r\nMy mouth now in a state of dryness\r\nThe bitter taste- strong before was now less\r\nI knew well of what was happening to me\r\nUnbothered my thoughts let it be\r\n</blockquote></p>\r\n\r\n<p><blockquote>\r\nThe smell- not smelled then became empty\r\nThe one above had sent for me\r\nAll I had left was a life time of memories\r\nVague once - clear now - gone too - only accessories \r\n</blockquote></p>\r\n\r\n<p><blockquote>\r\nHe stood over me, my heart not pounding\r\nThen he touched me, his hand cold like the surrounding\r\nBody numbing, I couldn't feel myself lying\r\nBody numbing, I felt myself dying.\r\n</blockquote></p>\r\n\r\nBy Stathis Londos\n",
+				"content_html": "<p>I thought I&rsquo;d include my favourite poem in all the world here for the world to share. The writer doesn&rsquo;t know I&rsquo;m doing this, but I personnally believe this is the best thing he&rsquo;s ever written. The man in question is Stathis Londos, Greek friend with heavy South African roots. If you need to contact him, do this via me, since he&rsquo;s less than great about the whole e-mail thing. He called this poem Dream 98, although I think he should rechange that name but that&rsquo;s not for me to decide really. This one poem spawned me thinking up an entire story which I hope to complete at some point in my life. So without further adieu this is my best bud&rsquo;s poem, Dream 98:</p>\n<p>The light around me he dimmed<br>\nHe woke the cloud &ldquo;terror&rdquo; it seemed<br>\nMoving over the sun only to harvest<br>\nThe light from my eyes to complete darkness</p>\n<hr>\n<p>Though fear wasn&rsquo;t there to torment<br>\nI lay there tranquil with no repent<br>\nThe silence got louder and louder<br>\nHis power felt stronger and prouder<br>\nThe loudness one with complete utter silence<br>\nStripping my sense with no violence</p>\n<hr>\n<p>My mouth now in a state of dryness<br>\nThe bitter taste- strong before was now less<br>\nI knew well of what was happening to me<br>\nUnbothered my thoughts let it be</p>\n<hr>\n<p>The smell- not smelled then became empty<br>\nThe one above had sent for me<br>\nAll I had left was a life time of memories<br>\nVague once - clear now - gone too - only accessories</p>\n<hr>\n<p>He stood over me, my heart not pounding<br>\nThen he touched me, his hand cold like the surrounding<br>\nBody numbing, I couldn&rsquo;t feel myself lying<br>\nBody numbing, I felt myself dying.</p>\n<p><em>By Stathis Londos</em></p>\n",
+				"content_text": "I thought I'd include my favourite poem in all the world here for the world to share. The writer doesn't know I'm doing this, but I personnally believe this is the best thing he's ever written. The man in question is Stathis Londos, Greek friend with heavy South African roots. If you need to contact him, do this via me, since he's less than great about the whole e-mail thing. He called this poem Dream 98, although I think he should rechange that name but that's not for me to decide really. This one poem spawned me thinking up an entire story which I hope to complete at some point in my life. So without further adieu this is my best bud's poem, Dream 98:\n\nThe light around me he dimmed  \nHe woke the cloud \"terror\" it seemed  \nMoving over the sun only to harvest  \nThe light from my eyes to complete darkness  \n\n* * *\n\nThough fear wasn't there to torment   \nI lay there tranquil with no repent  \nThe silence got louder and louder  \nHis power felt stronger and prouder  \nThe loudness one with complete utter silence  \nStripping my sense with no violence  \n\n* * *\n\nMy mouth now in a state of dryness  \nThe bitter taste- strong before was now less  \nI knew well of what was happening to me  \nUnbothered my thoughts let it be  \n\n* * *\n\nThe smell- not smelled then became empty  \nThe one above had sent for me  \nAll I had left was a life time of memories  \nVague once - clear now - gone too - only accessories  \n\n* * *\n\nHe stood over me, my heart not pounding  \nThen he touched me, his hand cold like the surrounding  \nBody numbing, I couldn't feel myself lying   \nBody numbing, I felt myself dying.   \n\n_By Stathis Londos_  \n",
 				"date_published": "2004-05-01T20:00:00-04:00",
 				"url": "https://www.kaa.bz/2004/05/01/obssesive-compulsive-behaviour/"
 			},
