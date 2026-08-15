@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2026/08/14/tangerine-sorbet-summertime-in-a/",
+				
+				"content_html": "<p>Tangerine sorbet. Summertime in a cup.</p>\n<img src=\"uploads/2026/110873c916.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Tangerine sorbet. Summertime in a cup.\n\n<img src=\"uploads/2026/110873c916.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-08-14T19:52:19-04:00",
+				"url": "https://www.kaa.bz/2026/08/14/tangerine-sorbet-summertime-in-a/",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://kaa.micro.blog/2026/08/11/why-should-i-fear-death/",
 				
 				"content_html": "<blockquote>\n<p>Why should I fear death?<br>\nIf I am, then death is not.<br>\nIf Death is, then I am not.<br>\nWhy should I fear that which can only exist when I do not?<br>\n— <em>Epicurus</em></p>\n</blockquote>\n",
@@ -31741,8 +31750,8 @@
 			{
 				"id": "http://kaa.micro.blog/2013/08/13/the-olympic-city-the-olympic/",
 				
-				"content_html": "<p><strong>The Olympic City</strong></p>\n<p>The <a href=\"http://olympiccityproject.com\">Olympic City</a> is an ongoing photography project by Jon Pack and Gary Hustwit (director of the Helvetica, Objectified and <a href=\"http://urbanizedfilm.com\">Urbanized</a> documentaries) that looks at the legacy of the Olympic Games in former host cities around the world.</p>\n<p>The printed version is limited to 1000 copies, and retails for $100. However there is much more affordable (and manageable) digital copy which can be found <a href=\"http://versionspublishing.com\">here</a>.</p>\n",
-				"content_text": "<strong>The Olympic City</strong>\n\n<p>The <a href=\"http://olympiccityproject.com\">Olympic City</a> is an ongoing photography project by Jon Pack and Gary Hustwit (director of the Helvetica, Objectified and <a href=\"http://urbanizedfilm.com\">Urbanized</a> documentaries) that looks at the legacy of the Olympic Games in former host cities around the world.</p>\n\n<p>The printed version is limited to 1000 copies, and retails for $100. However there is much more affordable (and manageable) digital copy which can be found <a href=\"http://versionspublishing.com\">here</a>.</p>\n",
+				"content_html": "<p>The <a href=\"http://olympiccityproject.com\">Olympic City</a> is an ongoing photography project by Jon Pack and Gary Hustwit (director of the Helvetica, Objectified and <a href=\"http://urbanizedfilm.com\">Urbanized</a> documentaries) that looks at the legacy of the Olympic Games in former host cities around the world.</p>\n<p>The printed version is limited to 1000 copies, and retails for $100. However there is much more affordable (and manageable) digital copy which can be found <a href=\"http://versionspublishing.com\">here</a>.</p>\n",
+				"content_text": "The <a href=\"http://olympiccityproject.com\">Olympic City</a> is an ongoing photography project by Jon Pack and Gary Hustwit (director of the Helvetica, Objectified and <a href=\"http://urbanizedfilm.com\">Urbanized</a> documentaries) that looks at the legacy of the Olympic Games in former host cities around the world.\n\nThe printed version is limited to 1000 copies, and retails for $100. However there is much more affordable (and manageable) digital copy which can be found <a href=\"http://versionspublishing.com\">here</a>.\n",
 				"date_published": "2013-08-13T08:13:00-04:00",
 				"url": "https://www.kaa.bz/2013/08/13/the-olympic-city-the-olympic/",
 				"tags": ["Publishing"]
@@ -31750,8 +31759,8 @@
 			{
 				"id": "http://kaa.micro.blog/2013/08/13/hyperloop-weve-been-waiting-a/",
 				
-				"content_html": "<p><strong>Hyperloop</strong></p>\n<p>We’ve been waiting a long time for Elon Musk to reveal his idea for the future of public transportation, <a href=\"http://www.teslamotors.com/blog/hyperloop\">Hyperloop</a>. The post also has a link to a <a href=\"http://www.teslamotors.com/sites/default/files/blog_images/hyperloop-alpha.pdf\">pdf</a> (which doesn’t work at the moment).</p>\n<p>More detail can be found on the <a href=\"http://www.businessweek.com/articles/2013-08-12/revealed-elon-musk-explains-the-hyperloop\">Businessweek website</a>.</p>\n",
-				"content_text": "<p><strong>Hyperloop</strong></p>\n\n<p>We’ve been waiting a long time for Elon Musk to reveal his idea for the future of public transportation, <a href=\"http://www.teslamotors.com/blog/hyperloop\">Hyperloop</a>. The post also has a link to a <a href=\"http://www.teslamotors.com/sites/default/files/blog_images/hyperloop-alpha.pdf\">pdf</a> (which doesn’t work at the moment).</p>\n\n<p>More detail can be found on the <a href=\"http://www.businessweek.com/articles/2013-08-12/revealed-elon-musk-explains-the-hyperloop\">Businessweek website</a>.</p>\n",
+				"content_html": "<p>We’ve been waiting a long time for Elon Musk to reveal his idea for the future of public transportation, <a href=\"http://www.teslamotors.com/blog/hyperloop\">Hyperloop</a>. The post also has a link to a <a href=\"http://www.teslamotors.com/sites/default/files/blog_images/hyperloop-alpha.pdf\">pdf</a> (which doesn’t work at the moment).</p>\n<p>More detail can be found on the <a href=\"http://www.businessweek.com/articles/2013-08-12/revealed-elon-musk-explains-the-hyperloop\">Businessweek website</a>.</p>\n",
+				"content_text": "We’ve been waiting a long time for Elon Musk to reveal his idea for the future of public transportation, <a href=\"http://www.teslamotors.com/blog/hyperloop\">Hyperloop</a>. The post also has a link to a <a href=\"http://www.teslamotors.com/sites/default/files/blog_images/hyperloop-alpha.pdf\">pdf</a> (which doesn’t work at the moment).\n\nMore detail can be found on the <a href=\"http://www.businessweek.com/articles/2013-08-12/revealed-elon-musk-explains-the-hyperloop\">Businessweek website</a>.\n",
 				"date_published": "2013-08-13T03:37:00-04:00",
 				"url": "https://www.kaa.bz/2013/08/13/hyperloop-weve-been-waiting-a/"
 			},
@@ -45359,9 +45368,9 @@
 			},
 			{
 				"id": "http://kaa.micro.blog/2004/08/14/j-scott-campbells-wildsiderz/",
-				"title": "J Scott Campbell's Wildsiderz",
-				"content_html": "<p>I&rsquo;m actually excited. I generally really enjoy Jeff&rsquo;s stuff. It&rsquo;s full of energy and fun and lot of love has gone into every aspect of the creation of his books. Nothing is more apparent than the truly great fun Danger Girls. Go buy the hardcover or the trade or whatever, it&rsquo;s Charlie&rsquo;s Angels done right. His newest series is something different, Wildsiderz. Can&rsquo;t say the name does anything for me, but the idea that he&rsquo;s expressed seems like something I&rsquo;ll be following for sure.</p>\n",
-				"content_text": "I'm actually excited. I generally really enjoy Jeff's stuff. It's full of energy and fun and lot of love has gone into every aspect of the creation of his books. Nothing is more apparent than the truly great fun Danger Girls. Go buy the hardcover or the trade or whatever, it's Charlie's Angels done right. His newest series is something different, Wildsiderz. Can't say the name does anything for me, but the idea that he's expressed seems like something I'll be following for sure.\n",
+				
+				"content_html": "<p>J Scott Campbell&rsquo;s Wildsiderz. I&rsquo;m actually excited. I generally really enjoy Jeff&rsquo;s stuff. It&rsquo;s full of energy and fun and lot of love has gone into every aspect of the creation of his books. Nothing is more apparent than the truly great fun Danger Girls. Go buy the hardcover or the trade or whatever, it&rsquo;s Charlie&rsquo;s Angels done right. His newest series is something different, Wildsiderz. Can&rsquo;t say the name does anything for me, but the idea that he&rsquo;s expressed seems like something I&rsquo;ll be following for sure.</p>\n",
+				"content_text": "J Scott Campbell's Wildsiderz. I'm actually excited. I generally really enjoy Jeff's stuff. It's full of energy and fun and lot of love has gone into every aspect of the creation of his books. Nothing is more apparent than the truly great fun Danger Girls. Go buy the hardcover or the trade or whatever, it's Charlie's Angels done right. His newest series is something different, Wildsiderz. Can't say the name does anything for me, but the idea that he's expressed seems like something I'll be following for sure.\n",
 				"date_published": "2004-08-13T20:00:00-04:00",
 				"url": "https://www.kaa.bz/2004/08/13/j-scott-campbells-wildsiderz/"
 			},
