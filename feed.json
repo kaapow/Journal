@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2026/08/15/throwing-rocks-and-sea-shells/",
+				
+				"content_html": "<p>Throwing rocks and sea shells. About the right thing to do in such situations.</p>\n<img src=\"uploads/2026/2433b9d9dd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Throwing rocks and sea shells. About the right thing to do in such situations.\n\n<img src=\"uploads/2026/2433b9d9dd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-08-15T19:47:08-04:00",
+				"url": "https://www.kaa.bz/2026/08/15/throwing-rocks-and-sea-shells/",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2026/08/15/finished-reading-blueberry-chihuahua-pearl/",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9788323747598/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>📚 Finished reading: <a href=\"https://micro.blog/books/9788323747598\">Blueberry Chihuahua Pearl</a> by Jean Michel Charlier and Moebius. I picked this up in Dubai 8 or 9 years ago in a used bookstore, never been read, until now. It’s a dense western but I really enjoyed this. Sadly finding other instalments isn’t going to be easy with some of these books going upwards of $100 each (apparently they had a 6000 print run, back in the 80s).</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9788323747598/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n📚 Finished reading: [Blueberry Chihuahua Pearl](https://micro.blog/books/9788323747598) by Jean Michel Charlier and Moebius. I picked this up in Dubai 8 or 9 years ago in a used bookstore, never been read, until now. It’s a dense western but I really enjoyed this. Sadly finding other instalments isn’t going to be easy with some of these books going upwards of $100 each (apparently they had a 6000 print run, back in the 80s).\n",
+				"date_published": "2026-08-15T18:30:48-04:00",
+				"url": "https://www.kaa.bz/2026/08/15/finished-reading-blueberry-chihuahua-pearl/",
+				"tags": ["Books"]
+			},
+			{
 				"id": "http://kaa.micro.blog/2026/08/14/tangerine-sorbet-summertime-in-a/",
 				
 				"content_html": "<p>Tangerine sorbet. Summertime in a cup.</p>\n<img src=\"uploads/2026/110873c916.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
@@ -36643,7 +36661,7 @@
 			},
 			{
 				"id": "http://kaa.micro.blog/2009/08/17/the-man-who-walked-around/",
-				"title": "The man who walked around the world",
+				
 				"content_html": "<p><a href=\"http://www.youtube.com/watch?v=S5QknFnqhhs\">The man who walked around the world</a> - Although this is an ad, what makes it special, is that it&rsquo;s a good ad. Not very often that you get Robert Carlyle doing what looks like a one take 6 minute monologue. Either that or there was some serious editing going along here. Either way it&rsquo;s a great little bit of film.</p>\n",
 				"content_text": "<a href=\"http://www.youtube.com/watch?v=S5QknFnqhhs\">The man who walked around the world</a> - Although this is an ad, what makes it special, is that it's a good ad. Not very often that you get Robert Carlyle doing what looks like a one take 6 minute monologue. Either that or there was some serious editing going along here. Either way it's a great little bit of film.\n",
 				"date_published": "2009-08-16T20:00:00-04:00",
@@ -36651,9 +36669,9 @@
 			},
 			{
 				"id": "http://kaa.micro.blog/2009/08/17/usain-bolt-runs-m-in/",
-				"title": "Usain Bolt runs 100m in 9.58",
-				"content_html": "<p><a href=\"http://www.youtube.com/watch?v=DPq-T93bK4k&amp;hd=1\" title=\"YouTube - Usain Bolt 100m 9.58 world record Berlin 2009 HD\">Usain Bolt runs 100m in 9.58</a> - The man is INSANEly fast. Hopefully there won&rsquo;t be a massive doping scandal in 5 years time (I know it&rsquo;s the cynic in me, but I really am jaded about this stuff nowadays).</p>\n",
-				"content_text": "<a href=\"http://www.youtube.com/watch?v=DPq-T93bK4k&amp;hd=1\" title=\"YouTube - Usain Bolt 100m 9.58 world record Berlin 2009 HD\">Usain Bolt runs 100m in 9.58</a> - The man is INSANEly fast. Hopefully there won't be a massive doping scandal in 5 years time (I know it's the cynic in me, but I really am jaded about this stuff nowadays).\n",
+				
+				"content_html": "<p><a href=\"http://www.youtube.com/watch?v=DPq-T93bK4k&hd=1\" title=\"YouTube - Usain Bolt 100m 9.58 world record Berlin 2009 HD\">Usain Bolt runs 100m in 9.58</a> - The man is INSANEly fast. Hopefully there won&rsquo;t be a massive doping scandal in 5 years time (I know it&rsquo;s the cynic in me, but I really am jaded about this stuff nowadays).</p>\n",
+				"content_text": "<a href=\"http://www.youtube.com/watch?v=DPq-T93bK4k&hd=1\" title=\"YouTube - Usain Bolt 100m 9.58 world record Berlin 2009 HD\">Usain Bolt runs 100m in 9.58</a> - The man is INSANEly fast. Hopefully there won't be a massive doping scandal in 5 years time (I know it's the cynic in me, but I really am jaded about this stuff nowadays).\n",
 				"date_published": "2009-08-16T20:00:00-04:00",
 				"url": "https://www.kaa.bz/2009/08/16/usain-bolt-runs-m-in/"
 			},
@@ -39223,7 +39241,7 @@
 			},
 			{
 				"id": "http://kaa.micro.blog/2008/08/17/making-of-dark-horse-comics/",
-				"title": "Making of Dark Horse Comics",
+				
 				"content_html": "<p><a href=\"http://www.darkhorse.com/Features/Making-of-a-Comic\">Making of Dark Horse Comics section</a>. As I&rsquo;ve been emmersing myself in the comic book world lately, as I truck on with the script that has been on the back burner for 6 years ago (it&rsquo;s moving along slowly but nicely). This is a great series of making of comics. The nice thing about them is that they show the entire process from script to pencil to ink to colour to lettering.</p>\n",
 				"content_text": "<a href=\"http://www.darkhorse.com/Features/Making-of-a-Comic\">Making of Dark Horse Comics section</a>. As I've been emmersing myself in the comic book world lately, as I truck on with the script that has been on the back burner for 6 years ago (it's moving along slowly but nicely). This is a great series of making of comics. The nice thing about them is that they show the entire process from script to pencil to ink to colour to lettering.\n",
 				"date_published": "2008-08-16T20:00:00-04:00",
