@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2026/08/18/same-angle-different-time/",
+				
+				"content_html": "<p>Same angle, different time.</p>\n<img src=\"uploads/2026/f263ce09d8.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Same angle, different time.\n\n<img src=\"uploads/2026/f263ce09d8.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-08-18T21:12:50-04:00",
+				"url": "https://www.kaa.bz/2026/08/18/same-angle-different-time/",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2026/08/17/when-i-first-saw-these/",
+				
+				"content_html": "<p>When I first saw these balconies I hated them. But now that I’ve experienced them across multiple days, I’ve come to really appreciate how they are a dynamic park of the building, changing colours depending on what is happening outside.</p>\n<img src=\"uploads/2026/f7338c1358.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "When I first saw these balconies I hated them. But now that I’ve experienced them across multiple days, I’ve come to really appreciate how they are a dynamic park of the building, changing colours depending on what is happening outside.\n\n<img src=\"uploads/2026/f7338c1358.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-08-17T18:01:25-04:00",
+				"url": "https://www.kaa.bz/2026/08/17/when-i-first-saw-these/",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://kaa.micro.blog/2026/08/15/throwing-rocks-and-sea-shells/",
 				
 				"content_html": "<p>Throwing rocks and sea shells. About the right thing to do in such situations.</p>\n<img src=\"uploads/2026/2433b9d9dd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
