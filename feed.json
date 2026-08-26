@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2026/08/26/wednesday-has-become-ted-lasso/",
+				
+				"content_html": "<p>Wednesday has become <em>Ted Lasso</em> day. It just a nice treat to have after work, which I love to remember. I don’t have the self restraint to <em>not</em> binge.</p>\n",
+				"content_text": "Wednesday has become _Ted Lasso_ day. It just a nice treat to have after work, which I love to remember. I don’t have the self restraint to _not_ binge.\n",
+				"date_published": "2026-08-26T19:21:11-04:00",
+				"url": "https://www.kaa.bz/2026/08/26/wednesday-has-become-ted-lasso/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2026/08/24/first-day-back-at-work/",
+				
+				"content_html": "<p>First day back at work. Feel pretty relaxed again. Got a bit more energy after a decent rest. Usually, I have used the time away to reflect and make meaningful changes in my life moving forward.</p>\n<p>Truthfully, that hasn’t fully happened this time around, as I just needed time to switch off. Have a house move in a few weeks time - which is a lot of work, but most things are sorted, just need a couple of pieces of the puzzle to unlock and should be ready to rock and roll.</p>\n",
+				"content_text": "First day back at work. Feel pretty relaxed again. Got a bit more energy after a decent rest. Usually, I have used the time away to reflect and make meaningful changes in my life moving forward. \n\nTruthfully, that hasn’t fully happened this time around, as I just needed time to switch off. Have a house move in a few weeks time - which is a lot of work, but most things are sorted, just need a couple of pieces of the puzzle to unlock and should be ready to rock and roll.\n",
+				"date_published": "2026-08-24T08:46:24-04:00",
+				"url": "https://www.kaa.bz/2026/08/24/first-day-back-at-work/"
+			},
+			{
 				"id": "http://kaa.micro.blog/2026/08/23/it-took-me-far-too/",
 				
 				"content_html": "<p>☕️ It took me far too long to pull the trigger on an insulated French press (I’ve been getting by just fine with a V60 and AeroPress thank you very much). What I have loved about the French press is the <em>volume</em>. Being able refill through the morning has been a magic hack.</p>\n",
@@ -34,8 +50,8 @@
 			{
 				"id": "http://kaa.micro.blog/2026/08/17/when-i-first-saw-these/",
 				
-				"content_html": "<p>When I first saw these balconies I hated them. But now that I’ve experienced them across multiple days, I’ve come to really appreciate how they are a dynamic park of the building, changing colours depending on what is happening outside.</p>\n<img src=\"uploads/2026/f7338c1358.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "When I first saw these balconies I hated them. But now that I’ve experienced them across multiple days, I’ve come to really appreciate how they are a dynamic park of the building, changing colours depending on what is happening outside.\n\n<img src=\"uploads/2026/f7338c1358.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>When I first saw these balconies I hated them. But now that I’ve experienced them across multiple days, I’ve come to really appreciate how they are a dynamic park of the building, changing colours depending on what is happening outside.</p>\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/f7338c1358.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "When I first saw these balconies I hated them. But now that I’ve experienced them across multiple days, I’ve come to really appreciate how they are a dynamic park of the building, changing colours depending on what is happening outside.\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/f7338c1358.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-08-17T18:01:25-04:00",
 				"url": "https://www.kaa.bz/2026/08/17/when-i-first-saw-these/",
 				"tags": ["Photos"]
