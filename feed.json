@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2026/08/27/in-a-world-where-israel/",
+				
+				"content_html": "<p>In a world where Israel exists, Canada and its ‘nasty people’ is America’s biggest problem. Ok boomer.</p>\n",
+				"content_text": "In a world where Israel exists, Canada and its ‘nasty people’ is America’s biggest problem. Ok boomer.\n",
+				"date_published": "2026-08-27T20:41:54-04:00",
+				"url": "https://www.kaa.bz/2026/08/27/in-a-world-where-israel/"
+			},
+			{
 				"id": "http://kaa.micro.blog/2026/08/26/wednesday-has-become-ted-lasso/",
 				
 				"content_html": "<p>Wednesday has become <em>Ted Lasso</em> day. It just a nice treat to have after work, which I love to remember. I don’t have the self restraint to <em>not</em> binge.</p>\n",
@@ -41,8 +49,8 @@
 			{
 				"id": "http://kaa.micro.blog/2026/08/18/same-angle-different-time/",
 				
-				"content_html": "<p>Same angle, different time.</p>\n<img src=\"uploads/2026/f263ce09d8.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "Same angle, different time.\n\n<img src=\"uploads/2026/f263ce09d8.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Same angle, different time.</p>\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/f263ce09d8.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Same angle, different time.\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/f263ce09d8.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-08-18T21:12:50-04:00",
 				"url": "https://www.kaa.bz/2026/08/18/same-angle-different-time/",
 				"tags": ["Photos"]
@@ -59,8 +67,8 @@
 			{
 				"id": "http://kaa.micro.blog/2026/08/15/throwing-rocks-and-sea-shells/",
 				
-				"content_html": "<p>Throwing rocks and sea shells. About the right thing to do in such situations.</p>\n<img src=\"uploads/2026/2433b9d9dd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "Throwing rocks and sea shells. About the right thing to do in such situations.\n\n<img src=\"uploads/2026/2433b9d9dd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Throwing rocks and sea shells. About the right thing to do in such situations.</p>\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/2433b9d9dd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Throwing rocks and sea shells. About the right thing to do in such situations.\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/2433b9d9dd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-08-15T19:47:08-04:00",
 				"url": "https://www.kaa.bz/2026/08/15/throwing-rocks-and-sea-shells/",
 				"tags": ["Photos"]
@@ -77,8 +85,8 @@
 			{
 				"id": "http://kaa.micro.blog/2026/08/14/tangerine-sorbet-summertime-in-a/",
 				
-				"content_html": "<p>Tangerine sorbet. Summertime in a cup.</p>\n<img src=\"uploads/2026/110873c916.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "Tangerine sorbet. Summertime in a cup.\n\n<img src=\"uploads/2026/110873c916.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Tangerine sorbet. Summertime in a cup.</p>\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/110873c916.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Tangerine sorbet. Summertime in a cup.\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/110873c916.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-08-14T19:52:19-04:00",
 				"url": "https://www.kaa.bz/2026/08/14/tangerine-sorbet-summertime-in-a/",
 				"tags": ["Photos"]
@@ -94,8 +102,8 @@
 			{
 				"id": "http://kaa.micro.blog/2026/08/10/first-day-of-holiday-weather/",
 				
-				"content_html": "<p>🍳 First day of holiday. Weather was crap, but hey at least I’m not broken, so that’s a plus. Didn’t get dinner sorted, but got a bunch of little things done and midnight banana bread.</p>\n<img src=\"uploads/2026/d4d9c95fff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "🍳 First day of holiday. Weather was crap, but hey at least I’m not broken, so that’s a plus. Didn’t get dinner sorted, but got a bunch of little things done and midnight banana bread.\n\n\n<img src=\"uploads/2026/d4d9c95fff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>🍳 First day of holiday. Weather was crap, but hey at least I’m not broken, so that’s a plus. Didn’t get dinner sorted, but got a bunch of little things done and midnight banana bread.</p>\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/d4d9c95fff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "🍳 First day of holiday. Weather was crap, but hey at least I’m not broken, so that’s a plus. Didn’t get dinner sorted, but got a bunch of little things done and midnight banana bread.\n\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/d4d9c95fff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-08-10T23:46:13-04:00",
 				"url": "https://www.kaa.bz/2026/08/10/first-day-of-holiday-weather/",
 				"tags": ["Photos","Cooking"]
