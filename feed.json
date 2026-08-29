@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2026/08/29/spent-a-little-bit-of/",
+				
+				"content_html": "<p>Spent a little bit of time this morning cleaning up my Feedbin subscriptions. I&rsquo;m trying to be more intentional with my free time and Youtube is a colossal time suck for me. I&rsquo;m pretty good at keeping Instagram at bay, but Youtube gets me. Thankfully Feedbin is pretty good at that.</p>\n",
+				"content_text": "Spent a little bit of time this morning cleaning up my Feedbin subscriptions. I'm trying to be more intentional with my free time and Youtube is a colossal time suck for me. I'm pretty good at keeping Instagram at bay, but Youtube gets me. Thankfully Feedbin is pretty good at that.\n",
+				"date_published": "2026-08-29T11:53:46-04:00",
+				"url": "https://www.kaa.bz/2026/08/29/spent-a-little-bit-of/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2026/08/28/and-of-course-the-same/",
+				
+				"content_html": "<p>And of course the same thing on Micro.blog.</p>\n<img src=\"uploads/2026/e144cec808.png\" width=\"600\" height=\"410\" alt=\"\">\n",
+				"content_text": "And of course the same thing on Micro.blog.\n\n<img src=\"uploads/2026/e144cec808.png\" width=\"600\" height=\"410\" alt=\"\">\n",
+				"date_published": "2026-08-28T00:56:41-04:00",
+				"url": "https://www.kaa.bz/2026/08/28/and-of-course-the-same/",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2026/08/28/a-feature-in-feedbin-that/",
+				
+				"content_html": "<p>A feature in Feedbin that I have never used. Maybe I remove it at some point, but it’s a start.</p>\n<img src=\"uploads/2026/e9ca421b61.png\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "A feature in Feedbin that I have never used. Maybe I remove it at some point, but it’s a start.\n\n<img src=\"uploads/2026/e9ca421b61.png\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-08-28T00:54:31-04:00",
+				"url": "https://www.kaa.bz/2026/08/28/a-feature-in-feedbin-that/",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2026/08/28/i-have-officially-reached-peak/",
+				
+				"content_html": "<p>I have officially reached peak 🍊. I will no longer watch anything related to this 80-year-old-man-baby-with-a-sharpie. Begone.</p>\n",
+				"content_text": "I have officially reached peak 🍊. I will no longer watch anything related to this 80-year-old-man-baby-with-a-sharpie. Begone.\n",
+				"date_published": "2026-08-28T00:32:20-04:00",
+				"url": "https://www.kaa.bz/2026/08/28/i-have-officially-reached-peak/",
+				"tags": ["Politics"]
+			},
+			{
 				"id": "http://kaa.micro.blog/2026/08/27/in-a-world-where-israel/",
 				
 				"content_html": "<p>In a world where Israel exists, Canada and its ‘nasty people’ is America’s biggest problem. Ok boomer.</p>\n",
@@ -102,8 +137,8 @@
 			{
 				"id": "http://kaa.micro.blog/2026/08/10/first-day-of-holiday-weather/",
 				
-				"content_html": "<p>🍳 First day of holiday. Weather was crap, but hey at least I’m not broken, so that’s a plus. Didn’t get dinner sorted, but got a bunch of little things done and midnight banana bread.</p>\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/d4d9c95fff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "🍳 First day of holiday. Weather was crap, but hey at least I’m not broken, so that’s a plus. Didn’t get dinner sorted, but got a bunch of little things done and midnight banana bread.\n\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/d4d9c95fff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>🍳 First day of holiday. Weather was crap, but hey at least I’m not broken, so that’s a plus. Didn’t get dinner sorted, but got a bunch of little things done and midnight banana bread.</p>\n<img src=\"uploads/2026/d4d9c95fff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "🍳 First day of holiday. Weather was crap, but hey at least I’m not broken, so that’s a plus. Didn’t get dinner sorted, but got a bunch of little things done and midnight banana bread.\n\n\n<img src=\"uploads/2026/d4d9c95fff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-08-10T23:46:13-04:00",
 				"url": "https://www.kaa.bz/2026/08/10/first-day-of-holiday-weather/",
 				"tags": ["Photos","Cooking"]
