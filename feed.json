@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2026/08/30/finished-watching-the-adam-project/",
+				
+				"content_html": "<p>🍿 Finished watching: <a href=\"https://www.themoviedb.org/movie/696806\">The Adam Project</a>. Finally watched a family movie. This one had a few swears in it, but nothing my kids haven’t heard before (sadly). Love time travel stories. This one was a 7/10 (even though the logic fails so many times) - by Ryan Reynolds nails his role.</p>\n",
+				"content_text": "🍿 Finished watching: [The Adam Project](https://www.themoviedb.org/movie/696806). Finally watched a family movie. This one had a few swears in it, but nothing my kids haven’t heard before (sadly). Love time travel stories. This one was a 7/10 (even though the logic fails so many times) - by Ryan Reynolds nails his role.\n",
+				"date_published": "2026-08-30T21:59:11-04:00",
+				"url": "https://www.kaa.bz/2026/08/30/finished-watching-the-adam-project/",
+				"tags": ["Movies"]
+			},
+			{
 				"id": "http://kaa.micro.blog/2026/08/30/its-done-took-a-while/",
 				
 				"content_html": "<p>It’s done. Took a while but have now transitioned everything from Youtube over to Feedbin. I will give YouTube their props for creating RSS feeds for everyone’s account, so it was easy. Meta of course locks Instagram in and has no intention to letting you subscribe from somewhere else. For me, I’ve decided to give Instagram a maximum of 10min/day (if I want). It’s a distraction but I should be spending my time on other things than that.</p>\n<p>Now it’s about finding interesting websites that can fit within the different categories I am interested in.</p>\n",
@@ -41,8 +50,8 @@
 			{
 				"id": "http://kaa.micro.blog/2026/08/28/and-of-course-the-same/",
 				
-				"content_html": "<p>And of course the same thing on Micro.blog.</p>\n<img src=\"uploads/2026/e144cec808.png\" width=\"600\" height=\"410\" alt=\"\">\n",
-				"content_text": "And of course the same thing on Micro.blog.\n\n<img src=\"uploads/2026/e144cec808.png\" width=\"600\" height=\"410\" alt=\"\">\n",
+				"content_html": "<p>And of course the same thing on Micro.blog.</p>\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/e144cec808.png\" width=\"600\" height=\"410\" alt=\"\">\n",
+				"content_text": "And of course the same thing on Micro.blog.\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/e144cec808.png\" width=\"600\" height=\"410\" alt=\"\">\n",
 				"date_published": "2026-08-28T00:56:41-04:00",
 				"url": "https://www.kaa.bz/2026/08/28/and-of-course-the-same/",
 				"tags": ["Photos"]
