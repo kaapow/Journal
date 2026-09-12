@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2026/09/12/less-than-a-week-to/",
+				
+				"content_html": "<p>Less than a week to go before we move. Boxes are in the house now and we have done a lot of <em>shedding</em> (my favourite part of any move). In the new house I want us to be purposeful in our approach for bringing anything new into the house. So much possibilities, just need to try and not get overwhelmed by it all.</p>\n",
+				"content_text": "Less than a week to go before we move. Boxes are in the house now and we have done a lot of _shedding_ (my favourite part of any move). In the new house I want us to be purposeful in our approach for bringing anything new into the house. So much possibilities, just need to try and not get overwhelmed by it all.\n",
+				"date_published": "2026-09-12T07:53:37-04:00",
+				"url": "https://www.kaa.bz/2026/09/12/less-than-a-week-to/"
+			},
+			{
 				"id": "http://kaa.micro.blog/2026/09/10/zane-got-bit-by-one/",
 				
 				"content_html": "<p>Zane got bit by one of those stupid wasps that swarm during September. Poor little guy’s calf muscle was double the size and red. Never see anything like it. Clearly a reaction, but it always seems to happen to him.</p>\n",
@@ -295,8 +303,8 @@
 			{
 				"id": "http://kaa.micro.blog/2026/08/10/first-day-of-holiday-weather/",
 				
-				"content_html": "<p>🍳 First day of holiday. Weather was crap, but hey at least I’m not broken, so that’s a plus. Didn’t get dinner sorted, but got a bunch of little things done and midnight banana bread.</p>\n<img src=\"uploads/2026/d4d9c95fff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "🍳 First day of holiday. Weather was crap, but hey at least I’m not broken, so that’s a plus. Didn’t get dinner sorted, but got a bunch of little things done and midnight banana bread.\n\n\n<img src=\"uploads/2026/d4d9c95fff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>🍳 First day of holiday. Weather was crap, but hey at least I’m not broken, so that’s a plus. Didn’t get dinner sorted, but got a bunch of little things done and midnight banana bread.</p>\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/d4d9c95fff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "🍳 First day of holiday. Weather was crap, but hey at least I’m not broken, so that’s a plus. Didn’t get dinner sorted, but got a bunch of little things done and midnight banana bread.\n\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/d4d9c95fff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-08-10T23:46:13-04:00",
 				"url": "https://www.kaa.bz/2026/08/10/first-day-of-holiday-weather/",
 				"tags": ["Photos","Cooking"]
