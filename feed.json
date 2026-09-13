@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2026/09/12/the-mundo-mendo-book-is/",
+				
+				"content_html": "<p><a href=\"https://www.mundomendo.com/books/\">The Mundo Mendo Book 2</a> is coming out on the 1st of November. Always a joy to loose myself and Luis Mendo’s work.</p>\n",
+				"content_text": "[The Mundo Mendo Book 2](https://www.mundomendo.com/books/) is coming out on the 1st of November. Always a joy to loose myself and Luis Mendo’s work.\n",
+				"date_published": "2026-09-12T23:47:38-04:00",
+				"url": "https://www.kaa.bz/2026/09/12/the-mundo-mendo-book-is/"
+			},
+			{
 				"id": "http://kaa.micro.blog/2026/09/12/less-than-a-week-to/",
 				
 				"content_html": "<p>Less than a week to go before we move. Boxes are in the house now and we have done a lot of <em>shedding</em> (my favourite part of any move). In the new house I want us to be purposeful in our approach for bringing anything new into the house. So much possibilities, just need to try and not get overwhelmed by it all.</p>\n",
@@ -303,8 +311,8 @@
 			{
 				"id": "http://kaa.micro.blog/2026/08/10/first-day-of-holiday-weather/",
 				
-				"content_html": "<p>🍳 First day of holiday. Weather was crap, but hey at least I’m not broken, so that’s a plus. Didn’t get dinner sorted, but got a bunch of little things done and midnight banana bread.</p>\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/d4d9c95fff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "🍳 First day of holiday. Weather was crap, but hey at least I’m not broken, so that’s a plus. Didn’t get dinner sorted, but got a bunch of little things done and midnight banana bread.\n\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/d4d9c95fff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>🍳 First day of holiday. Weather was crap, but hey at least I’m not broken, so that’s a plus. Didn’t get dinner sorted, but got a bunch of little things done and midnight banana bread.</p>\n<img src=\"uploads/2026/d4d9c95fff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "🍳 First day of holiday. Weather was crap, but hey at least I’m not broken, so that’s a plus. Didn’t get dinner sorted, but got a bunch of little things done and midnight banana bread.\n\n\n<img src=\"uploads/2026/d4d9c95fff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-08-10T23:46:13-04:00",
 				"url": "https://www.kaa.bz/2026/08/10/first-day-of-holiday-weather/",
 				"tags": ["Photos","Cooking"]
