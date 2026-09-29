@@ -7,11 +7,37 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2026/09/29/finally-landed-back-in-toronto/",
+				
+				"content_html": "<p>Finally landed back in Toronto. The only way I got through it was by watching season 1 of <em>Succession</em>. Just piled through the entire first season.</p>\n",
+				"content_text": "Finally landed back in Toronto. The only way I got through it was by watching season 1 of _Succession_. Just piled through the entire first season.\n",
+				"date_published": "2026-09-29T16:26:48-04:00",
+				"url": "https://www.kaa.bz/2026/09/29/finally-landed-back-in-toronto/",
+				"tags": ["Toronto"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2026/09/29/beautiful/",
+				
+				"content_html": "<p>Beautiful.</p>\n<img src=\"uploads/2026/ae12caca-358c-4310-bfaf-d1ff8c00e67d.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Beautiful.\n\n<img src=\"uploads/2026/ae12caca-358c-4310-bfaf-d1ff8c00e67d.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-09-28T23:59:24-04:00",
+				"url": "https://www.kaa.bz/2026/09/29/beautiful/",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kaa.micro.blog/2026/09/29/and-the-brutality-of-flying/",
+				
+				"content_html": "<p>And the brutality of flying back begins. An incredible 4 days. Filled with family, friendships, memories, food, stories and laughter. Super emotional but in all the right ways.</p>\n",
+				"content_text": "And the brutality of flying back begins. An incredible 4 days. Filled with family, friendships, memories, food, stories and laughter. Super emotional but in all the right ways.\n",
+				"date_published": "2026-09-28T23:37:26-04:00",
+				"url": "https://www.kaa.bz/2026/09/29/and-the-brutality-of-flying/"
+			},
+			{
 				"id": "http://kaa.micro.blog/2026/09/28/cyprus-vibes/",
 				
 				"content_html": "<p>Cyprus vibes.</p>\n<img src=\"uploads/2026/1baedcaf-fedf-4d53-aab5-9e181ea4b82c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "Cyprus vibes.\n\n<img src=\"uploads/2026/1baedcaf-fedf-4d53-aab5-9e181ea4b82c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2026-09-28T09:01:25+03:00",
+				"date_published": "2026-09-28T02:01:25-04:00",
 				"url": "https://www.kaa.bz/2026/09/28/cyprus-vibes/",
 				"tags": ["Photos"]
 			},
@@ -20,7 +46,7 @@
 				
 				"content_html": "<p>Honestly weirdly I feel like I am a lot more at home here mainly because of all the people I still know and all the memories. My only complaint is the fact that Heathrow is not a quiet airport. The speaker won’t shut up.</p>\n",
 				"content_text": "Honestly weirdly I feel like I am a lot more at home here mainly because of all the people I still know and all the memories. My only complaint is the fact that Heathrow is not a quiet airport. The speaker won’t shut up.\n",
-				"date_published": "2026-09-26T08:42:17+03:00",
+				"date_published": "2026-09-26T01:42:17-04:00",
 				"url": "https://www.kaa.bz/2026/09/26/honestly-weirdly-i-feel-like/"
 			},
 			{
