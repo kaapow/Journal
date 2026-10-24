@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2026/10/24/that-first-sip-of-coffee/",
+				
+				"content_html": "<p>☕️ That first sip of coffee on a Saturday morning after a long week.</p>\n",
+				"content_text": "☕️ That first sip of coffee on a Saturday morning after a long week. \n",
+				"date_published": "2026-10-24T08:00:09-04:00",
+				"url": "https://www.kaa.bz/2026/10/24/that-first-sip-of-coffee/",
+				"tags": ["Coffee"]
+			},
+			{
 				"id": "http://kaa.micro.blog/2026/10/20/techy-or-not-really-been/",
 				
 				"content_html": "<p><a href=\"https://www.youtube.com/@TechyorNot/\">Techy or Not</a>. Really been enjoying this new channel on YouTube. Short videos, giving me the latest tech news. No fluff.</p>\n",
