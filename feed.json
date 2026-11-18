@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://kaa.micro.blog/2026/11/18/avedon-there-are-a-few/",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=q5ZYcXzV1L0\">Avedon</a>. There are a few great documentaries on Netflix at the moment. Really looking forward to watching this one.</p>\n",
+				"content_text": "[Avedon](https://www.youtube.com/watch?v=q5ZYcXzV1L0). There are a few great documentaries on Netflix at the moment. Really looking forward to watching this one.\n",
+				"date_published": "2026-11-18T08:41:27-05:00",
+				"url": "https://www.kaa.bz/2026/11/18/avedon-there-are-a-few/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2026/11/15/for-the-last-couple-of/",
+				
+				"content_html": "<p>For the last couple of weeks I’ve started writing again, consistently every day. Words beget words. Ideas beget ideas. It’s a wonderful cycle that is difficult and frustrating in the moment but across a period of time is a truly wonderful experience.</p>\n",
+				"content_text": "For the last couple of weeks I’ve started writing again, consistently every day. Words beget words. Ideas beget ideas. It’s a wonderful cycle that is difficult and frustrating in the moment but across a period of time is a truly wonderful experience.\n",
+				"date_published": "2026-11-15T13:53:20-05:00",
+				"url": "https://www.kaa.bz/2026/11/15/for-the-last-couple-of/"
+			},
+			{
+				"id": "http://kaa.micro.blog/2026/11/14/finished-watching-the-end-of/",
+				
+				"content_html": "<p>🍿 Finished watching: <a href=\"https://www.themoviedb.org/movie/1101383\">The End of Oak Street</a>. Great family movie - the little one was a little shocked by a few of the scenes but was all in on the 80s vibes.</p>\n",
+				"content_text": "🍿 Finished watching: [The End of Oak Street](https://www.themoviedb.org/movie/1101383). Great family movie - the little one was a little shocked by a few of the scenes but was all in on the 80s vibes.\n",
+				"date_published": "2026-11-14T21:58:10-05:00",
+				"url": "https://www.kaa.bz/2026/11/14/finished-watching-the-end-of/",
+				"tags": ["Movies"]
+			},
+			{
 				"id": "http://kaa.micro.blog/2026/11/11/the-thing-that-i-have/",
 				
 				"content_html": "<p>The thing that I have truly missed during this period of low creativity is the spark. That period in time where you get the idea while making coffee. It’s something that may have eluded you for months, maybe even years, and then seemingly out of nowhere, <em>pop</em>, the idea appears.</p>\n<p>In my case, it’s the name of my latest project that I have been writing things for, on and off, over the last 2-3 years. It’s my family’s history but the story begins centuries ago.</p>\n<p><em>Aside</em>.\nThere is something wonderful about totally dedicated software and hardware. Your mind no longer wonders around looking for things to do, rather it can focus. For a couple of years now I have not been using my iPad except for sketching and drawing. Now I use it every morning as my dedicated writing machine.</p>\n",
@@ -34,8 +59,8 @@
 			{
 				"id": "http://kaa.micro.blog/2026/11/07/this-is-my-ipad-setup/",
 				
-				"content_html": "<p>This is my iPad setup. iA Writer, Claude (as my research assistant) and Procreate (because it’s the single greatest app on the iPad and enough reason to buy an iPad in the first place).</p>\n<img src=\"uploads/2026/img-0533.png\" width=\"600\" height=\"449\" alt=\"\">\n",
-				"content_text": "This is my iPad setup. iA Writer, Claude (as my research assistant) and Procreate (because it’s the single greatest app on the iPad and enough reason to buy an iPad in the first place).\n\n<img src=\"uploads/2026/img-0533.png\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_html": "<p>This is my iPad setup. iA Writer, Claude (as my research assistant) and Procreate (because it’s the single greatest app on the iPad and enough reason to buy an iPad in the first place).</p>\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/img-0533.png\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "This is my iPad setup. iA Writer, Claude (as my research assistant) and Procreate (because it’s the single greatest app on the iPad and enough reason to buy an iPad in the first place).\n\n<img src=\"https://cdn.uploads.micro.blog/2509/2026/img-0533.png\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2026-11-07T19:13:06-05:00",
 				"url": "https://www.kaa.bz/2026/11/07/this-is-my-ipad-setup/",
 				"tags": ["Photos"]
